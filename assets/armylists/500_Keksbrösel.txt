@@ -1,0 +1,44 @@
+
+++ Patrol Detachment 0CP (Imperium - Adeptus Astartes - Raven Guard) [30 PL, 1CP, 499pts] ++
+
++ Configuration +
+
+**Chapter Selector**: Raven Guard
+
+Army of Renown - Vanguard Spearhead
+
+Battle Size [3CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Detachment Command Cost
+
+Game Type: 4. Chapter Approved: War Zone Nephilim
+
++ HQ +
+
+Librarian in Phobos Armour [5 PL, -2CP, 100pts]: 2) Enveloping Darkness, 4) Shadowstep, Master of Ambush, Stratagem: Relic, Stratagem: Warlord Trait, The Armour Indomitus, Warlord
+
++ Troops +
+
+Infiltrator Squad [12 PL, 154pts]: Helix gauntlet, Saboteur Explosive Pack, Voxbreaker Auspex
+. 5x Infiltrator: 5x Bolt pistol, 5x Frag & Krak grenades, 5x Marksman bolt carbine
+. Infiltrator Sergeant
+
++ Elites +
+
+Reiver Squad [5 PL, 95pts]: Combat knife, Grapnel Launcher
+. 4x Reiver: 4x Frag & Krak grenades, 4x Special issue bolt pistol
+. Reiver Sergeant: Combat knife
+
++ Heavy Support +
+
+Eliminator Squad [4 PL, 75pts]: Las Fusil
+. Eliminator Sergeant: Instigator Bolt Carbine
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+Eliminator Squad [4 PL, 75pts]: Las Fusil
+. Eliminator Sergeant: Instigator Bolt Carbine
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+++ Total: [30 PL, 1CP, 499pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
