@@ -1,11 +1,11 @@
 ---
 layout: single
-title: Platzhalter Paarung
+title: Keksbrösel vs. Rem
 excerpt: Monat 1
 ---
 
-Dies ist ein Platzhalter.
+Hier ist eigentlich kein Text notwendig.
 
 | Spieler/In A | Spieler/In B |
 |-------------|------------|
-| [keksbrösel]({{ site.url }}/spielerinnen/keksbroesel) | [keksbrösel]({{ site.url }}/spielerinnen/keksbroesel) |
+| [keksbrösel]({{ site.url }}/spielerinnen/keksbroesel) | [Rem]({{ site.url }}/spielerinnen/rem) |

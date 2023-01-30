@@ -1,0 +1,60 @@
+
+++ Arks of Omen Detachment (Aeldari - Craftworlds) [38 PL, 3CP, 750pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Craftworld Selection
+. *Far-Flung Craftworld*: Hail of Doom
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ No Force Org Slot +
+
+Seer Council (Unit) [2 PL, 45pts]
+. Warlocks: 5. Quicken/Restrain
+. . Warlock: Witchblade
+
++ HQ +
+
+Farseer Skyrunner [6 PL, -2CP, 140pts]: 2. Doom, 4. Executioner, 5: Mark of the Incomparable Hunter, Singing Spear, Stratagem: Relic, Stratagem: Warlord Trait, Warlord
+. Kurnous' Bow
+
++ Troops +
+
+Rangers [4 PL, 65pts]
+. 5x Ranger: 5x Ranger Long Rifle, 5x Shuriken Pistol
+
+Rangers [4 PL, 65pts]
+. 5x Ranger: 5x Ranger Long Rifle, 5x Shuriken Pistol
+
+Rangers [4 PL, 65pts]
+. 5x Ranger: 5x Ranger Long Rifle, 5x Shuriken Pistol
+
++ Elites +
+
+Dire Avengers [6 PL, 130pts]
+. 9x Dire Avenger: 9x Avenger Shuriken Catapult, 9x Plasma Grenades
+. Dire Avenger Exarch: Two Avenger Shuriken Catapults
+
+Dire Avengers [6 PL, 130pts]
+. 9x Dire Avenger: 9x Avenger Shuriken Catapult, 9x Plasma Grenades
+. Dire Avenger Exarch: Two Avenger Shuriken Catapults
+
+Warlock Skyrunners [3 PL, -1CP, 65pts]: 4. Protect/Jinx, Stratagem: Treasures of the Aeldari
+. Sunstorm
+. Warlock Skyrunner: Witchblade
+
++ Fast Attack +
+
+Vypers [3 PL, 45pts]
+. Vyper w/ Shuriken Cannon: Shuriken cannon
+
+++ Total: [38 PL, 3CP, 750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
