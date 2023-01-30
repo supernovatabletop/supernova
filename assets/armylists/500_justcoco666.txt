@@ -1,0 +1,35 @@
+++ Patrol Detachment 0CP (Chaos - Death Guard) [27 PL, 500pts] ++
+
++ Configuration +
+
+Detachment Command Cost
+
+Gametype
+
+Plague Company: The Ferrymen
+
++ HQ +
+
+Lord of Contagion [7 PL, 140pts]: Acidic Malady, Ferryman's Scythe, Manreaper and orb of desiccation, Warlord
+
+Malignant Plaguecaster [5 PL, 90pts]: 1. Miasma of Pestilence, 4. Putrescent Vitality
+
++ Troops +
+
+Plague Marines [6 PL, 105pts]
+. Plague Champion: Powerfist, Plasmagun
+. 3x Plague Marine w/ boltgun: 4x Blight grenades, 4x Boltgun, 4x Krak grenades, 4x Plague knife
+. 1x Plague Marine w/ Blightlauncher
+
+Plague Marines [6 PL, 105pts]
+. Plague Champion: Powerfist, Plasmagun
+. 3x Plague Marine w/ boltgun: 4x Blight grenades, 4x Boltgun, 4x Krak grenades, 4x Plague knife
+. 1x Plague Marine w/ Blightlauncher
+
++ Elites +
+
+Noxious Blightbringer [3 PL, 60pts]: Plague Skull of Glothila
+
+++ Total: [27 PL, 500pts] ++
+
+Created with BattleScribe (https://battlescribe.net/)

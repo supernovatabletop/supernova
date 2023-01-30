@@ -1,0 +1,24 @@
+Patrol Detachment (500 pkt, 0CP)
+Regimental Doctrine: Born Soldiers
+
+HQ
+Cadian Command Squad: Plasma, Mastervox, Med Pack, Standard [75]
+
+Troops
+Infantry Squad: Vox + Mortar (Heavy Weapon) + Plasmagun + Boltgun (Sergeant) [65]
+Infantry Squad: Vox + Mortar (Heavy Weapon) + Plasmagun + Boltgun (Sergeant) [65]
+Cadian Shock Troop: Vox + Meltagun + Meltagun + Drum Fed Autogun [65]
+
+Transport
+Chimera: Heavy Flamer [85]
+
+Elite
+Kasrkin: 2x Hotshot Volleygun, Voxcaster, Extra Regimental Doctrine: Brutal Strength [100]
+Relic: Barbacany Key -1CP
+
+Fast
+Armored Sentinel: Militarum Plasmacannon [45]
+
+
+Warlord Trait: Tactical Training -1CP
+Relic: Tactical Auto Reliquary of Tiberius –1CP

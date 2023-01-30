@@ -1,0 +1,40 @@
+++ Patrol Detachment 0CP (Orks) [28 PL, 1CP, 500pts] ++
+
++ Configuration +
+
+Battle Size [3CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Clan Kultur: Goffs
+
+Detachment Command Cost
+
+Game Type: 4. Chapter Approved: War Zone Nephilim
+
++ HQ +
+
+Beastboss on Squigosaur [9 PL, -2CP, 160pts]: 3. 'Ard as Nails, Headwoppa's Killchoppa, Stratagem: Relic, Stratagem: Warlord Trait, Warlord
+
++ Troops +
+
+Boyz [5 PL, 80pts]: Trukk Boyz
+. Boss Nob: Choppa, Slugga
+. 9x Ork Boy w/ Slugga & Choppa: 9x Choppa, 9x Slugga, 9x Stikkbombs
+
+Gretchin [2 PL, 40pts]
+. 10x Gretchin: 10x Grot Blaster
+
++ Fast Attack +
+
+Squighog Boyz [4 PL, 75pts]
+. 3x Squighog Boy: 3x Saddlegit Weapons, 3x Squighog Jaws, 3x Stikka
+
+Squighog Boyz [4 PL, 75pts]
+. 3x Squighog Boy: 3x Saddlegit Weapons, 3x Squighog Jaws, 3x Stikka
+
++ Dedicated Transport +
+
+Trukk [4 PL, 70pts]
+
+++ Total: [28 PL, 1CP, 500pts] ++
+
+Created with BattleScribe (https://battlescribe.net/)

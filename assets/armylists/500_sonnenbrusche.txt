@@ -1,0 +1,39 @@
+++ Patrol Detachment 0CP (Imperium - Adeptus Astartes - Black Templars) [31 PL, , 498pts] ++
+
++ Configuration +
+
+Battle Size [3CP]: 1. Combat Patrol (0-50 Total PL / 0-500 Points)
+
+Chapter Selection: Black Templars
+
+Detachment Command Cost
+
+Gametype: 4. Chapter Approved: War Zone Nephilim
+
++ HQ +
+
+Chaplain [5 PL, -1CP, 80pts]: 1. Litany of Divine Protection, Bolt pistol, Litany of Hate, Stratagem: Relic, The Honor Vehement, Warlord
+
++ Troops +
+
+Primaris Crusader Squad [11 PL, -2CP, 188pts]: Bolt Pistol and Astartes Chainsword, Bones of Mordred
+. 3x Primaris Initiate w/Chainsword & Heavy Bolt Pistol: 3x Astartes Chainsword, 3x Frag & Krak grenades, 3x Heavy Bolt Pistol
+. 2x Primaris Initiate w/Power Fist and Heavy bolt pistol: 2x Frag & Krak grenades, 2x Heavy Bolt Pistol, 2x Power fist
+. 4x Primaris Neophytes: 4x Frag & Krak grenades
+. Primaris Sword Brother: Heavy Bolt Pistol, Power sword, Stratagem: Champion of the Feast, Stratagem: Revered Repositories, Sword of Judgement
+
++ Elites +
+
+Bladeguard Veteran Squad [11 PL, 155pts]: Icon of Heinmann
+. 3x Bladeguard Veteran: 3x Frag & Krak grenades, 3x Heavy Bolt Pistol, 3x Master-crafted power sword, 3x Storm Shield
+. Bladeguard Veteran Sergeant: Heavy Bolt Pistol
+
++ Heavy Support +
+
+Eliminator Squad [4 PL, 75pts]: Las Fusil
+. Eliminator Sergeant: Las Fusil
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+++ Total: [31 PL, 498pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

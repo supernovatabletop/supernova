@@ -1,0 +1,44 @@
+
+++ Patrol Detachment 0CP (Imperium - Astra Militarum) [28 PL, 2CP, 499pts] ++
+
++ Configuration +
+
+Battle Size [3CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Detachment Command Cost
+
+Game Type: 4. Chapter Approved: War Zone Nephilim
+
+Regimental Doctrine: Gunnery Experts
+
++ HQ +
+
+Lord Commissar [2 PL, -1CP, 45pts]: Plasma pistol, Power fist, Power sword, Stratagem: Warlord Trait, Warlord, WT: Master of Command
+
+Primaris Psyker [3 PL, 50pts]: Terrifying Visions
+
++ Troops +
+
+Militarum Tempestus Scions [5 PL, 100pts]
+. 8x Scion: 8x Frag & Krak grenades, 8x Hot-shot lasgun
+. Scion w/ Special Weapon: Meltagun
+. Tempestor: Chainsword, Hot-shot Laspistol
+
+Militarum Tempestus Scions [5 PL, 91pts]
+. 7x Scion: 7x Frag & Krak grenades, 7x Hot-shot lasgun
+. Scion w/ Special Weapon: Meltagun
+. Tempestor: Chainsword, Hot-shot Laspistol
+
+Militarum Tempestus Scions [5 PL, 73pts]
+. 5x Scion: 5x Frag & Krak grenades, 5x Hot-shot lasgun
+. Scion w/ Special Weapon: Plasma gun
+. Tempestor: Chainsword, Hot-shot Laspistol
+
++ Heavy Support +
+
+Wyverns [8 PL, 140pts]
+. Wyvern: Heavy Bolter, Hunter-Killer Missile
+
+++ Total: [28 PL, 2CP, 499pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

@@ -1,0 +1,31 @@
+++ Patrol Detachment 0CP (T'au Empire) [25 PL, 500pts] ++
+
++ Configuration +
+
+Sept Choice: T'au Sept
+
++ HQ +
+
+Commander in Coldstar Battlesuit [9 PL, 180pts]: 3. A Ghost Walks Among Us, High-output Burst Cannon, Missile Pod, Resonator Warheads, Shield Generator, T'au Flamer, The Be'gel Hunter's Plate, Warlord
+
++ Troops +
+
+Breacher Team [5 PL, 85pts]
+. 9x Breacher Fire Warrior: 9x Pulse Blaster, 9x Pulse Pistol
+
++ Fast Attack +
+
+Pathfinder Team [5 PL, 100pts]
+. 7x Pathfinder: 7x Markerlight, 7x Pulse Carbine, 7x Pulse Pistol
+. Pathfinder Shas'ui
+. 2x Pathfinder w/ Rail Rifle: 2x Pulse Pistol, 2x Rail Rifle
+
++ Heavy Support +
+
+Broadside Battlesuits [6 PL, 135pts]
+. Broadside Shas'vre: Heavy Rail Rifle, Seeker Missile, Twin Smart Missile System
+. 2x Missile Drone: 2x Missile Pod
+
+++ Total: [25 PL, 500pts] ++
+
+Created with BattleScribe (https://battlescribe.net/)
