@@ -8,4 +8,4 @@ Dies ist ein Platzhalter.
 
 | Spieler/In A | Spieler/In B |
 |-------------|------------|
-| [keksbrösel](/spielerinnen/keksbroesel) | [keksbrösel](/spielerinnen/keksbroesel) |
+| [keksbrösel]({{ site.url }}/spielerinnen/keksbroesel) | [keksbrösel]({{ site.url }}/spielerinnen/keksbroesel) |
