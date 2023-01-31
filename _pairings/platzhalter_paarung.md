@@ -8,19 +8,19 @@ Runde 1 der Supernova Escalation Liga.
 
 | Spieler/In A | Spieler/In B |
 |-------------|------------|
-| [Army]({{ site.url }}/spielerinnen/army) | [just_Coco666]({{ site.url }}/spielerinnen/justcoco666) |
-| [Army]({{ site.url }}/spielerinnen/army) | [BENNZ]({{ site.url }}/spielerinnen/bennz) |
-| [Stardewd]({{ site.url }}/spielerinnen/stardewd) | [Askonnox]({{ site.url }}/spielerinnen/askonnox) |
-| [Stardewd]({{ site.url }}/spielerinnen/stardewd) | [Madeleine]({{ site.url }}/spielerinnen/madeleine) |
-| [GripOfChaos]({{ site.url }}/spielerinnen/gripofchaos) | [Plops_70]({{ site.url }}/spielerinnen/plops70) |
-| [GripOfChaos]({{ site.url }}/spielerinnen/gripofchaos) | [KaneMotri]({{ site.url }}/spielerinnen/kanemotri) |
-| [AUT Shorty]({{ site.url }}/spielerinnen/autshorty) | [Keksbrösel]({{ site.url }}/spielerinnen/keksbroesel) |
-| [AUT Shorty]({{ site.url }}/spielerinnen/autshorty) | [Sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) |
-| [Rudolf_Wagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | [BENNZ]({{ site.url }}/spielerinnen/bennz) |
-| [Rudolf_Wagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | [KaneMotri]({{ site.url }}/spielerinnen/kanemotri) |
-| [Seebusch]({{ site.url }}/spielerinnen/seebusch) | [Plops_70]({{ site.url }}/spielerinnen/plops70) |
-| [Seebusch]({{ site.url }}/spielerinnen/seebusch) | [Plops_70]({{ site.url }}/spielerinnen/plops70) |
-| [Madeleine]({{ site.url }}/spielerinnen/madeleine) | [just_Coco666]({{ site.url }}/spielerinnen/justcoco666) |
-| [Askonnox]({{ site.url }}/spielerinnen/askonnox) | [Keksbrösel]({{ site.url }}/spielerinnen/keksbroesel) |
-| [Desmont]({{ site.url }}/spielerinnen/desmont) | [Grimm]({{ site.url }}/spielerinnen/grimm) |
-| [Desmont]({{ site.url }}/spielerinnen/desmont) | [Rudolf_Wagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) |
+| [army]({{ site.url }}/spielerinnen/army) | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) |
+| [army]({{ site.url }}/spielerinnen/army) | [bennz]({{ site.url }}/spielerinnen/bennz) |
+| [stardewd]({{ site.url }}/spielerinnen/stardewd) | [askonnox]({{ site.url }}/spielerinnen/askonnox) |
+| [stardewd]({{ site.url }}/spielerinnen/stardewd) | [madeleine]({{ site.url }}/spielerinnen/madeleine) |
+| [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [plops70]({{ site.url }}/spielerinnen/plops70) |
+| [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) |
+| [autshorty]({{ site.url }}/spielerinnen/autshorty) | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) |
+| [autshorty]({{ site.url }}/spielerinnen/autshorty) | [sonnenbrusche]({{ site.url }}/spielerinnen/sonnenbursche) |
+| [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | [bennz]({{ site.url }}/spielerinnen/bennz) |
+| [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) |
+| [seebusch]({{ site.url }}/spielerinnen/seebusch) | [plops70]({{ site.url }}/spielerinnen/plops70) |
+| [seebusch]({{ site.url }}/spielerinnen/seebusch) | [plops70]({{ site.url }}/spielerinnen/plops70) |
+| [madeleine]({{ site.url }}/spielerinnen/madeleine) | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) |
+| [askonnox]({{ site.url }}/spielerinnen/askonnox) | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) |
+| [desmont]({{ site.url }}/spielerinnen/desmont) | [grimm]({{ site.url }}/spielerinnen/grimm) |
+| [desmont]({{ site.url }}/spielerinnen/desmont) | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) |
