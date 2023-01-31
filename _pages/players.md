@@ -1,10 +1,10 @@
 ---
 permalink: /spielerinnen/
-title: Spielerinnen
+title: Spieler:innen
 layout: collection
 collection: players
 entries_layout: grid
 classes: wide
 ---
 
-Hier findest du all unsere Spieler/Innen!
+Hier findest du all unsere Teilnehmer:innen!
