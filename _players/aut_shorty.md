@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "AUT_Shorty"
+title: Linus "AUT_Shorty"
 excerpt: Astra Militarum
 ---
 

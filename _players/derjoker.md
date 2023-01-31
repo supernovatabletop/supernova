@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Der Joker"
+title: Fil "Der Joker"
 excerpt: Blood Angels
 ---
 

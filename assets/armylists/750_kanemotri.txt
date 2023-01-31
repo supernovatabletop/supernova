@@ -1,0 +1,56 @@
+++ Arks of Omen Detachment (Aeldari - Craftworlds) [39 PL, 3CP, 744pts] ++
+
++ Configuration [6CP] +
+
+Arks of Omen Compulsory Type: Fast Attack
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points)  [6CP]
+
+Craftworld Selection: Ulthwe: Foresight of the Damned
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ Stratagems [-1CP] +
+
+Stratagem: Relics of the Shrines [-1CP]
+
++ No Force Org Slot [3 PL, 70pts] +
+
+Seer Council (Unit) [3 PL, 70pts]
+. Warlock Skyrunners [3 PL, 70pts]: 5. Quicken/Restrain
+. . Warlock Skyrunner [70pts]: Singing Spear [5pts]
+
++ HQ [6 PL, -2CP, 135pts] +
+
+Farseer Skyrunner [6 PL, -2CP, 135pts]: 1. Fateful Divergence, 2. Doom, 5. Will of Asuryan, Stratagem: Relic [-1CP], Stratagem: Warlord Trait [-1CP], Ulthwe: Fate Reader, Warlord, Witchblade
+. The Ghosthelm of Alishazier
+
++ Troops [4 PL, 65pts] +
+
+Rangers [4 PL, 65pts]
+. 5x Ranger [65pts]: 5x Ranger Long Rifle, 5x Shuriken Pistol
+
++ Elites [12 PL, 199pts] +
+
+Howling Banshees [9 PL, 129pts]
+. 5x Howling Banshee [95pts]: 5x Banshee Blade, 5x Shuriken Pistol
+. Howling Banshee Exarch [1 PL, 34pts]: Cronescream (Shrine Relic), Mirrorswords, Piercing Strikes [1 PL, 15pts]
+
+Warlock Skyrunners [3 PL, 70pts]: 4. Protect/Jinx
+. Warlock Skyrunner [70pts]: Singing Spear [5pts]
+
++ Fast Attack [14 PL, 275pts] +
+
+Shining Spears [6 PL, 130pts]
+. 2x Shining Spear [70pts]: 2x Laser Lance, 2x Twin Shuriken Catapult
+. Shining Spear Exarch [1 PL, 60pts]: Heartstrike [1 PL, 20pts], Khaine's Lance (Shrine Relic), Paragon Sabre, Shimmershield [5pts], Twin Shuriken Catapult
+
+Shroud Runners [5 PL, 90pts]
+. 3x Shroud Runner [90pts]: 3x Ranger Long Rifle, 3x Scatter Laser, 3x Shuriken Pistol
+
+Vypers [3 PL, 55pts]
+. Vyper w/ Bright Lance [3 PL, 55pts]: Bright Lance [15pts]
+
+Created with BattleScribe (https://battlescribe.net/)

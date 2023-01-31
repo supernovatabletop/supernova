@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ScurvyMcG"
+title: Konstantin "ScurvyMcG"
 excerpt: Drukhari
 ---
 
