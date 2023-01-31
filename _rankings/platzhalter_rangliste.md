@@ -14,7 +14,7 @@ Runde 1 der Supernova Escalation Liga.
 | 1           | [GripOfChaos]({{ site.url }}/spielerinnen/gripofchaos) | 2 | 2 | 2 | 6 |
 | 1           | [Army]({{ site.url }}/spielerinnen/army) | 2 | 2 | 2 | 6 |
 | 1           | [Rudolf_Wagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | 2 | 2 | 2 | 6 |
-| 2           | [Sonnenbrusche]({{ site.url }}/spielerinnen/sonnenbrusche) | 2 | 1 | 2 | 5 |
+| 2           | [Sonnenbrusche]({{ site.url }}/spielerinnen/sonnenbursche) | 2 | 1 | 2 | 5 |
 | 2           | [Madeleine]({{ site.url }}/spielerinnen/madeleine) | 2 | 1 | 2 | 5 |
 | 2           | [desmont]({{ site.url }}/spielerinnen/desmont) | 2 | 1 | 2 | 5 |
 | 3           | [BENNZ]({{ site.url }}/spielerinnen/bennz) | 2 | 0 | 2 | 4 |
