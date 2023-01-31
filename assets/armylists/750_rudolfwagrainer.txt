@@ -1,0 +1,80 @@
+
+++ Patrol Detachment 0CP (Imperium - Astra Militarum) [39 PL, 3CP, 750pts] ++
+
++ Configuration +
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
+Regimental Doctrine: Born Soldiers
+
++ HQ +
+
+Cadian Command Squad [4 PL, -1CP, 75pts]: Stratagem: Officer Cadre
+. Cadian Commander: Bolt pistol, Power sword
+. Cadian Veterans
+. . Cadian Veteran w/ chainsword: Laspistol, Plasma gun
+. . Cadian Veteran w/ Master-Vox: Laspistol
+. . Cadian Veteran w/ Regimental Standard
+. . . Lasgun and Regimental Standard
+. WT: Superior Tactical Training: Prefectus Orders
+
+Ursula Creed [4 PL, -1CP, 80pts]: Stratagem: Warlord Trait, Warlord, WT: Master Tactician
+
++ Troops +
+
+Cadian Shock Troops [3 PL, 65pts]
+. 6x Shock Trooper: 6x Lasgun
+. Shock Trooper Sergeant: Drum-fed Autogun
+. Shock Trooper w/ Special Weapon: Meltagun
+. Shock Trooper w/ Special Weapon: Meltagun
+. Shock Trooper w/ Vox-caster
+
+Infantry Squad [3 PL, 65pts]
+. 5x Guardsman: 5x Lasgun
+. Guardsman W/ Special Weapon: Plasma gun
+. Guardsman w/ Vox-caster
+. Heavy Weapon Team: Mortar
+. Sergeant: Boltgun
+
+Infantry Squad [3 PL, 65pts]
+. 5x Guardsman: 5x Lasgun
+. Guardsman W/ Special Weapon: Plasma gun
+. Guardsman w/ Vox-caster
+. Heavy Weapon Team: Mortar
+. Sergeant: Boltgun
+
++ Elites +
+
+Kasrkin [5 PL, -1CP, 100pts]: Brutal Strength
+. Kasrkin Sargeant: Chainsword, Hot-shot Laspistol, Relic: The Barbicant's Key, Stratagem: Battlefield Bequest
+. 7x Kasrkin w/ Hot-shot Lasgun: 7x Frag & Krak grenades, 7x Hot-shot Lasgun
+. Kasrkin w/ Special Weapon: Hot-shot Volley Gun
+. Kasrkin w/ Special Weapon: Hot-shot Volley Gun
+
+Kasrkin [5 PL, 100pts]: Mechanised Infantry
+. Kasrkin Sargeant: Bolt pistol
+. 5x Kasrkin w/ Hot-shot Lasgun: 5x Frag & Krak grenades, 5x Hot-shot Lasgun
+. Kasrkin w/ Special Weapon: Hot-shot Volley Gun
+. Kasrkin w/ Special Weapon: Hot-shot Volley Gun
+. Kasrkin w/ Special Weapon: Meltagun
+. Kasrkin w/ Special Weapon: Meltagun
+
++ Fast Attack +
+
+Armoured Sentinels [3 PL, 45pts]
+. Armoured Sentinel: Militarum Plasma Cannon
+
++ Dedicated Transport +
+
+Chimera [5 PL, 85pts]: Chimera Multi-laser
+. Heavy Flamer
+
+Taurox [4 PL, 70pts]
+
+++ Total: [39 PL, 3CP, 750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

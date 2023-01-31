@@ -1,0 +1,58 @@
+
+++ Arks of Omen Detachment (Imperium - Adeptus Astartes - Raven Guard) [42 PL, 2CP, 740pts] ++
+
++ Configuration +
+
+**Chapter Selector**: Raven Guard
+
+Arks of Omen Compulsory Type: Troops
+
+Army of Renown - Vanguard Spearhead
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ HQ +
+
+Librarian in Phobos Armour [5 PL, -3CP, 90pts]: 1. Shoot and Fade, 2) Enveloping Darkness, 4) Shadowstep, Master of Ambush, Stratagem: Master of the Trifold Path, Stratagem: Relic, Stratagem: Warlord Trait, The Armour Indomitus, Warlord
+
++ Troops +
+
+Incursor Squad [5 PL, 90pts]: Haywire Mine
+. 4x Incursor: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Occulus bolt carbine, 4x Paired combat blades
+. Incursor Sergeant
+
+Infiltrator Squad [6 PL, 100pts]: Helix gauntlet
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. Infiltrator Sergeant
+
++ Elites +
+
+Invictor Tactical Warsuit [8 PL, 140pts]: Twin ironhail autocannon
+
+Reiver Squad [5 PL, 80pts]: Combat knife
+. 4x Reiver: 4x Frag & Krak grenades, 4x Special issue bolt pistol
+. Reiver Sergeant: Combat knife
+
++ Fast Attack +
+
+Suppressor Squad [5 PL, 90pts]
+. 2x Suppressor: 2x Accelerator autocannon, 2x Bolt pistol, 2x Frag & Krak grenades
+. Suppressor Sergeant
+
++ Heavy Support +
+
+Eliminator Squad [4 PL, -1CP, 75pts]: Las Fusil
+. Eliminator Sergeant: Instigator Bolt Carbine, Stratagem: Favor of the Ravenspire
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+Eliminator Squad [4 PL, 75pts]: Las Fusil
+. Eliminator Sergeant: Instigator Bolt Carbine
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+++ Total: [42 PL, 2CP, 740pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

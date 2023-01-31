@@ -1,0 +1,58 @@
+
+++ Arks of Omen Detachment (Aeldari - Drukhari) [44 PL, 3CP, 747pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Elites
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
+Obsession: Kabal of the Obsidian Rose: Flawless Workmanship
+
++ Stratagems +
+
+Stratagem: Prizes from the Dark City [-1CP]
+
++ HQ +
+
+Archon [5 PL, -2CP, 85pts]: As Detachment (Kabal), Hatred Eternal, Huskblade, Overlord, Splinter Pistol, Stratagem: Relic, Stratagem: Warlord Trait, The Djin Blade, Warlord
+. Splintered Genius (Obsidian Rose): Splintered Genius
+
++ Troops +
+
+Kabalite Trueborn [8 PL, 92pts]: As Detachment (Kabal)
+. 5x Kabalite Trueborn: 5x Splinter Rifle
+. Kabalite Trueborn w/ Special Weapon: Blaster
+. Trueborn Sybarite: Phantasm Grenade Launcher, Splinter Rifle
+
+Wyches [3 PL, 50pts]: *Random x 2* (Combat Drug), As Detachment (Wych Cult)
+. Hekatrix: Hekatarii Blade, Splinter Pistol
+. 4x Wych: 4x Hekatarii Blade, 4x Plasma Grenades, 4x Splinter Pistol
+
++ Elites +
+
+Incubi [4 PL, 90pts]
+. 4x Incubi: 4x Klaive
+. Klaivex: Demiklaives
+
+Incubi [4 PL, 90pts]
+. 4x Incubi: 4x Klaive
+. Klaivex: Demiklaives
+
++ Heavy Support +
+
+Ravager [8 PL, 130pts]: As Detachment (Kabal), 3x Dark Lance
+
++ Dedicated Transport +
+
+Raider [6 PL, 105pts]: As Detachment, Dark Lance
+
+Raider [6 PL, 105pts]: As Detachment, Dark Lance
+
+++ Total: [44 PL, 3CP, 747pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

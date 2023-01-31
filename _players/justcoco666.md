@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "just_Coco666"
+title: Constantin "just_Coco666"
 excerpt: Death Guard
 ---
 

@@ -1,0 +1,60 @@
+
+++ Arks of Omen Detachment (Aeldari - Craftworlds) [38 PL, 4CP, 750pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Craftworld Selection: Ynnari: Strength From Death
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ Stratagems +
+
+Stratagem: Relics of the Shrines [-1CP]
+
++ HQ +
+
+Farseer [5 PL, 105pts]: 3. Ghostwalk, 4. Unbind Souls (Malediction), Warlord, Witchblade
+
+Shadowseer [5 PL, -1CP, 100pts]: 1: Favour of Cegorach, 2. Fog of Dreams (Blessing), 3. Mirror of Minds (Witchfire), Shuriken Pistol, Stratagem: Champion of the Aeldari
+
++ Troops +
+
+Rangers [4 PL, 65pts]
+. 5x Ranger: 5x Ranger Long Rifle, 5x Shuriken Pistol
+
+Rangers [4 PL, 65pts]
+. 5x Ranger: 5x Ranger Long Rifle, 5x Shuriken Pistol
+
+Troupe [4 PL, 85pts]
+. Lead Player: Harlequin's Kiss, Shuriken Pistol
+. Player: Harlequin's Kiss, Shuriken Pistol
+. Player: Harlequin's Embrace, Shuriken Pistol
+. Player: Harlequin's Blade, Shuriken Pistol
+. Player: Harlequin's Caress, Shuriken Pistol
+
++ Elites +
+
+Howling Banshees [5 PL, 110pts]
+. 4x Howling Banshee: 4x Banshee Blade, 4x Shuriken Pistol
+. Howling Banshee Exarch: Cronescream (Shrine Relic), Mirrorswords, Piercing Strikes
+
++ Fast Attack +
+
+Shroud Runners [5 PL, 90pts]
+. 3x Shroud Runner: 3x Ranger Long Rifle, 3x Scatter Laser, 3x Shuriken Pistol
+
++ Heavy Support +
+
+Support Weapons [3 PL, 65pts]: Support Weapon w/ D-Cannon
+
+Support Weapons [3 PL, 65pts]: Support Weapon w/ D-Cannon
+
+++ Total: [38 PL, 4CP, 750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

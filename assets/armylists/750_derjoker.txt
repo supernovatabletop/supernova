@@ -1,0 +1,52 @@
+
+++ Arks of Omen Detachment (Imperium - Adeptus Astartes - Blood Angels) [48 PL, 2CP, 750pts] ++
+
++ Configuration +
+
+**Chapter Selector**: Blood Angels
+
+Arks of Omen Compulsory Type: Elites
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ HQ +
+
+Sanguinary Priest [7 PL, -2CP, 150pts]: Astartes Chainsword, Bolt pistol, Chapter Command:  Chief Apothecary, Jump Pack, Selfless Healer, Stratagem: Hero of the Chapter, Stratagem: Relic, The Armour Indomitus
+
++ Troops +
+
+Infiltrator Squad [6 PL, 100pts]: Helix gauntlet
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. Infiltrator Sergeant
+
++ Elites +
+
+Death Company Marines [8 PL, 135pts]: Jump Pack
+. Death Company Marine: Inferno pistol, Power sword
+. Death Company Marine: Inferno pistol, Power sword
+. Death Company Marine: Inferno pistol, Power sword
+. 2x Death Company Marine w/ thunder hammer: 2x Frag & Krak grenades, 2x Thunder hammer
+
+Sanguinary Ancient [6 PL, -2CP, 110pts]: Encarmine axe, Inferno pistol, Rites of War, Stratagem: Relic of the Chapter, Stratagem: Warlord Trait, Warlord, Wrath of Baal
+
+Sanguinary Guard [17 PL, 180pts]
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Inferno pistol, Power fist
+. Sanguinary Guard: Inferno pistol, Power fist
+
++ Heavy Support +
+
+Eliminator Squad [4 PL, 75pts]: Las Fusil
+. Eliminator Sergeant: Instigator Bolt Carbine
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+++ Total: [48 PL, 2CP, 750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

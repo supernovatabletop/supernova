@@ -1,0 +1,49 @@
+
+++ Arks of Omen Detachment (Leagues of Votann) [32 PL, 3CP, 750pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Fast Attack
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
+League: Ymyr Conglomerate
+
++ HQ +
+
+High Kâhl [6 PL, -2CP, 130pts]: A Long List, Autoch-pattern combi-bolter, Forgewrought plasma axe, Grudge's End, High Kâhl, Stratagem: In the Right Hands, Stratagem: Warlord Trait, Teleport crest, Warlord
+
++ Troops +
+
+Hearthkyn Warriors w/ bolters [7 PL, 145pts]
+. Theyn: Autoch-pattern bolt pistol, Autoch-pattern bolter
+. 6x Warrior: 6x Autoch-pattern bolt pistol, 6x Autoch-pattern bolter, 6x Gravitic concussion grenades
+. Warrior w/ comms array: Multiwave comms array
+. Warrior w/ medipack: Medipack
+. Warrior w/ scanner: Pan spectral scanner
+
++ Elites +
+
+Hearthguard w/ disintegrators and concussion gauntlets [9 PL, -1CP, 225pts]
+. 4x Hearthguard: 4x Concussion gauntlet, 4x Exo-armour grenade launcher, 4x Volkanite disintegrator
+. Hesyr: Concussion gauntlet, Stratagem: Bequest of the Votann, Teleport crest, Wârpestryk
+
++ Fast Attack +
+
+Hernkyn Pioneers [5 PL, 125pts]
+. Pioneer w/ HYLas rotary cannon: HYLas rotary cannon
+. Pioneer w/ scanner: Pan spectral scanner
+. Pioneer w/ searchlight: Rollbar searchlight
+
+Hernkyn Pioneers [5 PL, 125pts]
+. Pioneer w/ HYLas rotary cannon: HYLas rotary cannon
+. Pioneer w/ scanner: Pan spectral scanner
+. Pioneer w/ searchlight: Rollbar searchlight
+
+++ Total: [32 PL, 3CP, 750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

@@ -1,0 +1,51 @@
+++ Arks of Omen Detachment (Imperium - Adeptus Mechanicus) [43 PL, 3CP, 745pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Heavy Support
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Detachment Command Cost
+
+Forge World Choice: <Mixed>
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ HQ +
+
+Tech-Priest Dominus [4 PL, -3CP, 70pts]: Macrostubber, Relic (Ryza): Weapon XCIX, Relic (Stygies VIII): The Omnissiah's Hand, Volkite Blaster, Warlord, Warlord Trait (Codex 1): Emotionless Clarity
+. Stratagem: Archeotech Specialist: Archeotech Specialist
+. Stratagem: Relic
+. Stratagem: Warlord Trait
+
+Tech-Priest Enginseer [3 PL, 50pts]
+
++ Troops +
+
+Kataphron Destroyers [14 PL, 240pts]
+. Kataphron Destroyer: Heavy Grav-Cannon, Phosphor Blaster
+. Kataphron Destroyer: Heavy Grav-Cannon, Phosphor Blaster
+. Kataphron Destroyer: Heavy Grav-Cannon, Phosphor Blaster
+. Kataphron Destroyer: Heavy Grav-Cannon, Phosphor Blaster
+. Kataphron Destroyer: Heavy Grav-Cannon, Phosphor Blaster
+. Kataphron Destroyer: Heavy Grav-Cannon, Phosphor Blaster
+
++ Elites +
+
+Sicarian Infiltrators [4 PL, 85pts]
+. Infiltrator Princeps (Stub/Sword)
+. 4x Sicarian Infiltrator (Stub/Sword): 4x Power Sword, 4x Stubcarbine
+
++ Fast Attack +
+
+Ironstrider Ballistarii [4 PL, 75pts]
+. Ironstrider Ballistarius: Twin Cognis Autocannon
+
++ Heavy Support +
+
+Onager Dunecrawler [6 PL, 100pts]: Broad Spectrum Data-Tether, Eradication Beamer
+
+Skorpius Disintegrator [8 PL, 125pts]: Belleros Energy Cannon
+
+++ Total: [43 PL, 3CP, 745pts] ++
