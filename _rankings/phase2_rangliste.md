@@ -8,4 +8,4 @@ Runde 2 der Supernova Escalation Liga.
 
 | Platzierung | Spieler/In | Spiele | Siege | Bemalt | Punkte |
 |-------------|------------|--------|-------|--------|--------|
-| 1           | [Rem]({{ site.url }}/spielerinnen/rem) | 0 | 0 | 0 | 0 |
+| 1           | [rem]({{ site.url }}/spielerinnen/rem) | 0 | 0 | 0 | 0 |

@@ -19,7 +19,7 @@ Runde 1 der Supernova Escalation Liga.
 | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | [bennz]({{ site.url }}/spielerinnen/bennz) |
 | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) |
 | [seebusch]({{ site.url }}/spielerinnen/seebusch) | [plops70]({{ site.url }}/spielerinnen/plops70) |
-| [seebusch]({{ site.url }}/spielerinnen/seebusch) | [plops70]({{ site.url }}/spielerinnen/plops70) |
+| [seebusch]({{ site.url }}/spielerinnen/seebusch) | [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbrusche) |
 | [madeleine]({{ site.url }}/spielerinnen/madeleine) | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) |
 | [askonnox]({{ site.url }}/spielerinnen/askonnox) | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) |
 | [desmont]({{ site.url }}/spielerinnen/desmont) | [grimm]({{ site.url }}/spielerinnen/grimm) |
