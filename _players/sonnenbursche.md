@@ -4,10 +4,17 @@ title: Adrian "Sonnenbursche"
 excerpt: Black Templars
 ---
 
-Sonnenbursche#5130
+Discord Handle: Sonnenbursche#5130
 
-## 500 Pkte Black Templars
+# Black Templars
 
-![500 Pkte Black Templars](../assets/images/500_sonnenbursche_1.jpg)
+## Phase I: 500 Pkte
 
-<a href="../assets/armylists/500_sonnenbursche.txt" download>500 Pkte Black Templars Army List</a>
+![500 Pkte](/assets/images/500/500_sonnenbursche_1.jpg)
+
+Download <a href="/assets/armylists/500/500_sonnenbursche.txt" download>500 Pkte army list</a> als .txt.
+
+## Phase II: 750 Pkte
+
+Download <a href="/assets/armylists/750/750_sonnenbursche.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="/assets/armylists/750/750_sonnenbursche.rosz" download>750 Pkte army list</a> als .rosz.  

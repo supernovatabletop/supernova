@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Esclation Phase II
+title: Escalation Phase II
 excerpt: Monat 2 (Februar 2023)
 ---
 

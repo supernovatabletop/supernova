@@ -4,10 +4,13 @@ title: Fil "Der Joker"
 excerpt: Blood Angels
 ---
 
-Der JokerArmy#5627
+Discord Handle: Der JokerArmy#5627
 
-## 750 Pkte Blood Angels
+# Blood Angels
 
-![500 Pkte Blood Angels](../assets/images/750_derjoker_1.jpg)
+## Phase II: 750 Pkte Blood Angels
 
-<a href="../assets/armylists/750_derjoker.txt" download>750 Pkte Blood Angels Army List</a>
+![500 Pkte](/assets/images/750/750_derjoker_1.jpg)
+
+Download <a href="/assets/armylists/750/750_derjoker.txt" download>750 Pkte Blood Angels army list</a> als txt.  
+Download <a href="/assets/armylists/750/750_derjoker.rosz" download>750 Pkte Blood Angels army list</a> als rosz.

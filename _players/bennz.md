@@ -4,10 +4,17 @@ title: Benjamin "BENNZ"
 excerpt: Tyranids
 ---
 
-BENNZ#3804
+Discord Handle: BENNZ#3804
 
-## 500 Pkte Tyranids
+# Tyranids
 
-![500 Pkte Tyranids](../assets/images/500_bennz_1.jpg)
+## Phase I: 500 Pkte
 
-<a href="../assets/armylists/500_bennz.txt" download>500 Pkte Tyranids Army List</a>
+![500 Pkte](/assets/images/500/500_bennz_1.jpg)
+
+Download <a href="/assets/armylists/500/500_bennz.txt" download>500 Pkte army list</a> als .txt.
+
+## Phase II: 750 Pkte
+
+Download <a href="/assets/armylists/750/750_bennz.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="/assets/armylists/750/750_bennz.rosz" download>750 Pkte army list</a> als .rosz.

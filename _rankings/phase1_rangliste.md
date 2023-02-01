@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Esclation Phase I
+title: Escalation Phase I
 excerpt: Monat 1 (Jänner 2023)
 ---
 

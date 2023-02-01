@@ -4,10 +4,17 @@ title: Julian "Stardewd"
 excerpt: Astra Militarum
 ---
 
-Sonnenbursche#5130
+Discord Handle: Sonnenbursche#5130
 
-## 500 Pkte Astra Militarum
+# Astra Militarum
 
-![500 Pkte Astra Militarum](../assets/images/500_stardewd_1.jpg)
+## Phase I: 500 Pkte
 
-<a href="../assets/armylists/500_stardewd.txt" download>500 Pkte Astra Militarum Army List</a>
+![500 Pkte](/assets/images/500/500_sonnenbursche_1.jpg)
+
+Download <a href="/assets/armylists/500/500_stardewd.txt" download>500 Pkte army list</a> als .txt.
+
+## Phase II: 750 Pkte
+
+Download <a href="/assets/armylists/750/750_stardewd.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="/assets/armylists/750/750_stardewd.rosz" download>750 Pkte army list</a> als .rosz.  

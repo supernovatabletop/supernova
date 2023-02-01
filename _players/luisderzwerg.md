@@ -4,10 +4,13 @@ title: Luis "Der Zwerg"
 excerpt: Imperial Knights
 ---
 
-Garry the Imperial Knight#9413
+Discord Handle: Garry the Imperial Knight#9413
 
-## 750 Pkte Imperial Knights
+# Imperial Knights
 
-![500 Pkte Imperial Knights](../assets/images/750_luisderzwerg_1.jpg)
+## Phase II: 750 Pkte
 
-<a href="../assets/armylists/750_luisderzwerg.txt" download>750 Pkte Imperial Knights Army List</a>
+![500 Pkte](/assets/images/750/750_luisderzwerg_1.jpg)
+
+Download <a href="/assets/armylists/750/750_luisderzwerg.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="/assets/armylists/750/750_luisderzwerg.rosz" download>750 Pkte army list</a> als .rosz.  

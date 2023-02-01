@@ -4,10 +4,17 @@ title: Roland "Desmont"
 excerpt: Craftworld Eldar
 ---
 
-Desmont#1036
+Discord Handle: Desmont#1036
 
-## 500 Pkte Craftworld Eldar
+# Craftworld Eldar
 
-![500 Pkte Craftworld Eldar](../assets/images/500_desmont_1.jpg)
+## Phase I: 500 Pkte
 
-<a href="../assets/armylists/500_desmont.txt" download>500 Pkte Craftworld Eldar Army List</a>
+![500 Pkte](/assets/images/500/500_desmont_1.jpg)
+
+Download <a href="/assets/armylists/500/500_desmont.txt" download>500 Pkte army list</a> als .txt.
+
+## Phase II: 750 Pkte
+
+Download <a href="/assets/armylists/750/750_desmont.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="/assets/armylists/750/750_desmont.rosz" download>750 Pkte army list</a> als .rosz.  

@@ -4,10 +4,17 @@ title: Constantin "just_Coco666"
 excerpt: Death Guard
 ---
 
-just_Coco666#3378
+Discord Handle: just_Coco666#3378
 
-## 500 Pkte Death Guard
+# Death Guard
 
-![500 Pkte Death Guard](../assets/images/500_justcoco666_1.jpg)
+## Phase I: 500 Pkte
 
-<a href="../assets/armylists/500_justcoco666.txt" download>500 Pkte Death Guard Army List</a>
+![500 Pkte](/assets/images/500/500_justcoco666_1.jpg)
+
+Download <a href="/assets/armylists/500/500_justcoco666.txt" download>500 Pkte army list</a> als .txt.
+
+## Phase II: 750 Pkte
+
+Download <a href="/assets/armylists/750/750_justcoco666.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="/assets/armylists/750/750_justcoco666.rosz" download>750 Pkte army list</a> als .rosz.  

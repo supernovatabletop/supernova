@@ -4,10 +4,17 @@ title: "Plops_70"
 excerpt: T'au Empire
 ---
 
-plops70#7139
+Discord Handle: plops70#7139
 
-## 500 Pkte T'au Empire
+# T'au Empire
 
-![500 Pkte T'au Empire](../assets/images/500_plops70_1.jpg)
+## Phase I: 500 Pkte
 
-<a href="../assets/armylists/500_plops70.txt" download>500 Pkte T'au Empire Army List</a>
+![500 Pkte](/assets/images/500/500_plops70_1.jpg)
+
+Download <a href="/assets/armylists/500/500_plops70.txt" download>500 Pkte army list</a> als .txt.
+
+## Phase II: 750 Pkte
+
+Download <a href="/assets/armylists/750/750_plops70.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="/assets/armylists/750/750_plops70.rosz" download>750 Pkte army list</a> als .rosz.  

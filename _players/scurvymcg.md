@@ -4,10 +4,13 @@ title: Konstantin "ScurvyMcG"
 excerpt: Drukhari
 ---
 
-ScurvyMcG#4532
+Discord Handle: ScurvyMcG#4532
 
-## 750 Pkte Drukhari
+# Drukhari
 
-![750 Pkte Drukhari](../assets/images/750_scurvymcg_1.jpg)
+## Phase II: 750 Pkte
 
-<a href="../assets/armylists/750_scurvymcg.txt" download>750 Pkte Drukhari Army List</a>
+![750 Pkte](/assets/images/750/750_scurvymcg_1.jpg)
+
+Download <a href="/assets/armylists/750/750_scurvymcg.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="/assets/armylists/750/750_scurvymcg.rosz" download>750 Pkte army list</a> als .rosz.  

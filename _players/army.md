@@ -1,13 +1,22 @@
 ---
 layout: single
 title: Armin "Army"
-excerpt: Orks
+excerpt: Adeptus Mechanicus
 ---
 
-Army#3628
+Discord Handle: Army#3628
 
-## 500 Pkte Adeptus Mechanicus
+# Adeptus Mechanicus
 
-![500 Pkte Adeptus Mechanicus](../assets/images/500_army_1.jpg)
+## Phase I: 500 Pkte
 
-<a href="../assets/armylists/500_army.txt" download>500 Pkte Adeptus Mechanicus Army List</a>
+![500 Pkte](/assets/images/500/500_army_1.jpg)
+
+Download <a href="/assets/armylists/500/500_army.txt" download>500 Pkte army list</a> als .txt.
+
+## Phase II: 750 Pkte
+
+![750 Pkte](/assets/images/750/750_army_1.jpg)
+
+Download <a href="/assets/armylists/750/750_army.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="/assets/armylists/750/750_army.rosz" download>750 Pkte army list</a> als .rosz.

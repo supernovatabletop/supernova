@@ -4,10 +4,19 @@ title: "Madeleine"
 excerpt: Astra Militarum
 ---
 
-Madeleine#1697
+Discord Handle: Madeleine#1697
 
-## 500 Pkte Astra Militarum
+# Astra Militarum & Chaos Demons
 
-![500 Pkte Astra Militarum](../assets/images/500_madeleine_1.jpg)
+## Phase I: 500 Pkte Astra Militarum
 
-<a href="../assets/armylists/500_madeleine.txt" download>500 Pkte Astra Militarum Army List</a>
+![500 Pkte](/assets/images/500/500_madeleine_1.jpg)
+
+Download <a href="/assets/armylists/500/500_madeleine.txt" download>500 Pkte army list</a> als .txt.
+
+## Phase II: 750 Pkte Chaos Demons
+
+![750 Pkte](/assets/images/750/750_madeleine_1.jpg)
+
+Download <a href="/assets/armylists/750/750_madeleine.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="/assets/armylists/750/750_madeleine.rosz" download>750 Pkte army list</a> als .rosz.  
