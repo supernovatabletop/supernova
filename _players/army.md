@@ -2,12 +2,11 @@
 layout: single
 title: Armin "Army"
 excerpt: Adeptus Mechanicus
+sidebar: 
+  - title: Armin "Army"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "Army#3628<br/>Adeptus Mechanicus"
 ---
-
-Discord Handle: Army#3628
-
-# Adeptus Mechanicus
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_army_1.jpg)

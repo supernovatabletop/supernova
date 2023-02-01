@@ -2,12 +2,11 @@
 layout: single
 title: Konstantin "ScurvyMcG"
 excerpt: Drukhari
+sidebar: 
+  - title: Konstantin "ScurvyMcG"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "ScurvyMcG#4532<br/>Drukhari"
 ---
-
-Discord Handle: ScurvyMcG#4532
-
-# Drukhari
-
 ## Phase II: 750 Pkte
 
 ![750 Pkte](/assets/images/750/750_scurvymcg_1.jpg)

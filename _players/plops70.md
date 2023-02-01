@@ -2,12 +2,11 @@
 layout: single
 title: "Plops_70"
 excerpt: T'au Empire
+sidebar: 
+  - title: "Plops_70"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "plops70#7139<br/>T'au Empire"
 ---
-
-Discord Handle: plops70#7139
-
-# T'au Empire
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_plops70_1.jpg)

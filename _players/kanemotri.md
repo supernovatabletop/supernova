@@ -2,12 +2,11 @@
 layout: single
 title: "Kane Motri"
 excerpt: Craftworld Eldar
+sidebar: 
+  - title: "Kane Motri"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "KaneMotri#0055<br/>Craftworld Eldar"
 ---
-
-Discord Handle: KaneMotri#0055
-
-# Craftworld Eldar
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_kanemotri_1.jpg)

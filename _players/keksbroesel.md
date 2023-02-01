@@ -2,13 +2,12 @@
 layout: single
 title: Felix "Keksbrösel"
 excerpt: Raven Guard
+sidebar: 
+  - title: Felix "Keksbrösel"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "Keksbrösel#9589<br/>Raven Guard"
 ---
-
-Discord Handle: Keksbrösel#9589
-
 Felix aka "Keksbrösel" ist ein Spieler, der auf äußerst hinterhältige Methoden und psychologische Kriegsführung setzt. Nimm dich in Acht wenn du gegen seine Raven Guard, Spezialisten in Guerrilla Kämpfen, antrittst.
-
-# Raven Guard
 
 ## Phase I: 500 Pkte
 

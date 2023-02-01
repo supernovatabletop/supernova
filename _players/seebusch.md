@@ -2,12 +2,11 @@
 layout: single
 title: Sebastian "Seebusch"
 excerpt: Orks
+sidebar: 
+  - title: Sebastian "Seebusch"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "Seebusch#9785<br/>Orks"
 ---
-
-Discord Handle: Seebusch#9785
-
-# Adeptus Orks
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_seebusch_1.jpg)

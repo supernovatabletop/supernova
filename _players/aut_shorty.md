@@ -2,12 +2,11 @@
 layout: single
 title: Linus "AUT_Shorty"
 excerpt: Astra Militarum
+sidebar: 
+  - title: Linus "AUT_Shorty"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "AUT Shorty#7190<br/>Astra Militarum"
 ---
-
-Discord Handle: AUT Shorty#7190
-
-# Astra Militarum
-
 ## Phase I: 500 Pkte 
 
 ![500 Pkte](/assets/images/500/500_autshorty_1.jpg)

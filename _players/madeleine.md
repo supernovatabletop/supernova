@@ -2,12 +2,11 @@
 layout: single
 title: "Madeleine"
 excerpt: Astra Militarum
+sidebar: 
+  - title: "Madeleine"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "Madeleine#1697<br/>Astra Militarum & Chaos Demons"
 ---
-
-Discord Handle: Madeleine#1697
-
-# Astra Militarum & Chaos Demons
-
 ## Phase I: 500 Pkte Astra Militarum
 
 ![500 Pkte](/assets/images/500/500_madeleine_1.jpg)

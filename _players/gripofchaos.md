@@ -2,12 +2,11 @@
 layout: single
 title: Michael "Grip of Chaos"
 excerpt: Astra Militarum
+sidebar: 
+  - title: Michael "Grip of Chaos"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "GripOfChaos#7639<br/>Astra Militarum"
 ---
-
-Discord Handle: GripOfChaos#7639
-
-# Astra Militarum
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_gripofchaos_1.jpg)

@@ -2,6 +2,10 @@
 layout: single
 title: Marco "Grimm"
 excerpt: Adeptus Custodes
+sidebar: 
+  - title: Marco "Grimm"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "grimm#5120<br/>Adeptus Custodes"
 ---
 
 Discord Handle: grimm#5120

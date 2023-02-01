@@ -2,12 +2,11 @@
 layout: single
 title: Roland "Desmont"
 excerpt: Craftworld Eldar
+sidebar: 
+  - title: Roland "Desmont"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "Desmont#1036<br/>Craftworld Eldar"
 ---
-
-Discord Handle: Desmont#1036
-
-# Craftworld Eldar
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_desmont_1.jpg)

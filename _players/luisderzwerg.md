@@ -2,12 +2,11 @@
 layout: single
 title: Luis "Der Zwerg"
 excerpt: Imperial Knights
+sidebar: 
+  - title: Luis "Der Zwerg"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "Garry the Imperial Knight#9413<br/>Imperial Knights"
 ---
-
-Discord Handle: Garry the Imperial Knight#9413
-
-# Imperial Knights
-
 ## Phase II: 750 Pkte
 
 ![500 Pkte](/assets/images/750/750_luisderzwerg_1.jpg)

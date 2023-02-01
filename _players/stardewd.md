@@ -2,12 +2,11 @@
 layout: single
 title: Julian "Stardewd"
 excerpt: Astra Militarum
+sidebar: 
+  - title: Julian "Stardewd"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "Stardewd#1124<br/>Astra Militarum"
 ---
-
-Discord Handle: Sonnenbursche#5130
-
-# Astra Militarum
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_sonnenbursche_1.jpg)

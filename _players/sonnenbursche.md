@@ -2,12 +2,11 @@
 layout: single
 title: Adrian "Sonnenbursche"
 excerpt: Black Templars
+sidebar: 
+  - title: Adrian "Sonnenbursche"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "Sonnenbursche#5130<br/>Black Templars"
 ---
-
-Discord Handle: Sonnenbursche#5130
-
-# Black Templars
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_sonnenbursche_1.jpg)

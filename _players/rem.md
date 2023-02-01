@@ -2,13 +2,12 @@
 layout: single
 title: Christian "Rem"
 excerpt: Craftworld Eldar
+sidebar: 
+  - title: Christian "Rem"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "<br/>Craftworld Eldar"
 ---
-
-Discord Handle:
-
 Christian aka "Rem", Master of Ceremony und notorischer Prokastinator mit Hand zur Dramatik, will nur spielen.
-
-# Craftworld Eldar
 
 ## Phase II: 750 Pkte
 

@@ -2,12 +2,11 @@
 layout: single
 title: Julian "Rudolf Wagrainer"
 excerpt: Astra Militarum
+sidebar: 
+  - title: Julian "Rudolf Wagrainer"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "Rudolf_Wagrainer#2686<br/>Astra Militarum"
 ---
-
-Discord Handle: Rudolf_Wagrainer#2686
-
-# Astra Militarum
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_rudolfwagrainer_2.jpg)

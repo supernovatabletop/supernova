@@ -2,12 +2,11 @@
 layout: single
 title: Constantin "just_Coco666"
 excerpt: Death Guard
+sidebar: 
+  - title: Constantin "just_Coco666"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "just_Coco666#3378<br/>Death Guard"
 ---
-
-Discord Handle: just_Coco666#3378
-
-# Death Guard
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_justcoco666_1.jpg)

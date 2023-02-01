@@ -2,12 +2,11 @@
 layout: single
 title: Benjamin "BENNZ"
 excerpt: Tyranids
+sidebar: 
+  - title: Benjamin "BENNZ"
+    image: assets/images/avatare/platzhalter_avatar.png
+    text: "BENNZ#3804<br/>Tyranids"
 ---
-
-Discord Handle: BENNZ#3804
-
-# Tyranids
-
 ## Phase I: 500 Pkte
 
 ![500 Pkte](/assets/images/500/500_bennz_1.jpg)
