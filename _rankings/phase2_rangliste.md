@@ -28,3 +28,4 @@ Runde 2 der Supernova Escalation Liga.
 | 0           | [plops70]({{ site.url }}/spielerinnen/plops70) | 0 | 0 | 0 | 0 |
 | 0           | [autshorty]({{ site.url }}/spielerinnen/autshorty) | 0 | 0 | 0 | 0 |
 | 0           | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) | 0 | 0 | 0 | 0 |
+| 0           | [rem]({{ site.url }}/spielerinnen/rem) | 0 | 0 | 0 | 0 |
