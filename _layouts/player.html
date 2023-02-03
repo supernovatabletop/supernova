@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include player_sidebar.html %}
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.name %}<meta itemprop="headline" content="{{ page.name | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.army %}<meta itemprop="description" content="{{ page.army | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header>
+          {% if page.name %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.name | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+          </h1>{% endif %}
+          {% include page__meta.html %}
+        </header>
+      {% endunless %}
+
+      <section class="page__content e-content" itemprop="text">
+        {{ content }}
+        {% if page.phases and page.phases.size > 0 %}
+            {% for p in page.phases %}
+                {% assign phase = site.data.phases[p] %}
+                {% if phase %}
+                    {% assign image_path = phase.points | append: "_" | append: page.filename | append: "_image" %}
+                    {% assign txt_path = phase.points | append: "_"| append: page.filename | append: ".txt" %}
+                    {% assign rosz_path = phase.points | append: "_" | append: page.filename | append: ".rosz" %}
+                    {% assign image_file = site.static_files | where: "basename", image_path | first %}
+                    {% assign txt_army_file = site.static_files | where: "name", txt_path | first %}
+                    {% assign rosz_army_file = site.static_files | where: "name", rosz_path | first %}
+        
+                    <h2 id="phase-1">{{ phase.name | append: ": " | append: phase.points | append: " Pkte"}}</h2>
+                    {% if image_file %}<p><img src="{{ image_file.path | relative_url }}" alt="500 Pkte"></p>{% endif %}
+                    {% if txt_army_file or rosz_army_file %}
+                        <table>
+                            <thead>
+                                <tr><td>Datei</td><td>Download</td></tr>
+                            </thead>
+                            <tbody>
+                                {% if txt_army_file %}<tr><td><a href="{{ txt_army_file.path | relative_url }}">{{ txt_army_file.name }}</a></td><td><a href="{{ txt_army_file.path | relative_url }}" download>Download</a></td></tr>{% endif %}
+                                {% if rosz_army_file %}<tr><td>{{ rosz_army_file.name }}</td><td><a href="{{ rosz_army_file.path | relative_url }}" download>Download</a></td></tr>{% endif %}
+                            </tbody>
+                        </table>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        {% endif %}  
+      </section>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        {% include page__date.html %}
+      </footer>
+    
+    {% include post_pagination.html %}
+    </div>
+  </article>
+</div>

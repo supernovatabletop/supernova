@@ -1,19 +1,8 @@
 ---
-layout: single
-title: Benjamin "BENNZ"
-excerpt: Tyranids
-sidebar: 
-  - title: Benjamin "BENNZ"
-    image: assets/images/avatare/platzhalter_avatar.png
-    text: "BENNZ#3804<br/>Tyranids"
+layout: player
+name: Benjamin "BENNZ"
+army: Tyranids
+discord: BENNZ#3804
+filename: bennz
+phases: [1, 2]
 ---
-## Phase I: 500 Pkte
-
-![500 Pkte](../assets/images/500/500_bennz_1.jpg)
-
-Download <a href="../assets/armylists/500/500_bennz.txt" download>500 Pkte army list</a> als .txt.
-
-## Phase II: 750 Pkte
-
-Download <a href="../assets/armylists/750/750_bennz.txt" download>750 Pkte army list</a> als .txt.  
-Download <a href="../assets/armylists/750/750_bennz.rosz" download>750 Pkte army list</a> als .rosz.

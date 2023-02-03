@@ -1,7 +1,7 @@
 ---
 permalink: /spielerinnen/
 title: Spieler:innen
-layout: collection
+layout: player_collection
 collection: players
 entries_layout: grid
 classes: wide

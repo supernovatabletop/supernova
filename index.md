@@ -3,7 +3,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/500/500_Keksbrösel_1.jpg
+  overlay_image: /assets/images/500/500_keksbroesel_image.jpg
 intro: 
   - excerpt: 'Willkommen auf der Website der "Supernova" Warhammer 40k Escalation-Liga!<br/>Hier findes du alle infos über aktuelle Paarungen, Ranglisten und die Teilnehmer:innen.'
 ---
