@@ -8,7 +8,7 @@ Runde 2 der Supernova Escalation Liga.
 
 Incursion Mission 13: Desperate Raid (Arks of Omen)
 
-| Spieler/In A | Spieler/In B | Gewinner |
+| Spieler:in A | Spieler:in B | Gewinner |
 |--------------|--------------|----------|
 | [seebusch]({{ site.url }}/spielerinnen/seebusch) | [stardewd]({{ site.url }}/spielerinnen/stardewd) ||
 | [seebusch]({{ site.url }}/spielerinnen/seebusch) | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) ||

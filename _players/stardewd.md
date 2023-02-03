@@ -9,7 +9,7 @@ sidebar:
 ---
 ## Phase I: 500 Pkte
 
-![500 Pkte](../assets/images/500/500_sonnenbursche_1.jpg)
+![500 Pkte](../assets/images/500/500_stardewd_1.jpg)
 
 Download <a href="../assets/armylists/500/500_stardewd.txt" download>500 Pkte army list</a> als .txt.
 
