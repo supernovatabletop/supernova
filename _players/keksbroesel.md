@@ -17,5 +17,7 @@ Download <a href="../assets/armylists/500/500_Keksbrösel.txt" download>500 Pkte
 
 ## Phase II: 750 Pkte
 
-Download <a href="../assets/armylists/750/750_keksbrösel.txt" download>750 Pkte army list</a> als .txt.  
-Download <a href="../assets/armylists/750/750_keksbrösel.rosz" download>750 Pkte army list</a> als .rosz.  
+![750 Pkte](../assets/images/750/750_keksbroesel_1.jpg)
+
+Download <a href="../assets/armylists/750/750_keksbroesel.txt" download>750 Pkte army list</a> als .txt.  
+Download <a href="../assets/armylists/750/750_keksbroesel.rosz" download>750 Pkte army list</a> als .rosz.  

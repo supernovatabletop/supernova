@@ -15,5 +15,7 @@ Download <a href="../assets/armylists/500/500_kanemotri.txt" download>500 Pkte a
 
 ## Phase II: 750 Pkte
 
+![750 Pkte](../assets/images/750/750_kanemotri_1.jpg)
+
 Download <a href="../assets/armylists/750/750_kanemotri.txt" download>750 Pkte army list</a> als .txt.  
 Download <a href="../assets/armylists/750/750_kanemotri.rosz" download>750 Pkte army list</a> als .rosz.  

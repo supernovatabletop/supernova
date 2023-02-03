@@ -15,5 +15,7 @@ Download <a href="../assets/armylists/500/500_justcoco666.txt" download>500 Pkte
 
 ## Phase II: 750 Pkte
 
+![750 Pkte](../assets/images/750/750_justcoco666_1.jpg)
+
 Download <a href="../assets/armylists/750/750_justcoco666.txt" download>750 Pkte army list</a> als .txt.  
 Download <a href="../assets/armylists/750/750_justcoco666.rosz" download>750 Pkte army list</a> als .rosz.  
