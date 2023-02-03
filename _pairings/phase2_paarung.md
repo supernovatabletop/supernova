@@ -10,12 +10,12 @@ Incursion Mission 13: Desperate Raid (Arks of Omen)
 
 | Spieler/In A | Spieler/In B | Gewinner |
 |--------------|--------------|----------|
-| [seebusch]({{ site.url }}/spielerinnen/seebusch) | [Stardewd]({{ site.url }}/spielerinnen/stardewd) ||
+| [seebusch]({{ site.url }}/spielerinnen/seebusch) | [stardewd]({{ site.url }}/spielerinnen/stardewd) ||
 | [seebusch]({{ site.url }}/spielerinnen/seebusch) | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) ||
 | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | [stardewd]({{ site.url }}/spielerinnen/stardewd) ||
 | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | [army]({{ site.url }}/spielerinnen/army) ||
-| [gripofchaos]({{ site.url }}/spielerinnen/keksbroesel) | [army]({{ site.url }}/spielerinnen/army) ||
-| [gripofchaos]({{ site.url }}/spielerinnen/keksbroesel) | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) ||
+| [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [army]({{ site.url }}/spielerinnen/army) ||
+| [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) ||
 | [desmont]({{ site.url }}/spielerinnen/desmont) | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) ||
 | [desmont]({{ site.url }}/spielerinnen/desmont) | [derjoker]({{ site.url }}/spielerinnen/derjoker) ||
 | [grimm]({{ site.url }}/spielerinnen/grimm) | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) ||
