@@ -1,6 +1,6 @@
 ---
 layout: player
-name: "Plops_70"
+name: Philipp "Plops_70"
 army: T'au Empire
 discord: plops70#7139
 filename: plops70

@@ -1,6 +1,6 @@
 ---
 layout: player
-name: "Kane Motri"
+name: Dominik "Kane Motri"
 army: Craftworld Eldar
 discord: KaneMotri#0055
 filename: kanemotri
