@@ -1,32 +1,30 @@
 
-++ Patrol Detachment 0CP (T'au Empire) [37 PL, -1CP, 775pts] ++
+++ Arks of Omen Detachment (T'au Empire) [39 PL, 3CP, 750pts] ++
 
 + Configuration +
 
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
 Detachment Command Cost
 
-Game Type: Open
+Game Type: 5. Chapter Approved: Arks of Omen
 
 Sept Choice: T'au Sept
 
 + HQ +
 
-Commander in Coldstar Battlesuit [9 PL, 190pts]: 3. A Ghost Walks Among Us, High-output Burst Cannon, Missile Pod, Resonator Warheads, Shield Generator, T'au Flamer, The Be'gel Hunter's Plate, Warlord
+Cadre Fireblade [3 PL, 50pts]
 
-Longstrike [9 PL, -1CP, 170pts]: 2x Accelerator Burst Cannon, 4. Through Boldness, Victory, Railgun, Stratagem: Promising Pupil
+Commander in Coldstar Battlesuit [9 PL, -2CP, 190pts]: 3. A Ghost Walks Among Us, High-output Burst Cannon, Missile Pod, Resonator Warheads, Shield Generator, Stratagem: Relic, Stratagem: Warlord Trait, T'au Flamer, The Be'gel Hunter's Plate, Warlord
+
+Longstrike [9 PL, -1CP, 175pts]: 2x Accelerator Burst Cannon, 4. Through Boldness, Victory, Railgun, Seeker Missile, Stratagem: Promising Pupil
 
 + Troops +
 
-Strike Team [4 PL, 80pts]
-. Fire Warrior Shas'ui: Pulse Rifle
-. 9x Fire Warrior w/ Pulse Rifle: 9x Pulse Pistol, 9x Pulse Rifle
-
-+ Elites +
-
-Crisis Battlesuits [10 PL, 230pts]
-. Crisis Shas'ui: Airbursting Fragmentation Projector, Burst Cannon, Multi-tracker, T'au Flamer
-. Crisis Shas'ui: Cyclic Ion Blaster, Early Warning Override, Fusion Blaster, Plasma Rifle
-. Crisis Shas'vre: Early Warning Override, Fusion Blaster, Novasurge Plasma Rifle, Plasma Rifle, T'au Flamer
+Breacher Team [5 PL, 85pts]
+. 9x Breacher Fire Warrior: 9x Pulse Blaster, 9x Pulse Pistol
 
 + Fast Attack +
 
@@ -35,6 +33,12 @@ Pathfinder Team [5 PL, 105pts]
 . Pathfinder Shas'ui
 . 3x Pathfinder w/ Rail Rifle: 3x Pulse Pistol, 3x Rail Rifle
 
-++ Total: [37 PL, -1CP, 775pts] ++
++ Heavy Support +
+
+Hammerhead Gunship [8 PL, 145pts]: Railgun
+. 2x Gun Drones
+. . 2x Gun Drone: 4x Pulse Carbine
+
+++ Total: [39 PL, 3CP, 750pts] ++
 
 Created with BattleScribe (https://battlescribe.net)

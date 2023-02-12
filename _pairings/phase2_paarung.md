@@ -16,10 +16,10 @@ Incursion Mission 13: Desperate Raid (Arks of Omen)
 | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | [army]({{ site.url }}/spielerinnen/army) ||
 | [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [army]({{ site.url }}/spielerinnen/army) ||
 | [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) ||
-| [desmont]({{ site.url }}/spielerinnen/desmont) | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) ||
-| [desmont]({{ site.url }}/spielerinnen/desmont) | [derjoker]({{ site.url }}/spielerinnen/derjoker) ||
-| [grimm]({{ site.url }}/spielerinnen/grimm) | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) ||
-| [grimm]({{ site.url }}/spielerinnen/grimm) | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) ||
+| [paeu]({{ site.url }}/spielerinnen/paeu) | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) ||
+| [paeu]({{ site.url }}/spielerinnen/paeu) | [derjoker]({{ site.url }}/spielerinnen/derjoker) ||
+| [grimm]({{ site.url }}/spielerinnen/grimm) | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) |B|
+| [grimm]({{ site.url }}/spielerinnen/grimm) | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) |A|
 | [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) | [madeleine]({{ site.url }}/spielerinnen/madeleine) ||
 | [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) | [derjoker]({{ site.url }}/spielerinnen/derjoker) ||
 | [madeleine]({{ site.url }}/spielerinnen/madeleine) | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) ||
@@ -27,6 +27,8 @@ Incursion Mission 13: Desperate Raid (Arks of Omen)
 | [bennz]({{ site.url }}/spielerinnen/bennz) | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) ||
 | [bennz]({{ site.url }}/spielerinnen/bennz) | [askonnox]({{ site.url }}/spielerinnen/askonnox) ||
 | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) | [plops70]({{ site.url }}/spielerinnen/plops70) ||
-| [autshorty]({{ site.url }}/spielerinnen/autshorty) | [askonnox]({{ site.url }}/spielerinnen/askonnox) ||
+| [autshorty]({{ site.url }}/spielerinnen/autshorty) | [askonnox]({{ site.url }}/spielerinnen/askonnox) |B|
 | [autshorty]({{ site.url }}/spielerinnen/autshorty) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) ||
 | [plops70]({{ site.url }}/spielerinnen/plops70) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) ||
+
+Desmont musste leider pausieren und wird durch Paeu ersetzt.

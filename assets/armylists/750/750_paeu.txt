@@ -1,0 +1,49 @@
+
+++ Arks of Omen Detachment (Aeldari - Craftworlds) [37 PL, 3CP, 750pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Elites
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Craftworld Selection: Ulthwe: Foresight of the Damned
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ Stratagems +
+
+Stratagem: Relics of the Shrines [-1CP]
+
++ HQ +
+
+Farseer [5 PL, -2CP, 105pts]: 1. Fateful Divergence, 3. Fortune, 4. Executioner, Stratagem: Relic, Stratagem: Warlord Trait, Ulthwe: Fate Reader, Warlord, Witchblade
+. The Ghosthelm of Alishazier
+
++ Elites +
+
+Howling Banshees [5 PL, 110pts]
+. 4x Howling Banshee: 4x Banshee Blade, 4x Shuriken Pistol
+. Howling Banshee Exarch: Cronescream (Shrine Relic), Mirrorswords, Piercing Strikes
+
+Warlocks [3 PL, 60pts]: 4. Protect/Jinx
+. Warlock: Singing Spear
+. Warlock: Singing Spear
+
+Wraithguard [10 PL, 200pts]: Wraithcannon, 5x Wraithguard
+
++ Fast Attack +
+
+Shining Spears [6 PL, 130pts]
+. 2x Shining Spear: 2x Laser Lance, 2x Twin Shuriken Catapult
+. Shining Spear Exarch: Heartstrike, Khaine's Lance (Shrine Relic), Paragon Sabre, Shimmershield, Shuriken Cannon
+
++ Dedicated Transport +
+
+Wave Serpent [8 PL, 145pts]: Twin Shuriken Cannon, Twin Shuriken Catapult
+
+++ Total: [37 PL, 3CP, 750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
