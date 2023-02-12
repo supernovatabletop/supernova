@@ -27,19 +27,19 @@ layout: default
 
       <section class="page__content e-content" itemprop="text">
         {{ content }}
-        {% if page.phases and page.phases.size > 0 %}
+        {% if page.filename and page.phases and page.phases.size > 0 %}
             {% for p in page.phases %}
                 {% assign phase = site.data.phases[p] %}
                 {% if phase %}
-                    {% assign image_path = phase.points | append: "_" | append: page.filename | append: "_image" %}
-                    {% assign txt_path = phase.points | append: "_"| append: page.filename | append: ".txt" %}
-                    {% assign rosz_path = phase.points | append: "_" | append: page.filename | append: ".rosz" %}
-                    {% assign image_file = site.static_files | where: "basename", image_path | first %}
-                    {% assign txt_army_file = site.static_files | where: "name", txt_path | first %}
-                    {% assign rosz_army_file = site.static_files | where: "name", rosz_path | first %}
+                    {% assign image_name = phase.points | append: "_" | append: page.filename | append: "_image" %}
+                    {% assign txt_name = phase.points | append: "_"| append: page.filename | append: ".txt" %}
+                    {% assign rosz_name = phase.points | append: "_" | append: page.filename | append: ".rosz" %}
+                    {% assign image_file = site.static_files | where: "basename", image_name | first %}
+                    {% assign txt_army_file = site.static_files | where: "name", txt_name | first %}
+                    {% assign rosz_army_file = site.static_files | where: "name", rosz_name | first %}
         
                     <h2 id="phase-1">{{ phase.name | append: ": " | append: phase.points | append: " Pkte"}}</h2>
-                    {% if image_file %}<p><img src="{{ image_file.path | relative_url }}" alt="500 Pkte"></p>{% endif %}
+                    {% if image_file %}<p><a href="{{ image_file.path | relative_url }}"><img src="{{ image_file.path | relative_url }}" alt="500 Pkte"></a><p>{% endif %}
                     {% if txt_army_file or rosz_army_file %}
                         <table>
                             <thead>

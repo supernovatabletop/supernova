@@ -1,6 +1,7 @@
 <div class="sidebar sticky">
   <img src="{% if page.name %}
-          {% assign image_file = site.static_files | where: "basename", page.filename | append: "_avatar" | first %}
+          {% assign image_name = page.filename | append: "_avatar" %}
+          {% assign image_file = site.static_files | where: "basename", image_name | first %}
           {% if image_file %}{{ image_file.path | relative_url }}{% else %}{{ "assets/images/avatars/platzhalter_avatar.png" | relative_url }}{% endif %}
           {% else %}{{ "assets/images/avatars/platzhalter_avatar.png" | relative_url }}
           {% endif %}"
