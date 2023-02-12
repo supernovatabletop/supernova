@@ -8,6 +8,8 @@ Runde 2 der Supernova Escalation Liga.
 
 Incursion Mission 13: Desperate Raid (Arks of Omen)
 
+Desmont musste leider pausieren und wird durch Paeu ersetzt.
+
 | Spieler:in A | Spieler:in B | Gewinner |
 |--------------|--------------|----------|
 | [seebusch]({{ site.url }}/spielerinnen/seebusch) | [stardewd]({{ site.url }}/spielerinnen/stardewd) ||
@@ -30,5 +32,3 @@ Incursion Mission 13: Desperate Raid (Arks of Omen)
 | [autshorty]({{ site.url }}/spielerinnen/autshorty) | [askonnox]({{ site.url }}/spielerinnen/askonnox) |B|
 | [autshorty]({{ site.url }}/spielerinnen/autshorty) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) ||
 | [plops70]({{ site.url }}/spielerinnen/plops70) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) ||
-
-Desmont musste leider pausieren und wird durch Paeu ersetzt.
