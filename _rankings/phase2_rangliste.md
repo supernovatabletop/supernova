@@ -8,16 +8,16 @@ Runde 2 der Supernova Escalation Liga.
 
 | Platzierung | Spieler/In | Spiele | Siege | Bemalt | Punkte |
 |-------------|------------|--------|-------|--------|--------|
-| 1           | [grimm]({{ site.url }}/spielerinnen/grimm) | 2 | 1 | 2 | 5 |
-| 2           | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) | 1 | 1 | 1 | 3 |
-| -           | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | 1 | 1 | 1 | 3 |
-| -           | [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | 1 | 1 | 1 | 3 |
-| 2           | [askonnox]({{ site.url }}/spielerinnen/askonnox) | 1 | 1 | 1 | 3 |
-| -           | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) | 1 | 1 | 1 | 3 |
-| 3           | [autshorty]({{ site.url }}/spielerinnen/autshorty) | 1 | 0 | 1 | 2 |
-| -           | [madeleine]({{ site.url }}/spielerinnen/madeleine) | 1 | 0 | 1 | 2 |
-| -           | [seebusch]({{ site.url }}/spielerinnen/seebusch) | 1 | 0 | 1 | 2 |
-| 4           | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) | 1 | 0 | 0 | 1 |
+| 1           | [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | 2 | 2 | 2 | 6 |
+| 2           | [grimm]({{ site.url }}/spielerinnen/grimm) | 2 | 1 | 2 | 5 |
+| 2           | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | 2 | 1 | 2 | 5 |
+| 3           | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) | 1 | 1 | 1 | 3 |
+| 3           | [askonnox]({{ site.url }}/spielerinnen/askonnox) | 1 | 1 | 1 | 3 |
+| 3           | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) | 1 | 1 | 1 | 3 |
+| 4           | [autshorty]({{ site.url }}/spielerinnen/autshorty) | 1 | 0 | 1 | 2 |
+| 4           | [madeleine]({{ site.url }}/spielerinnen/madeleine) | 1 | 0 | 1 | 2 |
+| 4           | [seebusch]({{ site.url }}/spielerinnen/seebusch) | 1 | 0 | 1 | 2 |
+| 5           | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) | 1 | 0 | 0 | 1 |
 | -           | [army]({{ site.url }}/spielerinnen/army) | 1 | 0 | 0 | 1 |
 | -           | [stardewd]({{ site.url }}/spielerinnen/stardewd) | 0 | 0 | 0 | 0 |
 | -           | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | 0 | 0 | 0 | 0 |

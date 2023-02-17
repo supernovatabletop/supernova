@@ -17,7 +17,7 @@ Desmont musste leider pausieren und wird durch Paeu ersetzt.
 | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | [stardewd]({{ site.url }}/spielerinnen/stardewd) ||
 | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | [army]({{ site.url }}/spielerinnen/army) ||
 | [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [army]({{ site.url }}/spielerinnen/army) |A|
-| [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) ||
+| [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) |A|
 | [paeu]({{ site.url }}/spielerinnen/paeu) | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) ||
 | [paeu]({{ site.url }}/spielerinnen/paeu) | [derjoker]({{ site.url }}/spielerinnen/derjoker) ||
 | [grimm]({{ site.url }}/spielerinnen/grimm) | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) |B|
