@@ -27,7 +27,7 @@ Desmont musste leider pausieren und wird durch Paeu ersetzt.
 | [madeleine]({{ site.url }}/spielerinnen/madeleine) | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) |B|
 | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) ||
 | [bennz]({{ site.url }}/spielerinnen/bennz) | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) ||
-| [bennz]({{ site.url }}/spielerinnen/bennz) | [askonnox]({{ site.url }}/spielerinnen/askonnox) ||
+| [bennz]({{ site.url }}/spielerinnen/bennz) | [askonnox]({{ site.url }}/spielerinnen/askonnox) |B|
 | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) | [plops70]({{ site.url }}/spielerinnen/plops70) ||
 | [autshorty]({{ site.url }}/spielerinnen/autshorty) | [askonnox]({{ site.url }}/spielerinnen/askonnox) |B|
 | [autshorty]({{ site.url }}/spielerinnen/autshorty) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) ||
