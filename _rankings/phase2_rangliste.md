@@ -14,7 +14,8 @@ Runde 2 der Supernova Escalation Liga.
 | 2           | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | 2 | 1 | 2 | 5 |
 | 3           | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) | 1 | 1 | 1 | 3 |
 | 3           | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) | 1 | 1 | 1 | 3 |
-| 4           | [autshorty]({{ site.url }}/spielerinnen/autshorty) | 1 | 0 | 1 | 2 |
+| 3           | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) | 1 | 1 | 1 | 3 |
+| 3           | [autshorty]({{ site.url }}/spielerinnen/autshorty) | 2 | 0 | 1 | 3 |
 | 4           | [madeleine]({{ site.url }}/spielerinnen/madeleine) | 1 | 0 | 1 | 2 |
 | 4           | [seebusch]({{ site.url }}/spielerinnen/seebusch) | 1 | 0 | 1 | 2 |
 | 4           | [bennz]({{ site.url }}/spielerinnen/bennz) | 1 | 0 | 1 | 2 |
@@ -27,5 +28,4 @@ Runde 2 der Supernova Escalation Liga.
 | -           | [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) | 0 | 0 | 0 | 0 |
 | -           | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) | 0 | 0 | 0 | 0 |
 | -           | [plops70]({{ site.url }}/spielerinnen/plops70) | 0 | 0 | 0 | 0 |
-| -           | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) | 0 | 0 | 0 | 0 |
 | -           | [rem]({{ site.url }}/spielerinnen/rem) | 0 | 0 | 0 | 0 |

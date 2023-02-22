@@ -30,5 +30,5 @@ Desmont musste leider pausieren und wird durch Paeu ersetzt.
 | [bennz]({{ site.url }}/spielerinnen/bennz) | [askonnox]({{ site.url }}/spielerinnen/askonnox) |B|
 | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) | [plops70]({{ site.url }}/spielerinnen/plops70) ||
 | [autshorty]({{ site.url }}/spielerinnen/autshorty) | [askonnox]({{ site.url }}/spielerinnen/askonnox) |B|
-| [autshorty]({{ site.url }}/spielerinnen/autshorty) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) ||
+| [autshorty]({{ site.url }}/spielerinnen/autshorty) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) |B|
 | [plops70]({{ site.url }}/spielerinnen/plops70) | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) ||
