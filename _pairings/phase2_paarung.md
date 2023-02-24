@@ -16,11 +16,11 @@ JustCoco666 hat die Liga leider verlassen.
 | [seebusch]({{ site.url }}/spielerinnen/seebusch) | [stardewd]({{ site.url }}/spielerinnen/stardewd) | B |
 | [seebusch]({{ site.url }}/spielerinnen/seebusch) | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | B |
 | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | [stardewd]({{ site.url }}/spielerinnen/stardewd) | B |
-| [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | [army]({{ site.url }}/spielerinnen/army) ||
+| [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | [army]({{ site.url }}/spielerinnen/army) |A|
 | [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [army]({{ site.url }}/spielerinnen/army) | A |
 | [gripofchaos]({{ site.url }}/spielerinnen/gripofchaos) | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | A |
 | [paeu]({{ site.url }}/spielerinnen/paeu) | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) ||
-| [paeu]({{ site.url }}/spielerinnen/paeu) | [derjoker]({{ site.url }}/spielerinnen/derjoker) ||
+| [paeu]({{ site.url }}/spielerinnen/paeu) | [derjoker]({{ site.url }}/spielerinnen/derjoker) |A|
 | [grimm]({{ site.url }}/spielerinnen/grimm) | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) | B |
 | [grimm]({{ site.url }}/spielerinnen/grimm) | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) | A |
 | [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) | [madeleine]({{ site.url }}/spielerinnen/madeleine) ||
