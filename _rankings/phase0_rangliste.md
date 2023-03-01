@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Escalation Gesamttabelle
-excerpt: Gesamttabelle (Alle Monate)
+title: Gesamttabelle
+excerpt: Alle Monate
 ---
 
 Geamttabelle der Supernova Escalation Liga.
