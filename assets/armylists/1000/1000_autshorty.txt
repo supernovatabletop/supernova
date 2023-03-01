@@ -5,7 +5,7 @@
 
 **Chapter Selector**: Imperial Fists
 
-Arks of Omen Compulsory Type: Troops
+Arks of Omen Compulsory Type: Elites
 
 Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
 
@@ -17,34 +17,34 @@ Game Type: 5. Chapter Approved: Arks of Omen
 
 Captain in Terminator Armour [6 PL, 100pts]: Combi-melta, Power sword, Warlord
 
-Techmarine [4 PL, 70pts]: Combi-melta, Frag & Krak grenades, Omnissian power axe, Servo-arm
+Techmarine [4 PL, 70pts]: Combi-melta, Omnissian power axe, Servo-arm
 
 + Troops +
 
 Tactical Squad [10 PL, 108pts]
 . 4x Space Marine: 4x Bolt pistol, 4x Boltgun, 4x Frag & Krak grenades
-. Space Marine Sergeant: Bolt pistol, Boltgun, Frag & Krak grenades
-. Space Marine w/Heavy Weapon: Bolt pistol, Frag & Krak grenades, Heavy bolter
+. Space Marine Sergeant: Bolt pistol, Boltgun
+. Space Marine w/Heavy Weapon: Heavy bolter
 
 Tactical Squad [10 PL, 108pts]
 . 4x Space Marine: 4x Bolt pistol, 4x Boltgun, 4x Frag & Krak grenades
-. Space Marine Sergeant: Bolt pistol, Boltgun, Frag & Krak grenades
-. Space Marine w/Heavy Weapon: Bolt pistol, Frag & Krak grenades, Heavy bolter
+. Space Marine Sergeant: Bolt pistol, Boltgun
+. Space Marine w/Heavy Weapon: Heavy bolter
 
 Tactical Squad [10 PL, 108pts]
 . 4x Space Marine: 4x Bolt pistol, 4x Boltgun, 4x Frag & Krak grenades
-. Space Marine Sergeant: Bolt pistol, Boltgun, Frag & Krak grenades
-. Space Marine w/Heavy Weapon: Bolt pistol, Frag & Krak grenades, Heavy bolter
+. Space Marine Sergeant: Bolt pistol, Boltgun
+. Space Marine w/Heavy Weapon: Heavy bolter
 
 + Elites +
 
-Apothecary [5 PL, 95pts]: Astartes Chainsword, Bolt pistol, Chapter Command:  Chief Apothecary, Frag & Krak grenades
+Apothecary [5 PL, 95pts]: Chapter Command:  Chief Apothecary
 
-Contemptor Dreadnought [8 PL, 140pts]: Combi-bolter, Dreadnought combat weapon, Kheres pattern assault cannon
+Contemptor Dreadnought [8 PL, 140pts]: Kheres pattern assault cannon
 
 Leviathan Dreadnought [13 PL, -1CP, 235pts]: 2x Heavy Flamers, 3x Hunter-killer missiles, Grav-flux bombard, Grav-flux bombard
 
-Servitors [2 PL, 35pts]: Heavy bolter, 4x Servitor, 3x Servo-arm
+Servitors [2 PL, 35pts]: Heavy bolter, 3x Servo-arm
 
 ++ Total: [68 PL, 5CP, 999pts] ++
 

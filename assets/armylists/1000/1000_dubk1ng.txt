@@ -1,21 +1,23 @@
 
-++ Arks of Omen Detachment (Imperium - Adeptus Mechanicus) [55 PL, 998pts, 6CP] ++
+++ Arks of Omen Detachment (Imperium - Adeptus Mechanicus) [55 PL, 4CP, 1,000pts] ++
 
 + Configuration +
 
-Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
 
 Detachment Command Cost
 
 Forge World Choice: Forge World: Mars
 
-Game Type
+Game Type: 5. Chapter Approved: Arks of Omen
 
 + HQ +
 
-Skitarii Marshal [3 PL, 50pts]: Control Stave, Radium Serpenta
+Skitarii Marshal [3 PL, 50pts]
 
-Tech-Priest Manipulus [6 PL, 100pts]: Inspiring Leader, Magi, Manipulus Mechadendrites, Omnissian Staff, Relic: The Skull of Elder Nikola, Transonic cannon, Warlord, Warlord Trait (Codex 5): Cartogrammatist
+Tech-Priest Manipulus [6 PL, -2CP, 110pts]: Inspiring Leader, Logi, Relic: The Skull of Elder Nikola, Stratagem: Relic, Stratagem: Warlord Trait, Transonic cannon, Warlord, Warlord Trait (Codex 5): Cartogrammatist
 
 + Troops +
 
@@ -24,20 +26,21 @@ Kataphron Breachers [6 PL, 105pts]
 . Kataphron Breacher: Arc Claw, Heavy Arc Rifle
 . Kataphron Breacher: Arc Claw, Heavy Arc Rifle
 
-Skitarii Rangers [12 PL, 218pts]: Enhanced Data-Tether, Omnispex
+Skitarii Rangers [12 PL, 200pts]: Enhanced Data-Tether, Omnispex
 . Ranger Alpha: Arc Maul, Phosphor Blast Pistol
-. 19x Skitarii Ranger: 19x Galvanic Rifle
+. 17x Skitarii Ranger: 17x Galvanic Rifle
 . 2x Skitarii Ranger (Arc Rifle): 2x Arc Rifle
 
-Skitarii Vanguards [12 PL, 190pts]: Enhanced Data-Tether, Omnispex
-. 19x Skitarii Vanguard: 19x Radium Carbine
+Skitarii Vanguards [12 PL, 200pts]: Enhanced Data-Tether, Omnispex
+. 17x Skitarii Vanguard: 17x Radium Carbine
+. 2x Skitarii Vanguard (Arc Rifle): 2x Arc Rifle
 . Vanguard Alpha: Arc Maul, Phosphor Blast Pistol
 
 + Elites +
 
 Sicarian Ruststalkers [4 PL, 80pts]
-. Ruststalker Princeps (Razor): Chordclaw, Transonic Razor
-. 4x Sicarian Ruststalker (Blades): 4x Transonic Blades
+. Ruststalker Princeps (Razor)
+. 4x Sicarian Ruststalker (Razor/Chordclaw): 4x Chordclaw, 4x Transonic Razor
 
 + Fast Attack +
 
@@ -50,6 +53,6 @@ Ironstrider Ballistarii [4 PL, 85pts]
 Ironstrider Ballistarii [4 PL, 85pts]
 . Ironstrider Ballistarius: Twin Cognis Lascannon
 
-++ Total: [55 PL, 6CP, 998pts] ++
+++ Total: [55 PL, 4CP, 1,000pts] ++
 
 Created with BattleScribe (https://battlescribe.net)

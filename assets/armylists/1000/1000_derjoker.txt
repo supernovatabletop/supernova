@@ -1,0 +1,53 @@
+
+++ Arks of Omen Detachment (Imperium - Adeptus Astartes - Blood Angels) [68 PL, 2CP, 1,000pts] ++
+
++ Configuration +
+
+**Chapter Selector**: Blood Angels
+
+Arks of Omen Compulsory Type: Elites
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ HQ +
+
+Chapter Master [8 PL, -2CP, 145pts]: Chapter Command:  Chapter Master, Inferno pistol, Jump Pack, Relic blade, Rites of War, Stratagem: Relic, Stratagem: Warlord Trait, Visage of Death, Warlord
+
+Sanguinary Priest [6 PL, -1CP, 120pts]: 3. Soulwarden, Astartes Chainsword, Bolt pistol, Jump Pack, Stratagem: Hero of the Chapter
+
++ Troops +
+
+Infiltrator Squad [6 PL, 100pts]: Helix gauntlet
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. Infiltrator Sergeant
+
++ Elites +
+
+Death Company Marines [8 PL, 165pts]: Jump Pack
+. 5x Death Company Marine w/ thunder hammer: 5x Frag & Krak grenades, 5x Thunder hammer
+
+Sanguinary Ancient [6 PL, -1CP, 110pts]: Inferno pistol, Power fist, Stratagem: Relic of the Chapter, Wrath of Baal
+
+Sanguinary Guard [17 PL, 180pts]
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+
+Sanguinary Guard [17 PL, 180pts]
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+. Sanguinary Guard: Encarmine axe, Inferno pistol
+
+++ Total: [68 PL, 2CP, 1,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
