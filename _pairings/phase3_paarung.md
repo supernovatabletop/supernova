@@ -10,3 +10,4 @@ Strike Force Mission XX: XXX (Arks of Omen)
 
 | Spieler:in A | Spieler:in B | Gewinner |
 |--------------|--------------|----------|
+| [rem]({{ site.url }}/spielerinnen/rem) | [rem]({{ site.url }}/spielerinnen/rem) |  |

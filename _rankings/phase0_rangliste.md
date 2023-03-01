@@ -30,3 +30,6 @@ Geamttabelle der Supernova Escalation Liga.
 | 10          | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) | 2 | 0 | 0 | 2 |
 | 11          | [derjoker]({{ site.url }}/spielerinnen/derjoker) | 1 | 0 | 0 | 1 |
 | 12          | [rem]({{ site.url }}/spielerinnen/rem) | 0 | 0 | 0 | 0 |
+| 12          | [tobi131313]({{ site.url }}/spielerinnen/tobi131313) | 0 | 0 | 0 | 0 |
+| 12          | [salkinus]({{ site.url }}/spielerinnen/salkinus) | 0 | 0 | 0 | 0 |
+| 12          | [dubk1ng]({{ site.url }}/spielerinnen/dubk1ng) | 0 | 0 | 0 | 0 |
