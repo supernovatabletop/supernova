@@ -1,5 +1,5 @@
 
-++ Arks of Omen Detachment (Aeldari - Craftworlds) [49 PL, 4CP, 999pts] ++
+++ Arks of Omen Detachment (Aeldari - Craftworlds) [51 PL, 4CP, 999pts] ++
 
 + Configuration +
 
@@ -34,6 +34,9 @@ Farseer Skyrunner [6 PL, 135pts]: 1. Guide, 5. Focus Will, Witchblade
 Rangers [4 PL, 65pts]
 . 5x Ranger: 5x Ranger Long Rifle, 5x Shuriken Pistol
 
+Rangers [4 PL, 65pts]
+. 5x Ranger: 5x Ranger Long Rifle, 5x Shuriken Pistol
+
 + Elites +
 
 Dire Avengers [6 PL, 130pts]
@@ -48,10 +51,6 @@ Howling Banshees [5 PL, 110pts]
 . 4x Howling Banshee: 4x Banshee Blade, 4x Shuriken Pistol
 . Howling Banshee Exarch: Mirrorswords, Piercing Strikes
 
-Striking Scorpions [5 PL, 110pts]
-. 4x Striking Scorpion: 4x Mandiblasters, 4x Scorpion Chainsword, 4x Shuriken Pistol
-. Striking Scorpion Exarch: Biting Blade, Crushing Blows
-
 + Fast Attack +
 
 Vypers [3 PL, 45pts]
@@ -60,6 +59,9 @@ Vypers [3 PL, 45pts]
 Vypers [3 PL, 45pts]
 . Vyper w/ Shuriken Cannon: Shuriken cannon
 
-++ Total: [49 PL, 4CP, 999pts] ++
+Vypers [3 PL, 45pts]
+. Vyper w/ Shuriken Cannon: Shuriken cannon
+
+++ Total: [51 PL, 4CP, 999pts] ++
 
 Created with BattleScribe (https://battlescribe.net)
