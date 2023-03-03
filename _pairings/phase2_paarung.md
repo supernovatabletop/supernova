@@ -24,7 +24,7 @@ JustCoco666 hat die Liga leider verlassen.
 | [grimm]({{ site.url }}/spielerinnen/grimm) | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) | B |
 | [grimm]({{ site.url }}/spielerinnen/grimm) | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) | A |
 | [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) | [madeleine]({{ site.url }}/spielerinnen/madeleine) | A |
-| [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) | [derjoker]({{ site.url }}/spielerinnen/derjoker) ||
+| [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) | [derjoker]({{ site.url }}/spielerinnen/derjoker) | A |
 | [madeleine]({{ site.url }}/spielerinnen/madeleine) | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) | B |
 | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) | A |
 | [bennz]({{ site.url }}/spielerinnen/bennz) | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) | A (ff) |
