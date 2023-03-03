@@ -12,15 +12,15 @@ Geamttabelle der Supernova Escalation Liga.
 | 1           | [stardewd]({{ site.url }}/spielerinnen/stardewd) | 4 | 4 | 4 | 12 |
 | 2           | [rudolfwagrainer]({{ site.url }}/spielerinnen/rudolfwagrainer) | 4 | 3 | 4 | 11 |
 | 2           | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | 4 | 3 | 4 | 11 |
-| 2           | [sonnenbrusche]({{ site.url }}/spielerinnen/sonnenbursche) | 4 | 3 | 4 | 11 |
+| 2           | [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) | 4 | 3 | 4 | 11 |
 | 3           | [askonnox]({{ site.url }}/spielerinnen/askonnox) | 4 | 2 | 4 | 10 |
 | 3           | [kanemotri]({{ site.url }}/spielerinnen/kanemotri) | 4 | 2 | 4 | 10 |
 | 3           | [seebusch]({{ site.url }}/spielerinnen/seebusch) | 4 | 2 | 4 | 10 |
 | 4           | [bennz]({{ site.url }}/spielerinnen/bennz) | 4 | 1 | 4 | 9 |
 | 4           | [plops70]({{ site.url }}/spielerinnen/plops70) | 4 | 1 | 4 | 9 |
 | 4           | [madeleine]({{ site.url }}/spielerinnen/madeleine) | 4 | 1 | 4 | 9 |
-| 5           | [grimm]({{ site.url }}/spielerinnen/grimm) | 3 | 1 | 4 | 8 |
 | 5           | [army]({{ site.url }}/spielerinnen/army) | 4 | 2 | 2 | 8 |
+| 6           | [grimm]({{ site.url }}/spielerinnen/grimm) | 3 | 1 | 3 | 7 |
 | 6           | [autshorty]({{ site.url }}/spielerinnen/autshorty) | 4 | 0 | 3 | 7 |
 | 7           | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) | 2 | 2 | 2 | 6 |
 | 7           | [paeu]({{ site.url }}/spielerinnen/paeu) | 2 | 2 | 2 | 6 |
