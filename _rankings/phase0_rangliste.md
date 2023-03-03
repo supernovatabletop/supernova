@@ -17,14 +17,14 @@ Geamttabelle der Supernova Escalation Liga.
 | 3           | [seebusch]({{ site.url }}/spielerinnen/seebusch) | 4 | 2 | 4 | 10 |
 | 4           | [bennz]({{ site.url }}/spielerinnen/bennz) | 4 | 1 | 4 | 9 |
 | 4           | [plops70]({{ site.url }}/spielerinnen/plops70) | 4 | 1 | 4 | 9 |
+| 4           | [madeleine]({{ site.url }}/spielerinnen/madeleine) | 4 | 1 | 4 | 9 |
 | 5           | [grimm]({{ site.url }}/spielerinnen/grimm) | 3 | 1 | 4 | 8 |
 | 5           | [army]({{ site.url }}/spielerinnen/army) | 4 | 2 | 2 | 8 |
+| 5           | [sonnenbrusche]({{ site.url }}/spielerinnen/sonnenbursche) | 3 | 2 | 3 | 8 |
 | 6           | [autshorty]({{ site.url }}/spielerinnen/autshorty) | 4 | 0 | 3 | 7 |
-| 6           | [madeleine]({{ site.url }}/spielerinnen/madeleine) | 3 | 1 | 3 | 7 |
 | 7           | [luisderzwerg]({{ site.url }}/spielerinnen/luisderzwerg) | 2 | 2 | 2 | 6 |
 | 7           | [paeu]({{ site.url }}/spielerinnen/paeu) | 2 | 2 | 2 | 6 |
 | 8           | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) | 2 | 1 | 2 | 5 |
-| 8           | [sonnenbrusche]({{ site.url }}/spielerinnen/sonnenbursche) | 2 | 1 | 2 | 5 |
 | 8           | [desmont]({{ site.url }}/spielerinnen/desmont) | 2 | 1 | 2 | 5 |
 | 9           | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) | 2 | 0 | 2 | 4 |
 | 10          | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) | 2 | 0 | 0 | 2 |

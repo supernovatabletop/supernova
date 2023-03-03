@@ -21,11 +21,11 @@ Runde 2 der Supernova Escalation Liga.
 | 2           | [scurvymcg]({{ site.url }}/spielerinnen/scurvymcg) | 2 | 1 | 2 | 5 |
 | 2           | [keksbroesel]({{ site.url }}/spielerinnen/keksbroesel) | 2 | 1 | 2 | 5 |
 | 3           | [seebusch]({{ site.url }}/spielerinnen/seebusch) | 2 | 0 | 2 | 4 |
+| 3           | [madeleine]({{ site.url }}/spielerinnen/madeleine) | 2 | 0 | 2 | 4 |
 | 4           | [autshorty]({{ site.url }}/spielerinnen/autshorty) | 2 | 0 | 1 | 3 |
-| 5           | [madeleine]({{ site.url }}/spielerinnen/madeleine) | 1 | 0 | 1 | 2 |
+| 4           | [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) | 1 | 1 | 1 | 3 |
 | 5           | [handsomejackiro]({{ site.url }}/spielerinnen/handsomejackiro) | 2 | 0 | 0 | 2 |
 | 5           | [army]({{ site.url }}/spielerinnen/army) | 2 | 0 | 0 | 2 |
 | 6           | [derjoker]({{ site.url }}/spielerinnen/derjoker) | 1 | 0 | 0 | 1 |
-| -           | [sonnenbursche]({{ site.url }}/spielerinnen/sonnenbursche) | 0 | 0 | 0 | 0 |
 | -           | [rem]({{ site.url }}/spielerinnen/rem) | 0 | 0 | 0 | 0 |
 | -           | [justcoco666]({{ site.url }}/spielerinnen/justcoco666) | 0 | 0 | 0 | 0 |
