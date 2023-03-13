@@ -5,6 +5,7 @@ excerpt: Alle Monate
 ---
 
 Geamttabelle der Supernova Escalation Liga.
+Stand nach Runde 1 & Runde 2
 
 | Platzierung | Spieler/In | Spiele | Siege | Bemalt | Punkte |
 |-------------|------------|--------|-------|--------|--------|
