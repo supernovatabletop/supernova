@@ -3,7 +3,7 @@
   points: 500
   mission: 
   time_frame: Monat 1 (Jänner 2023)
-  paring_data:
+  paring_data: phase1
 2:
   name: Phase II
   points: 750
@@ -13,3 +13,6 @@
 3:
   name: Phase III
   points: 1000
+  mission: "Strike Force Mission 21: Abandoned Sanctuaries (Arks of Omen)"
+  time_frame: Monat 3 (März 2023)
+  paring_data: phase3

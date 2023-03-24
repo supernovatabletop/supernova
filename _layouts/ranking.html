@@ -40,7 +40,7 @@ layout: default
 
           {% for paring_data in site.data.pairings %}
             {% if pairings %}
-              {% assign pairings = pairings | push: paring_data[1] %}
+              {% assign pairings = pairings | concat: paring_data[1] %}
             {% else %}
               {% assign pairings = paring_data[1] %}
             {% endif %}
@@ -111,12 +111,13 @@ layout: default
           {% for i in (0..size) %}
 
             {% assign max_idx = 0 %}
-            {% assign max_score = '0' %}
+            {% assign max_score = 0 %}
             {% for j in (0..size) %}
-              {% if rankings[j][4] >= max_score %}
+              {% assign curr_score = rankings[j][4] | plus: 0 %}
+              {% if curr_score >= max_score %}
                 {% unless visited_idxs contains j %}
                   {% assign max_idx = j %}
-                  {% assign max_score = rankings[j][4] %}
+                  {% assign max_score = curr_score %}
                 {% endunless %}
               {% endif %}
             {% endfor %}
