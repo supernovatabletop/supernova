@@ -1,7 +1,7 @@
 ---
 permalink: /paarungen/
 title: Paarungen
-layout: collection
+layout: league_collection
 collection: pairings
 entries_layout: grid
 classes: wide

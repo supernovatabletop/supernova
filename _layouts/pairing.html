@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<div id="main" role="main">
+{% if page.phase and site.data.phases[page.phase] %}
+  {% assign phase = site.data.phases[page.phase] %}
+  {% assign pairing_title = "Escalation " | append: phase.name %}
+{% endif %}
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+        {% if pairing_title %}<meta itemprop="headline" content="{{ pairing_title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        {% if phase.time_frame %}<meta itemprop="description" content="{{ phase.time_frame | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header>
+          {% if pairing_title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ pairing_title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+          </h1>{% endif %}
+          {% include page__meta.html %}
+        </header>
+      {% endunless %}
+
+      <section class="page__content e-content" itemprop="text">
+        {% if phase %}
+          <p>Runde {{ page.phase }} der Supernova Escalation Liga.</p>
+          {% if phase.mission %}<p>{{ phase.mission }}</p>{% endif %}
+        {% endif %}
+
+        {{ content }}
+        
+        {% if phase and site.data.pairings[phase.paring_data] %}
+          <table>
+            <thead>
+              <tr><td>Spieler:in A</td><td>Spieler:in B</td><td>Gewinner:in</td></tr>
+            </thead>
+          {% for pairing in site.data.pairings[phase.paring_data] %}
+            {% assign player_a_path = "_players/" | append: pairing.player_a | append: ".md" %}
+            {% assign player_b_path = "_players/" | append: pairing.player_b | append: ".md" %}
+            {% assign winner_path = "_players/" | append: pairing.winner | append: ".md" %}
+            <tbody>
+              <tr>
+                <td><a href ="{% link {{ player_a_path }} %}">{{ pairing.player_a }}</a></td>
+                <td><a href ="{% link {{ player_b_path }} %}">{{ pairing.player_b }}</a></td>
+                {% if pairing.winner != null and pairing.winner != "" %}<td><a href ="{% link {{ winner_path }} %}">{{ pairing.winner }}</a></td>{% endif %}
+              </tr>
+            </tbody>
+          {% endfor %}
+          </table>
+        {% endif %}
+      </section>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        {% include page__date.html %}
+      </footer>
+    
+    {% include post_pagination.html %}
+    </div>
+  </article>
+</div>

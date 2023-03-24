@@ -10,6 +10,12 @@
 
 {%- for post in entries -%}
   {%- unless post.hidden -%}
-    {% include player-archive-single.html %}
+    {% if include.collection == 'players' %}
+      {% include player-archive-single.html %}
+    {% elsif include.collection == 'pairings' %}
+      {% include pairing-archive-single.html %}
+    {% elsif include.collection == 'rankings' %}
+      {% include ranking-archive-single.html %}
+    {% endif %}
   {%- endunless -%}
 {%- endfor -%}

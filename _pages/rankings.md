@@ -1,7 +1,7 @@
 ---
 permalink: /ranglisten/
 title: Ranglisten
-layout: collection
+layout: league_collection
 collection: rankings
 entries_layout: grid
 classes: wide

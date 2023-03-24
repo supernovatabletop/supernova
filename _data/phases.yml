@@ -1,6 +1,12 @@
 1:
   name: Phase I
   points: 500
+  mission: 
+  time_frame: Monat 1 (Jänner 2023)
+  paring_data:
 2:
   name: Phase II
   points: 750
+  mission: "Incursion Mission 13: Desperate Raid (Arks of Omen)"
+  time_frame: Monat 2 (Februar 2023)
+  paring_data: phase2
