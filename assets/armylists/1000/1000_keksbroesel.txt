@@ -1,0 +1,60 @@
+
+++ Arks of Omen Detachment (Imperium - Adeptus Astartes - Raven Guard) [58 PL, 4CP, 995pts] ++
+
++ Configuration +
+
+**Chapter Selector**: Raven Guard
+
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ HQ +
+
+Librarian in Phobos Armour [6 PL, -2CP, 110pts]: 2) Enveloping Darkness, 3) Spectral Blade, 4) Shadowstep, Chapter Command:  Chief Librarian, Master of Ambush, Stratagem: Relic, Stratagem: Warlord Trait, The Armour Indomitus, Warlord
+
++ Troops +
+
+Incursor Squad [5 PL, 90pts]: Haywire Mine
+. 4x Incursor: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Occulus bolt carbine, 4x Paired combat blades
+. Incursor Sergeant
+
+Infiltrator Squad [6 PL, 100pts]: Helix gauntlet
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. Infiltrator Sergeant
+
+Infiltrator Squad [6 PL, 100pts]: Helix gauntlet
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. Infiltrator Sergeant
+
++ Elites +
+
+Aggressor Squad [6 PL, 90pts]: 2x Flamestorm Gauntlets, 2x Aggressor, Aggressor Sergeant
+
+Invictor Tactical Warsuit [8 PL, 140pts]: Twin ironhail autocannon
+
+Reiver Squad [5 PL, 80pts]: Combat knife, 5x Grapnel Launcher, Reiver grav chute
+. 4x Reiver: 4x Frag & Krak grenades, 4x Special issue bolt pistol
+. Reiver Sergeant: Combat knife
+
++ Fast Attack +
+
+Storm Speeder Thunderstrike [8 PL, 135pts]
+
++ Heavy Support +
+
+Eliminator Squad [4 PL, 75pts]: Las Fusil
+. Eliminator Sergeant: Instigator Bolt Carbine
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+Eliminator Squad [4 PL, 75pts]: Las Fusil
+. Eliminator Sergeant: Instigator Bolt Carbine
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+++ Total: [58 PL, 4CP, 995pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

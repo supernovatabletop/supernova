@@ -1,0 +1,46 @@
+
+++ Arks of Omen Detachment (Aeldari - Craftworlds) [48 PL, 4CP, 1,000pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Elites
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Craftworld Selection: Ulthwe: Foresight of the Damned
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ HQ +
+
+Farseer Skyrunner [6 PL, -2CP, 135pts]: 4. Executioner, 6. Mind War, Stratagem: Relic, Stratagem: Warlord Trait, Ulthwe: Fate Reader, Warlord, Witchblade
+. Sunstorm
+
++ Elites +
+
+Corsair Voidscarred [4 PL, 95pts]: Corsair Voidscarred w/ Corsair Blaster, 3x Corsair Voidscarred w/ Pistol & Aeldari Power Sword
+. Voidscarred Felarch: Shuriken Pistol
+. Way Seeker: 4. Crushing Orb
+
+Fire Dragons [7 PL, 155pts]
+. 4x Fire Dragon: 4x Dragon Fusion Gun
+. Fire Dragon Exarch: Burning Heat, Firepike
+
+Warlock Skyrunners [5 PL, 135pts]: 4. Protect/Jinx, 5. Quicken/Restrain
+. Warlock Skyrunner: Singing Spear
+. Warlock Skyrunner: Singing Spear
+. Warlock Skyrunner: Singing Spear
+
++ Heavy Support +
+
+Falcon [9 PL, 160pts]: Scatter Laser, Shuriken Cannon, Star Engines
+
+Falcon [9 PL, 150pts]: Scatter Laser, Shuriken Cannon
+
+Wraithseer [8 PL, 170pts]: 2. Embolden/Horrify, D-cannon
+
+++ Total: [48 PL, 4CP, 1,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

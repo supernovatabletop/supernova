@@ -1,0 +1,42 @@
+
+++ Arks of Omen Detachment (Imperium - Adeptus Custodes) [48 PL, 4CP, 960pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Detachment Command Cost
+
+Detachment Type / Shield Host: Adeptus Custodes, Emperor's Chosen
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ HQ +
+
+Shield-Captain [7 PL, -1CP, 120pts]: 6. Peerless Warrior, Guardian Spear, Misericordia, Stratagem: Warlord Trait, Swift as the Eagle, Warlord
+
++ Troops +
+
+Custodian Guard Squad [11 PL, 225pts]
+. 5x Custodian w/ Guardian Spear & Misericordia: 5x Guardian Spear, 5x Misericordia
+
+Custodian Guard Squad [7 PL, 150pts]
+. 3x Custodian w/ Sentinel Blade & Praesidium Shield: 3x Praesidium Shield, 3x Sentinel Blade
+
+Prosecutors [3 PL, 55pts]: Prosecutor Sister Superior
+. 4x Prosecutor: 4x Boltgun
+
++ Elites +
+
+Venerable Contemptor Dreadnought [8 PL, -1CP, 155pts]: Multi-Melta, Stratagem: Eternal Penitent
+
++ Fast Attack +
+
+Vertus Praetors [12 PL, 255pts]
+. 3x Praetor w/ Salvo Launcher: 3x Interceptor Lance, 3x Salvo Launcher
+
+++ Total: [48 PL, 4CP, 960pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

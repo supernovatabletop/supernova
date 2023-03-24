@@ -4,5 +4,5 @@ name: Benjamin "BENNZ"
 army: Tyranids
 discord: BENNZ#3804
 filename: bennz
-phases: [1, 2]
+phases: [1, 2, 3]
 ---

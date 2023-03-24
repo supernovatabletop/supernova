@@ -1,0 +1,61 @@
+
+++ Arks of Omen Detachment (Chaos - Chaos Space Marines) [51 PL, 4CP, 1,000pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
+Legion: Emperor's Children
+
++ HQ +
+
+Dark Apostle [6 PL, 115pts]: Illusory Supplication, Mark of Slaanesh
+. 2x Dark Disciple: 2x Close combat weapon
+
+Heretic Astartes Daemon Prince [9 PL, -2CP, 150pts]: 5. Glutton for Punishment, Hellforged sword, Mantle of Traitors, Mark of Slaanesh, Stratagem: Relic, Stratagem: Warlord Trait, Warlord, Warptime
+
++ Troops +
+
+Cultists Mob [2 PL, 50pts]
+. 9x Chaos Cultist w/ cultist firearm: 9x Cultist firearm, 9x Frag & Krak grenades
+. Cultist Champion
+. . Autopistol and brutal assault weapon
+
+Noise Marines [6 PL, 120pts]
+. Noise Champion: Astartes chainsword, Astartes chainsword
+. Noise Marine w/ blastmaster: Blastmaster
+. 3x Noise Marine w/ chainsword: 3x Astartes chainsword, 3x Bolt pistol, 3x Frag & Krak grenades
+
+Noise Marines [6 PL, 120pts]
+. Noise Champion: Astartes chainsword, Astartes chainsword
+. Noise Marine w/ blastmaster: Blastmaster
+. 3x Noise Marine w/ chainsword: 3x Astartes chainsword, 3x Bolt pistol, 3x Frag & Krak grenades
+
+Noise Marines [6 PL, 120pts]
+. Noise Champion: Astartes chainsword, Astartes chainsword
+. Noise Marine w/ blastmaster: Blastmaster
+. 3x Noise Marine w/ chainsword: 3x Astartes chainsword, 3x Bolt pistol, 3x Frag & Krak grenades
+
+Noise Marines [6 PL, 120pts]
+. Noise Champion: Astartes chainsword, Astartes chainsword
+. Noise Marine w/ blastmaster: Blastmaster
+. 3x Noise Marine w/ chainsword: 3x Astartes chainsword, 3x Bolt pistol, 3x Frag & Krak grenades
+
++ Elites +
+
+Chaos Terminator Squad [10 PL, 205pts]: Mark of Slaanesh
+. Chaos Terminator: Accursed weapon, Combi-bolter
+. Chaos Terminator: Accursed weapon, Combi-bolter
+. Chaos Terminator: Accursed weapon, Combi-bolter
+. Chaos Terminator: Accursed weapon, Combi-bolter
+. Terminator Champion: Accursed weapon, Combi-melta
+
+++ Total: [51 PL, 4CP, 1,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
