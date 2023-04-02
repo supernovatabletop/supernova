@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+theme                    : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" #"default", "air", "aqua", "contrast", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : "Warhammer 40k Escalation-Liga"
 name                     : "Pascal Hann"
 description              : "Die Webseite der österreichischen, fan organisierten Warhammer 40k Escalation-Liga: Supernova."
-url                      : "https://supernovatabletop.github.io/supernova"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "PascalHann/supernova"
+url                      : "https://supernovatabletop.github.io"
+baseurl                  : "/supernova"
+repository               : "supernovatabletop/supernova"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.svg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
