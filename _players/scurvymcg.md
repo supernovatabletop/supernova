@@ -4,5 +4,5 @@ name: Konstantin "ScurvyMcG"
 army: Drukhari
 discord: ScurvyMcG#4532
 filename: scurvymcg
-phases: [2, 3]
+phases: [2, 3, 4]
 ---

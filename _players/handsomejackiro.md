@@ -4,5 +4,5 @@ name: Thomas "Handsome Jackiro"
 army: Sisters of Battle
 discord: Handsome Jackiro#0967
 filename: handsomejackiro
-phases: [2, 3]
+phases: [2, 3, 4]
 ---
