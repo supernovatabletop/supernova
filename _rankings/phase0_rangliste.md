@@ -1,4 +1,0 @@
----
-layout: ranking
-phase: total
----
