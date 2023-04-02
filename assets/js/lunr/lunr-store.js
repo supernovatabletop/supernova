@@ -132,7 +132,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Rem",
-        "excerpt":"Christian aka “Rem”, Master of Ceremony und notorischer Prokastinator mit Hand zur Dramatik, will nur spielen.  ","categories": [],
+        "excerpt":"Christian aka “Rem”, Master of Ceremony und notorischer Prokastinator mit Hang zur Dramatik; will nur spielen.  ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/rem",
         "teaser": null
