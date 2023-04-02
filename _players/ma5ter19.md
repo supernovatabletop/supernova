@@ -1,8 +1,8 @@
 ---
 layout: player
-name: Arthur "Army"
-army: Adeptus Mechanicus
-discord: Army#3628
+name: "Ma5ster19"
+army: Chaos Knights
+discord: Ma5ter19#8220
 filename: ma5ter19
 phases: [4]
 ---
