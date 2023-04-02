@@ -16,3 +16,9 @@
   mission: "Strike Force Mission 21: Abandoned Sanctuaries (Arks of Omen)"
   time_frame: Monat 3 (März 2023)
   paring_data: phase3
+4:
+  name: Phase IV
+  points: 1250
+  mission: "Strike Force Mission ? (Arks of Omen)"
+  time_frame: Monat 4 (April 2023)
+  paring_data: phase4

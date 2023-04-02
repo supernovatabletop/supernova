@@ -1,0 +1,109 @@
+
+++ Arks of Omen Detachment (Imperium - Astra Militarum) [68 PL, 2CP, 1,250pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
+Regimental Doctrine: Born Soldiers
+
++ No Force Org Slot +
+
+Commissar [3 PL, 40pts]: Bolt pistol, Chainsword
+
++ HQ +
+
+Cadian Command Squad [7 PL, -2CP, 125pts]: Relic: Finial of the Nemrodesh 1st, Stratagem: Officer Cadre, Stratagem: Relic
+. Cadian Commander: Bolt pistol, Power sword
+. Cadian Veterans
+. . Cadian Veteran w/ chainsword: Laspistol, Plasma gun
+. . Cadian Veteran w/ Master-Vox: Laspistol
+. . Cadian Veteran w/ Regimental Standard
+. . . Lasgun and Regimental Standard
+. Ogryn Bodyguard: Brute Shield, Ripper Gun
+. WT: Superior Tactical Training: Prefectus Orders
+
+Ursula Creed [4 PL, -1CP, 80pts]: Stratagem: Warlord Trait, Warlord, WT: Master Tactician
+
++ Troops +
+
+Cadian Shock Troops [3 PL, 65pts]
+. 6x Shock Trooper: 6x Lasgun
+. Shock Trooper Sergeant: Drum-fed Autogun
+. Shock Trooper w/ Special Weapon: Plasma gun
+. Shock Trooper w/ Special Weapon: Meltagun
+. Shock Trooper w/ Vox-caster
+
+Infantry Squad [3 PL, 65pts]
+. 5x Guardsman: 5x Lasgun
+. Guardsman W/ Special Weapon: Plasma gun
+. Guardsman w/ Vox-caster
+. Heavy Weapon Team: Mortar
+. Sergeant: Boltgun
+
+Infantry Squad [3 PL, 65pts]
+. 5x Guardsman: 5x Lasgun
+. Guardsman W/ Special Weapon: Plasma gun
+. Guardsman w/ Vox-caster
+. Heavy Weapon Team: Mortar
+. Sergeant: Boltgun
+
++ Elites +
+
+Bullgryns [5 PL, 105pts]
+. Bullgryn: Brute Shield, Bullgryn Maul
+. Bullgryn: Bullgryn Maul, Slabshield
+. Bullgryn Bone 'ead: Brute Shield, Bullgryn Maul
+
+Kasrkin [5 PL, 100pts]: Mechanised Infantry
+. Kasrkin Sargeant: Chainsword, Hot-shot Laspistol
+. 5x Kasrkin w/ Hot-shot Lasgun: 5x Frag & Krak grenades, 5x Hot-shot Lasgun
+. Kasrkin w/ Special Weapon: Meltagun
+. Kasrkin w/ Special Weapon: Meltagun
+. Kasrkin w/ Special Weapon: Hot-shot Volley Gun
+. Kasrkin w/ Special Weapon: Hot-shot Volley Gun
+
+Kasrkin [5 PL, -1CP, 100pts]: Brutal Strength
+. Kasrkin Sargeant: Chainsword, Hot-shot Laspistol, Relic: The Barbicant's Key, Stratagem: Battlefield Bequest
+. 7x Kasrkin w/ Hot-shot Lasgun: 7x Frag & Krak grenades, 7x Hot-shot Lasgun
+. Kasrkin w/ Special Weapon: Hot-shot Volley Gun
+. Kasrkin w/ Special Weapon: Hot-shot Volley Gun
+
++ Fast Attack +
+
+Armoured Sentinels [3 PL, 45pts]
+. Armoured Sentinel: Militarum Plasma Cannon
+
+Armoured Sentinels [3 PL, 45pts]
+. Armoured Sentinel: Militarum Plasma Cannon
+
+Scout Sentinels [3 PL, 40pts]
+. Scout Sentinel: Militarum Plasma Cannon
+
++ Heavy Support +
+
+Heavy Weapons Squad [3 PL, 55pts]
+. Heavy Weapon Team: Mortar
+. Heavy Weapon Team: Mortar
+. Heavy Weapon Team: Mortar
+
+Leman Russ Battle Tanks [9 PL, 165pts]
+. Leman Russ Battle Tank: Dozer Blade, Executioner Plasma Cannon, Lascannon
+. . 2 Heavy Bolters: 2x Heavy bolter
+
++ Dedicated Transport +
+
+Chimera [5 PL, 85pts]: Chimera Multi-laser
+. Heavy Flamer
+
+Taurox [4 PL, 70pts]
+
+++ Total: [68 PL, 2CP, 1,250pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

@@ -1,0 +1,66 @@
+
+++ Arks of Omen Detachment (Aeldari - Craftworlds) [62 PL, 3CP, 1,247pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Fast Attack
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Craftworld Selection
+. *Far-Flung Craftworld*: Hail of Doom
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ No Force Org Slot +
+
+Seer Council (Unit) [3 PL, -1CP, 65pts]
+. Warlock Skyrunners: 4. Protect/Jinx, Stratagem: Treasures of the Aeldari
+. . The Phoenix Gem
+. . Warlock Skyrunner: Witchblade
+
+Seer Council (Unit) [3 PL, 50pts]
+. Warlocks: 5. Quicken/Restrain
+. . Warlock: Witchblade
+. . Warlock: Witchblade
+
++ HQ +
+
+Baharroth [7 PL, 160pts]
+
+Farseer [5 PL, 105pts]: 1. Fateful Divergence, 1. Guide, Warlord, Witchblade
+
+Farseer Skyrunner [6 PL, -2CP, 135pts]: 2. Doom, 4. Executioner, 5: Mark of the Incomparable Hunter, Stratagem: Champion of the Aeldari, Stratagem: Treasures of the Aeldari, Witchblade
+. Kurnous' Bow
+
++ Troops +
+
+Rangers [4 PL, 65pts]
+. 5x Ranger: 5x Ranger Long Rifle, 5x Shuriken Pistol
+
++ Elites +
+
+Dire Avengers [6 PL, 130pts]
+. 9x Dire Avenger: 9x Avenger Shuriken Catapult, 9x Plasma Grenades
+. Dire Avenger Exarch: Two Avenger Shuriken Catapults
+
+Dire Avengers [6 PL, 117pts]
+. 8x Dire Avenger: 8x Avenger Shuriken Catapult, 8x Plasma Grenades
+. Dire Avenger Exarch: Two Avenger Shuriken Catapults
+
++ Fast Attack +
+
+Shroud Runners [5 PL, 90pts]
+. 3x Shroud Runner: 3x Ranger Long Rifle, 3x Scatter Laser, 3x Shuriken Pistol
+
+Shroud Runners [5 PL, 90pts]
+. 3x Shroud Runner: 3x Ranger Long Rifle, 3x Scatter Laser, 3x Shuriken Pistol
+
+Windriders [12 PL, 240pts]
+. 8x Windrider - Shuriken Cannon: 8x Shuriken Cannon
+
+++ Total: [62 PL, 3CP, 1,247pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
