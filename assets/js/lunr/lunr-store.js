@@ -17,6 +17,12 @@ var store = [{
         "url": "/paarungen/phase3-paarung",
         "teaser": null
       },{
+        "title": "Phase4_paarung",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/paarungen/phase4-paarung",
+        "teaser": null
+      },{
         "title": "Army",
         "excerpt":"There is no truth in flesh, only betrayal. The Enemy is the Friend. The Friend was the Emperor. Only the Black Lords can rule. With these words of truth I lead my Army into battle. Cold calculations over emotions, I will rule my Army.  ","categories": [],
         "tags": [],
@@ -99,6 +105,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/spielerinnen/luisderzwerg",
+        "teaser": null
+      },{
+        "title": "Ma5ter19",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/spielerinnen/ma5ter19",
         "teaser": null
       },{
         "title": "Madeleine",
@@ -189,5 +201,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/ranglisten/phase3-rangliste",
+        "teaser": null
+      },{
+        "title": "Phase4_rangliste",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/ranglisten/phase4-rangliste",
         "teaser": null
       }]

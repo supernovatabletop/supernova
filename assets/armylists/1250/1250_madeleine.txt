@@ -1,0 +1,57 @@
+
+++ Arks of Omen Detachment (Chaos - Daemons) [54 PL, 4CP, 1,090pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Chaos Allegiance: Chaos Undivided
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ HQ +
+
+Be'lakor [21 PL, -1CP, 420pts]: Betraying Shades, Shadow Lord, Shrouded Step, Stratagem: Warlord Trait, Warlord
+
+Changecaster [4 PL, -1CP, 85pts]: Bolt of Change, Infernal Gateway, Staff of change, Stratagem: Relic, The Everstave
+
++ Troops +
+
+Daemonettes [6 PL, 120pts]: Daemonic icon, Instrument of Chaos
+. 9x Daemonette: 9x Piercing claws
+
+Nurglings [3 PL, 60pts]
+. 3x Nurgling Swarms: 3x Diseased claws and teeth
+
+Nurglings [3 PL, 60pts]
+. 3x Nurgling Swarms: 3x Diseased claws and teeth
+
+Pink Horrors [7 PL, 140pts]: Daemonic icon, Instrument of Chaos
+. 9x Pink Horror: 9x Coruscating flames
+
+Plaguebearers [7 PL, 130pts]: Daemonic icon, Instrument of Chaos
+. 9x Plaguebearer: 9x Plaguesword
+
++ Elites +
+
+Flamers [3 PL, 75pts]: Pyrocaster
+. 2x Flamer: 2x Flickering flames
+
+++ Super-Heavy Auxiliary Detachment 0CP (Chaos - Chaos Knights) [8 PL, 160pts] ++
+
++ Configuration +
+
+Detachment Command Cost
+
++ Lord of War +
+
+War Dog Brigand Squadron [8 PL, 160pts]: Iconoclast Dreadblade, Precision Cruelty
+. War Dog Brigand: Havoc multi-launcher
+
+++ Total: [62 PL, 4CP, 1,250pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
