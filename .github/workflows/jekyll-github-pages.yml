@@ -1,21 +1,29 @@
-name: Build and Deploy Jekyll Site to GitHub Pages
+name: Build and deploy Jekyll site
 
 on:
   push:
     branches:
       - main
+    workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   jekyll:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
-      - name: 📂 setup
+      - name: 📂 checkout
         uses: actions/checkout@v2
 
       - name: 💎 setup ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2
+          ruby-version: '3.2'
+          bundler-cache: true
+          cache-version: 0
 
       - name: 🔨 install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2
