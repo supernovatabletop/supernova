@@ -1,16 +1,66 @@
 
-++ Arks of Omen Detachment (Imperium - Adeptus Astartes - Raven Guard) [12CP] ++
+++ Arks of Omen Detachment (Imperium - Adeptus Astartes - Raven Guard) [72 PL, 4CP, 1,250pts] ++
 
 + Configuration +
 
-**Chapter Selector**: Raven Guard
+**Chapter Selector**: Custom Chapter, Hungry for Battle, Raven Guard Successor, Whirlwind of Rage
 
-Battle Size [12CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+Arks of Omen Compulsory Type: Elites
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
 
 Detachment Command Cost
 
-Game Type
+Game Type: 5. Chapter Approved: Arks of Omen
 
-++ Total: [12CP] ++
++ HQ +
+
+Librarian in Phobos Armour [5 PL, -2CP, 90pts]: 2) Enveloping Darkness, 4) Shadowstep, Master of Ambush, Stratagem: Relic, Stratagem: Warlord Trait, The Armour Indomitus, Warlord
+
++ Troops +
+
+Incursor Squad [5 PL, 90pts]: Haywire Mine
+. 4x Incursor: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Occulus bolt carbine, 4x Paired combat blades
+. Incursor Sergeant
+
+Incursor Squad [5 PL, 90pts]: Haywire Mine
+. 4x Incursor: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Occulus bolt carbine, 4x Paired combat blades
+. Incursor Sergeant
+
+Infiltrator Squad [6 PL, 100pts]: Helix gauntlet
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. Infiltrator Sergeant
+
+Infiltrator Squad [6 PL, 100pts]: Helix gauntlet
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. Infiltrator Sergeant
+
++ Elites +
+
+Aggressor Squad [6 PL, 90pts]: 2x Flamestorm Gauntlets, 2x Aggressor, Aggressor Sergeant
+
+Invictor Tactical Warsuit [8 PL, 140pts]: Twin ironhail autocannon
+
+Redemptor Dreadnought [10 PL, 185pts]: 2x Storm Bolters, Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon
+
+Reiver Squad [5 PL, 80pts]: Combat knife, 5x Grapnel Launcher, Reiver grav chute
+. 4x Reiver: 4x Frag & Krak grenades, 4x Special issue bolt pistol
+. Reiver Sergeant: Combat knife
+
++ Fast Attack +
+
+Storm Speeder Thunderstrike [8 PL, 135pts]
+
++ Heavy Support +
+
+Eliminator Squad [4 PL, 75pts]: Las Fusil
+. Eliminator Sergeant: Bolt sniper rifle
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+Eliminator Squad [4 PL, 75pts]: Las Fusil
+. Eliminator Sergeant: Bolt sniper rifle
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+++ Total: [72 PL, 4CP, 1,250pts] ++
 
 Created with BattleScribe (https://battlescribe.net)
