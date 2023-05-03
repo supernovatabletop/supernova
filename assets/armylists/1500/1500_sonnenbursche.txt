@@ -1,0 +1,69 @@
+
+++ Arks of Omen Detachment (Imperium - Adeptus Astartes - Black Templars) [102 PL, 1CP, 1,498pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Chapter Selection: Black Templars
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ HQ +
+
+Primaris Chaplain on Bike [7 PL, -2CP, 115pts]: 1. Litany of Divine Protection, Iron Resolve, Litany of Hate (Aura), Stratagem: Hero of the Chapter, Stratagem: Relic, Tannhauser's Bones
+
++ Troops +
+
+Infiltrator Squad [6 PL, 100pts]: Helix gauntlet
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. Infiltrator Sergeant
+
+Infiltrator Squad [6 PL, 100pts]: Helix gauntlet
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. Infiltrator Sergeant
+
+Primaris Crusader Squad [10 PL, -1CP, 158pts]: Bolt Pistol and Astartes Chainsword
+. 3x Primaris Initiate w/Chainsword & Heavy Bolt Pistol: 3x Astartes Chainsword, 3x Frag & Krak grenades, 3x Heavy Bolt Pistol
+. 2x Primaris Initiate w/Power Fist and Heavy bolt pistol: 2x Frag & Krak grenades, 2x Heavy Bolt Pistol, 2x Power fist
+. 4x Primaris Neophytes: 4x Frag & Krak grenades
+. Primaris Sword Brother: Power sword, Pyre Pistol, Stratagem: Revered Repositories, Sword of Judgement
+
++ Elites +
+
+Aggressor Squad [13 PL, -1CP, 165pts]: The Crux Obsidian
+. 4x Aggressor
+. Aggressor Sergeant: Stratagem: Champion of the Feast
+. Auto Boltstorm Gauntlets/Fragstorm Grenade Launcher
+
+Apothecary [5 PL, -1CP, 95pts]: Chapter Command:  Chief Apothecary, Selfless Healer, Stratagem: Warlord Trait, Warlord
+
+Bladeguard Veteran Squad [11 PL, 155pts]: Icon of Heinmann
+. 3x Bladeguard Veteran: 3x Frag & Krak grenades, 3x Heavy Bolt Pistol, 3x Master-crafted power sword, 3x Storm Shield
+. Bladeguard Veteran Sergeant: Heavy Bolt Pistol
+
+Primaris Sword Brethren Squad [16 PL, 220pts]
+. Primaris Sword Brethren: Pyre Pistol, Thunder hammer
+. Primaris Sword Brethren: Pyre Pistol, Thunder hammer
+. Primaris Sword Brethren: Lightning Claw (Pair), Pyre Pistol
+. Primaris Sword Brethren: Lightning Claw (Pair), Pyre Pistol
+. Primaris Sword Brethren: Astartes Chainsword, Plasma pistol
+. Primaris Sword Brethren: Astartes Chainsword, Plasma pistol
+. Primaris Sword Brethren: Heavy Bolt Pistol, Power axe
+. Primaris Sword Brethren: Heavy Bolt Pistol, Power axe
+. Primaris Sword Brethren: Heavy Bolt Pistol, Power sword
+. Primaris Sword Brethren: Heavy Bolt Pistol, Power sword
+
++ Heavy Support +
+
+Gladiator Valiant  [12 PL, 170pts]: Auto Launchers, Icarus Rocket Pod, Multi-melta
+
+Repulsor [16 PL, 220pts]: 2x Storm Bolters, Auto Launchers, Icarus Rocket Pod, Las-talon, Multi-melta, Onslaught Gatling Cannon, Twin lascannon
+
+++ Total: [102 PL, 1CP, 1,498pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
