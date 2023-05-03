@@ -15,5 +15,5 @@ madeleine,army,true,true,true,false,madeleine
 madeleine,autshorty,true,true,true,false,madeleine
 grimm,handsomejackiro,,,,,
 grimm,derjoker,,,,,,
-ma5ter19,derjoker,,,,,
-handsomejackiro,ma5ter19,,,,,
+ma5ter19,derjoker,false,false,true,false,
+handsomejackiro,ma5ter19,false,false,false,true,
