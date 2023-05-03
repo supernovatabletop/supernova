@@ -23,6 +23,12 @@ var store = [{
         "url": "/supernova/paarungen/phase4-paarung",
         "teaser": null
       },{
+        "title": "Phase5_paarung",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/paarungen/phase5-paarung",
+        "teaser": null
+      },{
         "title": "Army",
         "excerpt":"There is no truth in flesh, only betrayal. The Enemy is the Friend. The Friend was the Emperor. Only the Black Lords can rule. With these words of truth I lead my Army into battle. Cold calculations over emotions, I will rule my Army.  ","categories": [],
         "tags": [],
@@ -207,5 +213,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/ranglisten/phase4-rangliste",
+        "teaser": null
+      },{
+        "title": "Phase5_rangliste",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/ranglisten/phase5-rangliste",
         "teaser": null
       }]
