@@ -8,12 +8,12 @@ sonnenbursche,rem,true,true,true,true,rem
 stardewd,keksbroesel,true,true,true,true,keksbroesel
 luisderzwerg,salkinus,true,true,true,true,
 rem,autshorty,true,true,true,false,rem
-salkinus,scurvymcg,,,,,
+salkinus,scurvymcg,false,false,false,false,
 army,kanemotri,true,true,false,true,kanemotri
 scurvymcg,kanemotri,true,true,false,true,scurvymcg
 madeleine,army,true,true,true,false,madeleine
 madeleine,autshorty,true,true,true,false,madeleine
-grimm,handsomejackiro,,,,,
-grimm,derjoker,,,,,,
+grimm,handsomejackiro,false,false,false,false,
+grimm,derjoker,false,false,false,false,,
 ma5ter19,derjoker,false,false,true,false,
 handsomejackiro,ma5ter19,false,false,false,true,
