@@ -1,0 +1,80 @@
+
+++ Arks of Omen Detachment (Orks) [85 PL, 5CP, 1,500pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Troops
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Clan Kultur: Bad Moons
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
++ HQ +
+
+Big Mek w/ Kustom Force Field [5 PL, 90pts]: Grot Oiler
+
+Warboss [5 PL, -1CP, 105pts]: Attack Squig, Da Killa Klaw, Kombi-rokkit, Power Klaw, Stratagem: Relic, Warlord
+
+Weirdboy [4 PL, 70pts]: 3. Da Jump, 4. Fists of Gork
+
++ Troops +
+
+Boyz [5 PL, 85pts]
+. Boss Nob: Choppa, Slugga
+. Ork Boy w/ 'Eavy Weapon: Rokkit Launcha
+. 8x Ork Boy w/ Slugga & Choppa: 8x Choppa, 8x Slugga, 8x Stikkbombs
+
+Boyz [5 PL, 85pts]
+. Boss Nob: Choppa, Slugga
+. Ork Boy w/ 'Eavy Weapon: Rokkit Launcha
+. 8x Ork Boy w/ Slugga & Choppa: 8x Choppa, 8x Slugga, 8x Stikkbombs
+
+Gretchin [2 PL, 40pts]
+. 10x Gretchin: 10x Grot Blaster
+
++ Elites +
+
+Kommandos [4 PL, 60pts]
+. Boss Nob: Power Klaw
+. 4x Kommando: 4x Choppa, 4x Slugga, 4x Stikkbombs
+
+Meganobz [6 PL, 110pts]
+. Boss Meganob: Killsaw, Power Klaw
+. Meganob: Kombi-rokkit, Power Klaw
+. Meganob: Kombi-skorcha, Power Klaw
+
+Nobz [6 PL, 95pts]: Ammo Runt
+. Boss Nob: Choppa, Slugga
+. Nob: Power Klaw, Slugga
+. Nob: Big Choppa, Slugga
+. Nob: Big Choppa, Slugga
+. Nob: Power Klaw, Slugga
+
++ Fast Attack +
+
+Boomdakka Snazzwagons [5 PL, 90pts]
+. Boomdakka Snazzwagon
+
+Megatrakk Scrapjets [5 PL, 100pts]
+. Megatrakk Scrapjet
+
+Rukkatrukk Squigbuggies [6 PL, 95pts]
+. Rukkatrukk Squigbuggy
+
++ Heavy Support +
+
+Battlewagon [8 PL, 135pts]: 2x Big Shoota, Grabbin' Klaw, Killkannon
+
+Kill Rig [11 PL, 190pts]: 1. Roar of Mork, 6. Squiggly Curse
+
++ Flyer +
+
+Blitza-bommer [8 PL, 150pts]
+
+++ Total: [85 PL, 5CP, 1,500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

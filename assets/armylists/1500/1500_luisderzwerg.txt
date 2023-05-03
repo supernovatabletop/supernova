@@ -1,0 +1,35 @@
+
+++ Arks of Omen Detachment (Imperium - Imperial Knights) [77 PL, 6CP, 1,490pts] ++
+
++ Configuration +
+
+Arks of Omen Compulsory Type: Lord of War
+
+Battle Size [6CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Chivalric Oath: Mixed Army
+
+Detachment Command Cost
+
+Game Type: 5. Chapter Approved: Arks of Omen
+
+Questor Allegiance: Custom, Custom Household: Strike and Shield, Questor Imperialis 
+
++ Lord of War +
+
+Armiger Warglaives [16 PL, 300pts]
+. Armiger Warglaive: Meltagun
+. Armiger Warglaive: Meltagun
+
+Armiger Warglaives [16 PL, 300pts]
+. Armiger Warglaive: Meltagun
+. Armiger Warglaive: Meltagun
+
+Canis Rex [22 PL, 440pts]: Knightly Teaching: Random, Warlord
+
+Knight Paladin [23 PL, 450pts]: Ironstorm Missile Pod, Meltagun, Reaper Chainsword
+. Rapid-Fire Battle Cannon w/ Questor Ironhail Stubber
+
+++ Total: [77 PL, 6CP, 1,490pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
