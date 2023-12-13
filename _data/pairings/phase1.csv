@@ -1,16 +1,2 @@
 player_a,player_b,present_a,present_b,painted_a,painted_b,winner
-army,justcoco666,true,true,true,true,army
-army,bennz,true,true,true,true,army
-stardewd,askonnox,true,true,true,true,stardewd
-stardewd,madeleine,true,true,true,true,stardewd
-gripofchaos,plops70,true,true,true,true,gripofchaos
-gripofchaos,kanemotri,true,true,true,true,gripofchaos
-autshorty,keksbroesel,true,true,true,true,keksbroesel
-autshorty,sonnenbursche,true,true,true,true,sonnenbursche
-rudolfwagrainer,bennz,true,true,true,true,rudolfwagrainer
-rudolfwagrainer,kanemotri,true,true,true,true,rudolfwagrainer
-seebusch,plops70,true,true,true,true,seebusch
-seebusch,sonnenbursche,true,true,true,true,seebusch
-madeleine,justcoco666,true,true,true,true,madeleine
-askonnox,keksbroesel,true,true,true,true,keksbroesel
-desmont,grimm,true,true,true,true,desmont
+rem,keksbroesel,,,,,
