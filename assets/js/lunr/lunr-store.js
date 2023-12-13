@@ -5,6 +5,12 @@ var store = [{
         "url": "/supernova/paarungen/phase1-paarung",
         "teaser": null
       },{
+        "title": "Aquila",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/aquila",
+        "teaser": null
+      },{
         "title": "Army",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -21,6 +27,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/bennz",
+        "teaser": null
+      },{
+        "title": "Disqord",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/disqord",
         "teaser": null
       },{
         "title": "Handsomejackiro",
@@ -45,6 +57,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/keksbroesel",
+        "teaser": null
+      },{
+        "title": "Lackofgreatness",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/lackofgreatness",
         "teaser": null
       },{
         "title": "Linus",
