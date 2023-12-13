@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Matthias "Askonnox"
-army: Leagues of Votann
+army: Astrodude
 discord: Askonnox#5956
 filename: askonnox
 phases: [1]

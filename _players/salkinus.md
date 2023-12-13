@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Niklas "Salkinus"
-army: Craftworld Eldar
+army: Twisted Sisters
 discord: Salkinus#2440
 filename: salkinus
 phases: [1]

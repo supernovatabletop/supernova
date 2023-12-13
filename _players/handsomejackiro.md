@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Thomas "Handsome Jackiro"
-army: Sisters of Battle
+army: tba
 discord: Handsome Jackiro#0967
 filename: handsomejackiro
 phases: [1]

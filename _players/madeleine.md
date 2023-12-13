@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Madeleine
-army: Astra Militarum & Chaos Demons
+army: tba
 discord: Madeleine#1697
 filename: madeleine
 phases: [1]
