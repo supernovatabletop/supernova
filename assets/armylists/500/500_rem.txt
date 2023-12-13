@@ -1,0 +1,42 @@
+
+++ Army Roster (Chaos - Death Guard) [495pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Plague Company
+
+Show/Hide Options: Chaos Knights are visible, Legends are visible, Nurgle Daemons are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Biologus Putrifier [50pts]: Warlord
+
+Biologus Putrifier [50pts]
+
++ Battleline +
+
+Plague Marines [80pts]
+. Plague Champion: Heavy plague weapon, Plasma gun
+. 2x Plague Marine w/ heavy plague weapon: 2x Heavy plague weapon, 2x Plague knives
+. Plague Marine w/ plague spewer
+. Plague Marine w/ special weapon: Meltagun
+
+Plague Marines [80pts]
+. Plague Champion: Heavy plague weapon, Plasma gun
+. 2x Plague Marine w/ heavy plague weapon: 2x Heavy plague weapon, 2x Plague knives
+. Plague Marine w/ plague spewer
+. Plague Marine w/ special weapon: Meltagun
+
++ Dedicated Transport +
+
+Death Guard Rhino [75pts]: Havoc launcher, Plague combi-bolter
+
++ Allied Units +
+
+War Dog Brigand [160pts]: Havoc multi-launcher
+
+++ Total: [495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

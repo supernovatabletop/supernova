@@ -83,6 +83,12 @@ var store = [{
         "url": "/supernova/spielerinnen/linus",
         "teaser": null
       },{
+        "title": "Lupublic",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/lupublic",
+        "teaser": null
+      },{
         "title": "Ma5ter19",
         "excerpt":" ","categories": [],
         "tags": [],
