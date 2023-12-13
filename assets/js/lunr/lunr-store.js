@@ -35,10 +35,22 @@ var store = [{
         "url": "/supernova/spielerinnen/disqord",
         "teaser": null
       },{
+        "title": "Grip",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/grip",
+        "teaser": null
+      },{
         "title": "Handsomejackiro",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/handsomejackiro",
+        "teaser": null
+      },{
+        "title": "Iceknight",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/iceknight",
         "teaser": null
       },{
         "title": "Justcoco666",
@@ -95,6 +107,12 @@ var store = [{
         "url": "/supernova/spielerinnen/plops70",
         "teaser": null
       },{
+        "title": "Polsebjorn",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/polsebjorn",
+        "teaser": null
+      },{
         "title": "Rem",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -129,6 +147,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/tobi131313",
+        "teaser": null
+      },{
+        "title": "Whitewolf",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/whitewolf",
         "teaser": null
       },{
         "title": "Phase0_rangliste",
