@@ -1,0 +1,30 @@
+
+++ Army Roster (Imperium - Space Marines) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Firestorm Assault Force
+
++ Character +
+
+Librarian in Terminator Armour [90pts]: Combi-weapon, Forged in Battle, Warlord
+
++ Infantry +
+
+Infernus Squad [85pts]
+. 4x Infernus Marines: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Pyreblaster
+. Infernus Sergeant
+
+Terminator Squad [185pts]
+. Terminator Sergeant: Power Fist
+. 4x Terminator w/ Power Fist: 4x Power Fist, 4x Storm Bolter
+
++ Vehicle +
+
+Ballistus Dreadnought [140pts]
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
