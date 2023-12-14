@@ -1,0 +1,35 @@
+
+++ Army Roster (Xenos - Leagues of Votann) [495pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Oathband
+
++ Character +
+
+Kâhl [95pts]: Mass gauntlet, Rampart crest, Volkanite disintegrator, Warlord, Wayfarer's Grace
+
++ Battleline +
+
+Hearthkyn Warriors [110pts]: Comms array, Medipack, Pan spectral scanner
+. 9x Hearthkyn Warrior: 9x Autoch-pattern bolt pistol, 9x Close combat weapon, 9x Ion blaster
+. Theyn: Autoch-pattern bolt pistol, Ion blaster
+
++ Mounted +
+
+Hernkyn Pioneers [90pts]
+. Hernkyn Pioneer w/ HYLas rotary cannon
+. Hernkyn Pioneer w/ pan-spectral scanner
+. Hernkyn Pioneer w/ searchlight
+
++ Dedicated Transport +
+
+Sagitaur [100pts]: HYLas beam cannon
+
+Sagitaur [100pts]: HYLas beam cannon
+
+++ Total: [495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
