@@ -1,6 +1,6 @@
 ---
 layout: player
-name: "disqord_or_something_idk"
+name: Christian "disqord"
 army: Might of Metal
 discord: disqord_or_something_idk
 filename: disqord

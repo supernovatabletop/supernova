@@ -1,6 +1,6 @@
 ---
 layout: player
-name: "Polsebjorn"
+name: Georg "Polsebjorn"
 army: tba
 discord: polsebjorn
 filename: polsebjorn

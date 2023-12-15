@@ -1,6 +1,6 @@
 ---
 layout: player
-name: "Tempest of Fury"
+name: Niko "Tempest of Fury"
 army: Sledgehammer
 discord: lackofgreatness
 filename: lackofgreatness

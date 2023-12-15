@@ -16,7 +16,8 @@ Es ist wieder mal soweit: neues Jahr, neue Armee! Und damit auch eine neue Runde
 
 Dieses Jahr haben wir uns  jedoch einen Twist überlegt: die Liga wird in Teams gespielt. Jedes Team besteht aus zwei Personen, die jeweils ihre eigene Armee aufbauen. Nach euren Spielen werden die Siegespunkte der Teams zusammengezählt und das Team mit mehr Punkten gewinnt. Du findest keine zweite Person? Melde dich bei uns, und wir losen dir jemanden zu.
 
-Du hast keinen Teampartner möchtest aber trotzdem mitmachen? Hier findest du sicher jemanden: https://rb.gy/q33irj (Discordchannel der Liga)
+Du hast keinen Teampartner möchtest aber trotzdem mitmachen? Hier findest du sicher jemanden:  
+<https://rb.gy/q33irj> (Discordchannel der Liga)
 
 Wir starten mit 500 Punkten und erhöhen jeden Monat um 250, sodass du im Juli 2024 eine vollständig bemalte 2000 Punkte Armee fertig hast. Jeden Monat schickst du uns bis zum Monatsersten deine Armeeliste mit der entsprechenden Punktezahl.
 Zu Monatsbeginn gibt es von uns einen Discord-Stream, bei dem die Pairings und die Mission vorgestellt werden. Jedes Team spielt jeden Monat zwei Mal die ausgeloste Mission gegen die ausgelosten Gegner - Platz 1 deines Teams gegen die Plätze 1 von zwei anderen Teams und Platz 2 gegen deren 2te Plätze. Danach meldest du uns das Spielergebnis in Punkten.
@@ -65,6 +66,9 @@ Wir führen eine Tabelle mit den Ligaergebnissen. Punkte erhält jeder Spieler n
 
 *Kann ich meine Liste jedes Monat neu zusammenstellen?*  
 **Ja**. Du kannst im bnächsten Monat auch eine komplett neue Armee spielen. Wichtig ist nur, dass du in den beiden Matches des Monats genau die Liste spielst, die du am Monatsersten geschickt hast.
+
+*Darf ich meinem Teampartner übrig gebliebene Punkte meiner Armee weiter geben?*  
+**Nein**. Jede Armeeliste darf bis zu 500 (bzw. die Punktezahl des jeweiligen Monats) betragen.
 
 *Eskalieren die Punkte +250 Punkte monatlich oder nach jedem Match?*  
 **Monatlich**. Im Jänner spielen wir 2 Matches mit 500 Punkten, im Februar 2 Matches mit 750 Punkten, im März 1000 Punkte, etc.
