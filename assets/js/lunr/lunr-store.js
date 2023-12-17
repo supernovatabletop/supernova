@@ -35,6 +35,12 @@ var store = [{
         "url": "/supernova/spielerinnen/disqord",
         "teaser": null
       },{
+        "title": "Green",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/green",
+        "teaser": null
+      },{
         "title": "Grip",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -153,6 +159,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/stardewd",
+        "teaser": null
+      },{
+        "title": "Superkonsti",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/superkonsti",
         "teaser": null
       },{
         "title": "Tobi131313",
