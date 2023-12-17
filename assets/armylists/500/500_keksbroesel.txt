@@ -1,0 +1,39 @@
+
+++ Army Roster (Xenos - T'au Empire) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Kauyon
+
++ Epic Hero +
+
+Commander Farsight [90pts]: Warlord
+
++ Battleline +
+
+Breacher Team [90pts]
+. Breacher Fire Warrior Shas'ui: Guardian Drone, Marker Drone
+. 9x Breacher Fire Warriors: 9x Close combat weapon, 9x Pulse blaster, 9x Pulse pistol
+
++ Beast +
+
+Kroot Hounds [30pts]
+. 4x Kroot Hounds: 4x Ripping fangs
+
++ Vehicle +
+
+Ghostkeel Battlesuit [160pts]: Battlesuit support system, Fusion collider, Twin fusion blaster
+
+Piranha [55pts]
+. Piranhas: Piranha fusion blaster, 2x Seeker missile
+
++ Dedicated Transport +
+
+Devilfish [75pts]: 2x Seeker missile
+. 2 Twin pulse carbines
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

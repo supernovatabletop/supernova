@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Benjamin "BENNZ"
-army: tba
+army: WeWeen
 discord: BENNZ#3804
 filename: bennz
 phases: [1]
