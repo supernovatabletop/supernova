@@ -65,16 +65,10 @@ var store = [{
         "url": "/supernova/spielerinnen/grip",
         "teaser": null
       },{
-        "title": "Handsomejackiro",
+        "title": "Halato",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/supernova/spielerinnen/handsomejackiro",
-        "teaser": null
-      },{
-        "title": "Iceknight",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/supernova/spielerinnen/iceknight",
+        "url": "/supernova/spielerinnen/halato",
         "teaser": null
       },{
         "title": "Justcoco",
@@ -105,12 +99,6 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/linus",
-        "teaser": null
-      },{
-        "title": "Lionel",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/supernova/spielerinnen/lionel",
         "teaser": null
       },{
         "title": "Lupublic",
@@ -161,12 +149,6 @@ var store = [{
         "url": "/supernova/spielerinnen/rem",
         "teaser": null
       },{
-        "title": "Rudolfwagrainer",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/supernova/spielerinnen/rudolfwagrainer",
-        "teaser": null
-      },{
         "title": "Salkinus",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -209,10 +191,10 @@ var store = [{
         "url": "/supernova/spielerinnen/tobi131313",
         "teaser": null
       },{
-        "title": "Whitewolf",
+        "title": "Tris",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/supernova/spielerinnen/whitewolf",
+        "url": "/supernova/spielerinnen/tris",
         "teaser": null
       },{
         "title": "Phase0_rangliste",
