@@ -1,6 +1,6 @@
 ---
 layout: player
-name: "Empix"
+name: Jakub "Empix"
 army: Bloody Chaos
 discord: empix
 filename: empix

@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Christoph "MasterCraze"
-army: Bloody Chaos
+army: Cirque de Waaghleil
 discord: mastercraze
 filename: mastercraze
 phases: [1]

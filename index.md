@@ -73,6 +73,9 @@ Wir führen eine Tabelle mit den Ligaergebnissen. Punkte erhält jeder Spieler n
 *Eskalieren die Punkte +250 Punkte monatlich oder nach jedem Match?*  
 **Monatlich**. Im Jänner spielen wir 2 Matches mit 500 Punkten, im Februar 2 Matches mit 750 Punkten, im März 1000 Punkte, etc.
 
+*Werden die 500 Punkte Spiele auf 44x30 gespielt, so wie Combat Patrol? Wie siehts dann bei 750 aus?*  
+**Ja**. 500 und 750 Punkte werden auf dem kleinen Spielfeld 44"x30" gespielt. Ab 1000 Punkten spielen wir dann auf den großen 60"x44" Platten.
+
 *Was passiert, wenn wir keinen Termin finden?*  
 Sollte nur eines der Spiele zustandekommen, so wird nur dieses Ergebnis gewertet. Falls ihr tatsächlich keinen Termin schafft, dann erhalten beide Teams einen Punkt, als ob ein Spiel unentschieden ausgegangen wäre.
 

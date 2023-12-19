@@ -1,7 +1,7 @@
 ---
 layout: player
-name: "Divado"
-army: Cirque de Waaghleil
+name: Philip "Divado"
+army: Bloody Chaos
 discord: divado
 filename: divado
 phases: [1]
