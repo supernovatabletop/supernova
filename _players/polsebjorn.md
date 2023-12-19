@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Georg "Polsebjorn"
-army: tba
+army: Ragnarork
 discord: polsebjorn
 filename: polsebjorn
 phases: [1]

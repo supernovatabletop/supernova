@@ -1,0 +1,32 @@
+
+++ Army Roster (Xenos - Necrons) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Awakened Dynasty
+
++ Character +
+
+Chronomancer [50pts]
+
+Psychomancer [55pts]
+
+Royal Warden [40pts]: Warlord
+
++ Battleline +
+
+Immortals [140pts]
+. 10x Immortal: 10x Close combat weapon, 10x Gauss blaster
+
+Necron Warriors [100pts]
+. 10x Warrior w/ gauss flayer: 10x Close combat weapon, 10x Gauss flayer
+
++ Vehicle +
+
+Annihilation Barge [115pts]: Gauss cannon
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

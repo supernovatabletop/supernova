@@ -1,0 +1,34 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Space Wolves) [490pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Gladius Task Force
+
++ Character +
+
+Apothecary [50pts]
+
+Captain [80pts]: Warlord
+. Heavy Bolt Pistol, Master-crafted power weapon and 1 Relic Shield
+
++ Battleline +
+
+Assault Intercessor Squad [160pts]
+. Assault Intercessor Sergeant: Astartes Chainsword, Heavy Bolt Pistol
+. 9x Assault Intercessors: 9x Astartes Chainsword, 9x Heavy Bolt Pistol
+
+Intercessor Squad [170pts]: 2x Astartes Grenade Launcher
+. Intercessor Sergeant: Bolt Rifle, Close Combat Weapon
+. 9x Intercessors: 9x Bolt Pistol, 9x Bolt Rifle, 9x Close Combat Weapon
+
++ Beast +
+
+Fenrisian Wolves [30pts]
+. 5x Fenrisian Wolf: 5x Teeth and claws
+
+++ Total: [490pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
