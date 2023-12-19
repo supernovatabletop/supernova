@@ -1,8 +1,8 @@
 ---
 layout: player
 name: Madeleine
-army: tba
-discord: Madeleine#1697
+army: My Fancy Teamname
+discord: sweetmadeleines
 filename: madeleine
 phases: [1]
 ---

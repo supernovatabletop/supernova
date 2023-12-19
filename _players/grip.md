@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Michael "GripOfChaos"
-army: tba
+army: My Fancy Teamname
 discord: gripofchaos
 filename: grip
 phases: [1]
