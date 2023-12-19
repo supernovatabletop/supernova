@@ -29,10 +29,28 @@ var store = [{
         "url": "/supernova/spielerinnen/bennz",
         "teaser": null
       },{
+        "title": "Chorche",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/chorche",
+        "teaser": null
+      },{
         "title": "Disqord",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/disqord",
+        "teaser": null
+      },{
+        "title": "Divado",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/divado",
+        "teaser": null
+      },{
+        "title": "Empix",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/empix",
         "teaser": null
       },{
         "title": "Green",
@@ -59,10 +77,10 @@ var store = [{
         "url": "/supernova/spielerinnen/iceknight",
         "teaser": null
       },{
-        "title": "Justcoco666",
+        "title": "Justcoco",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/supernova/spielerinnen/justcoco666",
+        "url": "/supernova/spielerinnen/justcoco",
         "teaser": null
       },{
         "title": "Kanemotri",
@@ -111,6 +129,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/madeleine",
+        "teaser": null
+      },{
+        "title": "Mastercraze",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/mastercraze",
         "teaser": null
       },{
         "title": "Paeu",
