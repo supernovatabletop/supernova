@@ -173,6 +173,12 @@ var store = [{
         "url": "/supernova/spielerinnen/salkinus",
         "teaser": null
       },{
+        "title": "Saschanian",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/saschanian",
+        "teaser": null
+      },{
         "title": "Scurvymcg",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -189,6 +195,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/superkonsti",
+        "teaser": null
+      },{
+        "title": "Thelyricalmachete",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/thelyricalmachete",
         "teaser": null
       },{
         "title": "Tobi131313",
