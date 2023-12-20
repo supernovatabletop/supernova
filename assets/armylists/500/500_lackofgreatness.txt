@@ -1,0 +1,32 @@
+
+++ Army Roster (Chaos - World Eaters) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Blessings of Khorne Reference
+
+Detachment Choice: Berzerker Warband
+
++ Character +
+
+World Eaters Daemon Prince [225pts]: Helm of Brazen Ire, Warlord
+
+World Eaters Master of Executions [105pts]: Berzerker Glaive
+
++ Battleline +
+
+Jakhals [70pts]
+. A: 8 chainblades
+. . 8x Jakhals: 8x Autopistol, 8x Jakhal chainblades
+. Dishonoured w/ chainblades
+
+Khorne Berserkers [100pts]: Icon of Khorne
+. 3x Khorne Berserker: 3x Berserker chainblade, 3x Bolt pistol
+. Khorne Berserker Champion: Bolt pistol
+. Khorne Berserker w/ alternate weapons: Khornate eviscerator, Plasma pistol
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
