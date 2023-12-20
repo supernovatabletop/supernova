@@ -35,6 +35,12 @@ var store = [{
         "url": "/supernova/spielerinnen/chorche",
         "teaser": null
       },{
+        "title": "Chuhonez",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/chuhonez",
+        "teaser": null
+      },{
         "title": "Disqord",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -125,6 +131,12 @@ var store = [{
         "url": "/supernova/spielerinnen/madeleine",
         "teaser": null
       },{
+        "title": "Mariobiber",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/mariobiber",
+        "teaser": null
+      },{
         "title": "Mastercraze",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -171,6 +183,18 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/scurvymcg",
+        "teaser": null
+      },{
+        "title": "Secret",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/secret",
+        "teaser": null
+      },{
+        "title": "Skizz",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/skizz",
         "teaser": null
       },{
         "title": "Stardewd",
