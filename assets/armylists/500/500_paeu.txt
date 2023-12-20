@@ -1,0 +1,38 @@
+
+++ Army Roster (Xenos - Tyranids) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Vanguard Onslaught
+
++ Epic Hero +
+
+Deathleaper [70pts]: Warlord
+
++ Character +
+
+Parasite of Mortrex [110pts]: Neuronode
+
++ Infantry +
+
+Neurolictor [65pts]
+
+Neurolictor [65pts]
+
+Von Ryan's Leapers [75pts]
+. 3x Von Ryan's Leaper: 3x Leaper's Talons
+
+Von Ryan's Leapers [75pts]
+. 3x Von Ryan's Leaper: 3x Leaper's Talons
+
++ Swarm +
+
+Ripper Swarms [20pts]: Ripper Swarm
+
+Ripper Swarms [20pts]: Ripper Swarm
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
