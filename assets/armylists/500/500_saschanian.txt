@@ -1,0 +1,40 @@
+
+++ Army Roster (Xenos - T'au Empire) [485pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Kauyon
+
++ Character +
+
+Cadre Fireblade [40pts]
+. 2x Gun Drone: 2x Twin pulse carbine
+
+Commander in Coldstar Battlesuit [125pts]: Cyclic ion blaster, 2x Cyclic ion blaster, Exemplar of the Kauyon, 2x Shield Drone, Shield generator, Warlord
+
++ Battleline +
+
+Strike Team [80pts]
+. Fire Warrior Shas'ui
+. . Guardian Drone
+. . Gun Drone
+. 9x Fire Warrior w/ pulse rifle: 9x Close combat weapon, 9x Pulse pistol, 9x Pulse rifle
+
++ Infantry +
+
+Stealth Battlesuits [60pts]
+. 2x Stealth Shas'ui w/ burst cannon: 2x Battlesuit fists, 2x Burst cannon
+. Stealth Shas'vre: Battlesuit support system, Burst cannon, 2x Shield Drone
+
++ Vehicle +
+
+Crisis Battlesuits [180pts]
+. Crisis Shas’ui: 2x Cyclic ion blaster, Cyclic ion blaster, 2x Shield Drone, Shield generator
+. Crisis Shas’ui: Cyclic ion blaster, 2x Cyclic ion blaster, 2x Shield Drone, Shield generator
+. Crisis Shas’vre: 2x Cyclic ion blaster, Cyclic ion blaster, 2x Shield Drone, Shield generator
+
+++ Total: [485pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
