@@ -1,0 +1,41 @@
+
+++ Army Roster (Imperium - Adeptus Mechanicus) [475pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Rad Zone Corps
+
++ Character +
+
+Tech-Priest Dominus [100pts]: Macrostubber, Radial Suffusion, Volkite blaster, Warlord
+
+Tech-Priest Manipulus [75pts]: Peerless Eradicator, Transonic cannon
+
++ Battleline +
+
+Skitarii Vanguard [80pts]
+. Skitarii Vanguard Alpha: Alpha combat weapon, Archeotech pistol
+. Skitarii Vanguard w/ arc rifle: Close combat weapon
+. Skitarii Vanguard w/ omnispex: Close combat weapon
+. Skitarii Vanguard w/ plasma caliver: Close combat weapon
+. 5x Skitarii Vanguard w/ radium carbine: 5x Close combat weapon, 5x Radium carbine
+. Skitarii Vanguard w/ transuranic arquebus: Close combat weapon
+
+Skitarii Vanguard [80pts]
+. Skitarii Vanguard Alpha: Alpha combat weapon, Archeotech pistol
+. Skitarii Vanguard w/ arc rifle: Close combat weapon
+. Skitarii Vanguard w/ omnispex: Close combat weapon
+. Skitarii Vanguard w/ plasma caliver: Close combat weapon
+. 5x Skitarii Vanguard w/ radium carbine: 5x Close combat weapon, 5x Radium carbine
+. Skitarii Vanguard w/ transuranic arquebus: Close combat weapon
+
++ Vehicle +
+
+Onager Dunecrawler [140pts]: Broad spectrum data-tether, Cognis heavy stubber
+. Neutron laser & Cognis heavy stubber
+
+++ Total: [475pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

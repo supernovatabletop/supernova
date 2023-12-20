@@ -1,6 +1,6 @@
 ---
 layout: player
-name: "Chorche"
+name: Georg "Chorche"
 army: Cirque de Waaghleil
 discord: chorche
 filename: chorche
