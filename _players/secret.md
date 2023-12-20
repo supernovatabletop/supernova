@@ -1,8 +1,8 @@
 ---
 layout: player
-name: "Tris"
+name: "Secret"
 army: Siren Games
-discord: tris
-filename: tris
+discord: secret
+filename: secret
 phases: [1]
 ---
