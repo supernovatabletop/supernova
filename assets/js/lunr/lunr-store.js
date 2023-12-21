@@ -143,6 +143,12 @@ var store = [{
         "url": "/supernova/spielerinnen/mastercraze",
         "teaser": null
       },{
+        "title": "Max",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/max",
+        "teaser": null
+      },{
         "title": "Paeu",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -183,12 +189,6 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/scurvymcg",
-        "teaser": null
-      },{
-        "title": "Secret",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/supernova/spielerinnen/secret",
         "teaser": null
       },{
         "title": "Skizz",
