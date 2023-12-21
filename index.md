@@ -62,8 +62,11 @@ Bis zum Monatsende muss ein Foto mit allen Figuren aus der Armeeliste geschickt 
 *Darf ich meine Armee wechseln?*  
 **Ja**. Die abgegebene Armeeliste gilt jedoch für den ganzen Monat. Wenn du im Folgemonat eine andere Fraktion spielen möchtest, liegt das ganz in deinem Ermessen.
 
-*Sind Proxies/Drucke erlaubt?*  
-**Ja**. Wichtig ist, dass für deinen Gegner immer erkennbar ist, welche Figur repräsentiert wird und dass du durch das alternative Modell keinen Spielvorteil erlangst. Respektiere außerdem die Regeln des jeweiligen Spielortes (z.B. keine Drucke im Warhammer Store).
+*Sind Proxies und 3D-Drucke erlaubt?*  
+**Ja**. Wichtig ist, dass für deinen Gegner immer klar erkennbar ist, welche Figur repräsentiert wird und dass du durch das alternative Modell keinen Spielvorteil erlangst. Respektiere außerdem die Regeln des jeweiligen Spielortes (z.B. keine Drucke im Warhammer Store). Schicke uns am besten *rechtzeitig* ein Bild deines alternativen Modells und wir geben, wenn alles passt, unser okay.
+
+*Wie streng nehmt ihr WYSIWYG (What You See Is What You Get)*  
+**Nicht streng**. Wichtig ist, dass für deinen Gegner immer klar sein muss, welche Figur womit ausgerüstet ist. Schicke uns am besten *rechtzeitig* eine Nachricht mit den Ausrüstungsteilen die du in der Armeeliste spielen willst, die jedoch nicht am Modell erkennbar sind.
 
 *Muss ich jeden Monat spielen?*  
 **Nein**. Bestenfalls natürlich ja, falls du aber einen Monat aussetzen möchtest, gib uns bitte zeitnah Bescheid, damit wir die Pairings anpassen können.
