@@ -3,4 +3,4 @@ layout: pairing
 phase: 1
 ---
 
-Das ist ein Test
+{% include feature_row id="intro" type="center" %}
