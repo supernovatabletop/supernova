@@ -1,0 +1,37 @@
+
+++ Army Roster (Xenos - Necrons) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Obeisance Phalanx
+
++ Character +
+
+Overlord [95pts]: Honourable Combatant, Resurrection orb, Voidscythe, Warlord
+
++ Battleline +
+
+Immortals [70pts]
+. 5x Immortal: 5x Close combat weapon, 5x Gauss blaster
+
++ Infantry +
+
+Deathmarks [65pts]
+. 5x Deathmark: 5x Close combat weapon, 5x Synaptic disintegrator
+
+Lychguard [170pts]
+. 10x Lychguard: 10x Hyperphase sword and dispersion shield
+
++ Mounted +
+
+Lokhust Heavy Destroyers [50pts]
+. Destroyer w/ enmitic exterminator
+
+Lokhust Heavy Destroyers [50pts]
+. Destroyer w/ gauss destructor
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

@@ -1,0 +1,36 @@
+
+++ Army Roster (Chaos - Chaos Daemons) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Daemonic Incursion
+
+Khorne Daemons are visible
+
+Nurgle Daemons are visible
+
+Tzeentch Daemons are visible
+
++ Character +
+
+Daemon Prince of Chaos [230pts]: Nurgle, The Endless Gift, Warlord
+
++ Infantry +
+
+Flamers [80pts]
+. 3x Flamer: 3x Flamer mouths, 3x Flickering Flames
+
++ Mounted +
+
+Bloodcrushers [120pts]: Daemonic Icon, Instrument of Chaos
+. 2x Bloodcrusher: 2x Hellblade, 2x Juggernaut's bladed horn
+
++ Beast +
+
+Beasts of Nurgle [70pts]: Beast of Nurgle
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
