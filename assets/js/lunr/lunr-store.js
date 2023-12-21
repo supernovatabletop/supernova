@@ -1,6 +1,6 @@
 var store = [{
         "title": "Phase1_paarung",
-        "excerpt":" ","categories": [],
+        "excerpt":"Das ist ein Test  ","categories": [],
         "tags": [],
         "url": "/supernova/paarungen/phase1-paarung",
         "teaser": null
