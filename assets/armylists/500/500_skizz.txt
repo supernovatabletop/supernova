@@ -1,0 +1,37 @@
+
+++ Army Roster (Chaos - Chaos Space Marines) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Slaves to Darkness
+
++ Character +
+
+Chaos Lord [75pts]: Daemon hammer, Mark of Khorne, Plasma pistol, Warlord
+
++ Battleline +
+
+Cultist Mob [55pts]: Mark of Tzeentch
+. Cultist Champion: Autopistol and brutal assault weapon
+. 9x Cultist w/ autopistol and brutal assault weapon: 9x Autopistol, 9x Brutal assault weapon
+
+Legionaries [90pts]: Chaos icon, Mark of Tzeentch
+. Aspiring Champion: Bolt pistol, Boltgun
+. Legionary w/ balefire tome
+. 2x Legionary w/ boltgun: 2x Bolt pistol, 2x Boltgun, 2x Close combat weapon
+. Legionary w/ other weapon: Reaper chaincannon
+
++ Infantry +
+
+Chosen [110pts]: Mark of Khorne
+. 3x Chosen w/ boltgun: 3x Accursed weapon, 3x Bolt pistol, 3x Boltgun
+. 2x Chosen w/ boltgun and plasma pistol: 2x Accursed weapon, 2x Boltgun, 2x Plasma pistol
+
+Obliterators [170pts]: Mark of Tzeentch
+. 2x Obliterator: 2x Crushing fists, 2x Fleshmetal guns
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

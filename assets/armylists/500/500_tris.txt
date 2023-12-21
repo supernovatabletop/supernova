@@ -1,0 +1,48 @@
+
+++ Army Roster (Chaos - Death Guard) [495pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Plague Company
+
+Show/Hide Options: Nurgle Daemons are visible
+
++ Epic Hero +
+
+Typhus [100pts]: Warlord
+
++ Character +
+
+Biologus Putrifier [50pts]
+
++ Battleline +
+
+Plague Marines [160pts]
+. Plague Champion: Heavy plague weapon, Plasma gun
+. 2x Plague Marine w/ blight launcher: 2x Blight launcher, 2x Plague knives
+. 3x Plague Marine w/ heavy plague weapon: 3x Heavy plague weapon, 3x Plague knives
+. 2x Plague Marine w/ plague spewer: 2x Plague knives, 2x Plague spewer
+. Plague Marine w/ special weapon: Plasma gun
+. Plague Marine w/ special weapon: Plasma gun
+
++ Infantry +
+
+Death Guard Cultists [50pts]
+. 6x Cultist: 6x Brutal assault weapon, 6x Cultist firearm
+. Cultist w/ flamer
+. Cultist w/ grenade launcher
+. Cultist w/ heavy stubber
+
+Poxwalkers [100pts]
+. 20x Poxwalker: 20x Improvised weapons
+
++ Allied Units +
+
+Nurglings [35pts]
+. 3x Nurgling Swarm: 3x Diseased claws and teeth
+
+++ Total: [495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
