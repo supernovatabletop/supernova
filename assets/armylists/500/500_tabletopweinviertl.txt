@@ -1,0 +1,48 @@
+Tyranids
+Strike Force (2000 points)
+Assimilation Swarm
+
+
+CHARACTERS
+
+Winged Tyranid Prime (80 points)
+  • Warlord
+  • 1x Prime talons
+  • Enhancement: Instinctive Defence
+
+
+BATTLELINE
+
+Termagants (60 points)
+  • 10x Termagant
+    • 10x Chitinous claws and teeth
+      10x Fleshborer
+
+Termagants (60 points)
+  • 10x Termagant
+    • 10x Chitinous claws and teeth
+      10x Fleshborer
+
+
+OTHER DATASHEETS
+
+Barbgaunts (60 points)
+  • 5x Barbgaunt
+    • 5x Barblauncher
+      5x Chitinous claws and teeth
+
+Psychophage (125 points)
+  • 1x Psychoclastic torrent
+    1x Talons and betentacled maw
+
+Ripper Swarms (20 points)
+  • 1x Chitinous claws and teeth
+
+Ripper Swarms (20 points)
+  • 1x Chitinous claws and teeth
+
+Von Ryan’s Leapers (75 points)
+  • 3x Von Ryan’s Leaper
+    • 3x Leaper’s talons
+
+Exported with App Version: v1.8.1 (33), Data Version: v319

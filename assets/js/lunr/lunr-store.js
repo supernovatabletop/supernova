@@ -53,6 +53,12 @@ var store = [{
         "url": "/supernova/spielerinnen/divado",
         "teaser": null
       },{
+        "title": "Ekko",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/ekko",
+        "teaser": null
+      },{
         "title": "Empix",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -131,12 +137,6 @@ var store = [{
         "url": "/supernova/spielerinnen/madeleine",
         "teaser": null
       },{
-        "title": "Mariobiber",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/supernova/spielerinnen/mariobiber",
-        "teaser": null
-      },{
         "title": "Mastercraze",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -207,6 +207,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/superkonsti",
+        "teaser": null
+      },{
+        "title": "Tabletopweinviertl",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/tabletopweinviertl",
         "teaser": null
       },{
         "title": "Thelyricalmachete",
