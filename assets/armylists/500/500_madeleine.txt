@@ -1,0 +1,46 @@
+
+++ Army Roster (Imperium - Adepta Sororitas) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Hallowed Martyrs Detachment
+
++ Character +
+
+Palatine [50pts]: Plasma pistol, Warlord
+
++ Battleline +
+
+Battle Sisters Squad [100pts]
+. 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. Battle Sister w/ Simulacrum Imperialus
+. Battle Sister w/ Special or Heavy Weapon: Artificer-crafted storm bolter
+. Battle Sister w/ Special Weapon: Ministorum flamer
+. Sister Superior: Boltgun, Power weapon
+
++ Infantry +
+
+Retributor Squad [115pts]
+. Retributor: Heavy bolter
+. Retributor: Heavy bolter
+. Retributor: Multi-melta
+. Retributor: Multi-melta
+. Retributor Superior: Chainsword, Inferno pistol
+
++ Vehicle +
+
+Penitent Engines [60pts]
+. Penitent Engine: Twin Penitent Buzz-Blades
+
+Penitent Engines [60pts]
+. Penitent Engine: Twin Penitent Buzz-Blades
+
++ Dedicated Transport +
+
+Immolator [115pts]: Hunter-Killer Missile, Twin Multi-melta
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

@@ -1,8 +1,8 @@
 ---
 layout: player
-name: "Secret"
+name: "Max"
 army: Siren Games
-discord: secret
-filename: secret
+discord: tba
+filename: max
 phases: [1]
 ---

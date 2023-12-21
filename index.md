@@ -47,7 +47,7 @@ Wir führen eine Tabelle mit den Ligaergebnissen. Punkte erhält jeder Spieler n
 **Nein**. Für jeden Monat gelten sämtliche Regelveröffentlichungen, die bis zum ersten des Monats rausgekommen sind. Kommt beispielsweise am 15. eines Monats ein Balance Datenblock, findet dieser erst im Folgemonat Anwendung.
 
 *Wo darf ich spielen?*  
-**Egal**. Wo und wann ihr spielt, macht ihr euch mit dem Gegenteam selbst aus. Im Club, in einem Warhammer Store, im Siren Games oder im Spielkeller zuhause... was immer für euch am Besten passt.
+**Egal**. Wo und wann ihr spielt, macht ihr euch mit dem Gegenteam selbst aus. Im Club, in einem Warhammer Store, im Siren Games, online via TTS oder im Spielkeller zuhause... was immer für euch am Besten passt.
 
 *Muss ich jeden Monat spielen?*  
 **Nein**. Bestenfalls natürlich ja, falls du aber einen Monat aussetzen möchtest, gib uns bitte zeitnah Bescheid, damit wir die Pairings anpassen können.
@@ -59,7 +59,7 @@ Wir führen eine Tabelle mit den Ligaergebnissen. Punkte erhält jeder Spieler n
 **Ja**. Die abgegebene Armeeliste gilt jedoch für den ganzen Monat. Wenn du im Folgemonat eine andere Fraktion spielen möchtest, liegt das ganz in deinem Ermessen.
 
 *Sind Proxies/Drucke erlaubt?*  
-**Ja**. Wichtig ist, dass für deinen Gegner immer erkennbar ist, welche Figur repräsentiert und dass du durf das alternative Modell keinen Spielvorteil erlangst. Respektiere außerdem die Regeln des jeweiligen Spielortes (z.B. keine Drucke im Warhammer Store).
+**Ja**. Wichtig ist, dass für deinen Gegner immer erkennbar ist, welche Figur repräsentiert und dass du durch das alternative Modell keinen Spielvorteil erlangst. Respektiere außerdem die Regeln des jeweiligen Spielortes (z.B. keine Drucke im Warhammer Store).
 
 *Sind Legends Datenblätter zugelassen?*  
 **Nein**. Legends werden leider von GW nicht aktuell gehalten/balanciert, weshalb wir uns, der Einfachheit halber, an die Turnierregeln halten und Legends nicht erlauben.
