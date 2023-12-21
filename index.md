@@ -16,8 +16,7 @@ Es ist wieder mal soweit: neues Jahr, neue Armee! Und damit auch eine neue Runde
 
 Dieses Jahr haben wir uns jedoch einen Twist überlegt: die Liga wird in Teams gespielt. Jedes Team besteht aus zwei Personen, die jeweils ihre eigene Armee aufbauen. Nach euren Spielen werden die Siegespunkte der Teams zusammengezählt und das Team mit mehr Punkten gewinnt. Du findest keine zweite Person? Melde dich bei uns, und wir losen dir jemanden zu.
 
-Du hast keinen Teampartner möchtest aber trotzdem mitmachen? Hier findest du sicher jemanden:  
-<https://rb.gy/q33irj> (Discordchannel der Liga)
+Du hast keinen Teampartner möchtest aber trotzdem mitmachen? In unserem [Discord](https://discord.com/channels/910301105676759102/1049786265085677599)-Channel findest du sicher jemanden.
 
 Wir starten mit 500 Punkten und erhöhen jeden Monat um 250, sodass du im Juli 2024 eine vollständig bemalte 2000 Punkte Armee fertig hast. Jeden Monat schickst du uns bis zum Monatsersten deine Armeeliste mit der entsprechenden Punktezahl.
 Zu Monatsbeginn gibt es von uns einen Discord-Stream, bei dem die Pairings und die Mission vorgestellt werden. Jedes Team spielt jeden Monat zwei Mal die ausgeloste Mission gegen die ausgelosten Gegner - Platz 1 deines Teams gegen die Plätze 1 von zwei anderen Teams und Platz 2 gegen deren 2te Plätze. Danach meldest du uns das Spielergebnis in Punkten.
@@ -44,11 +43,10 @@ Wir führen eine Tabelle mit den Ligaergebnissen. Punkte erhält jeder Spieler n
 # FAQ
 
 *Welche Missions werden in der Liga gespielt?*  
-Wir bestimmen am Monatsersten die Primary Mission, Mission Rule und Deployment mit dem beide Matches in diesem Monat gespielt werden. Diese werden aus dem **[Leviathan Tournament Companion](https://www.warhammer-community.com/wp-content/uploads/2023/06/hlF8WKv4gJpXPZha.pdf)** ausgewählt. Für die beiden kleinen Spiele (500 und 750 Punkte) wird das Deployment (Aufstellungszone und Markerpositionen) aus den **[Combat Patrol Missions](https://www.warhammer-community.com/wp-content/uploads/2023/06/htkssr6vgkoqDAJn.pdf)** ausgewählt.
+Wir bestimmen am Monatsersten die Primary Mission, Mission Rule und Deployment mit dem beide Matches in diesem Monat gespielt werden. Diese werden aus dem [Leviathan Tournament Companion](https://www.warhammer-community.com/wp-content/uploads/2023/06/hlF8WKv4gJpXPZha.pdf) ausgewählt. Für die beiden kleinen Spiele (500 und 750 Punkte) wird das Deployment (Aufstellungszone und Markerpositionen) aus den [Combat Patrol Missions](https://www.warhammer-community.com/wp-content/uploads/2023/06/htkssr6vgkoqDAJn.pdf) ausgewählt.
 
 *Wie bekomme ich die Punkte für eine angemalte Armee?*  
-Bis zum Monatsende muss ein Foto mit allen Figuren aus der Armeeliste geschickt werden. Die Punkte werden gutgeschrieben, wenn alle Modelle darauf nach dem GW Standard **[Battle Ready](https://www.warhammer-community.com/2019/05/21/introducing-battle-readygw-homepage-post-1fw-homepage-post-1/)** bemalt wurden. Es ist nicht verpflichtend GW Farben zu verwenden.  
-Optional kann zusätzlich ein Bild von der Armeeliste in unbemaltem Zustand geschickt werden, die Bilder werden im Register Spieler:innen hochgeladen und sollen am Ende der Liga eine hübsche visuelle Reise durch die Evolution der Armee erlauben.
+Bis zum Monatsende muss ein Foto mit allen Figuren aus der Armeeliste geschickt werden. Die Punkte werden gutgeschrieben, wenn alle Modelle darauf nach dem GW Standard [Battle Ready](https://www.warhammer-community.com/2019/05/21/introducing-battle-readygw-homepage-post-1fw-homepage-post-1/) bemalt wurden. Es ist nicht verpflichtend GW Farben zu verwenden. Optional kann zusätzlich ein Bild von der Armeeliste in unbemaltem Zustand geschickt werden, die Bilder werden im Register Spieler:innen hochgeladen und sollen am Ende der Liga eine hübsche visuelle Reise durch die Evolution der Armee erlauben.
 
 *Wo darf ich spielen?*  
 **Egal**. Wo und wann ihr spielt, macht ihr euch mit dem Gegenteam selbst aus. Im Club, in einem Warhammer Store, im Siren Games, online via TTS oder im Spielkeller zuhause... was immer für euch am Besten passt.
@@ -80,7 +78,7 @@ Optional kann zusätzlich ein Bild von der Armeeliste in unbemaltem Zustand gesc
 *Eskalieren die Punkte +250 Punkte monatlich oder nach jedem Match?*  
 **Monatlich**. Im Jänner spielen wir 2 Matches mit 500 Punkten, im Februar 2 Matches mit 750 Punkten, im März 1000 Punkte, etc.
 
-*Werden die 500 Punkte Spiele auf 44x30 gespielt, so wie Combat Patrol? Wie siehts dann bei 750 aus?*  
+*Werden die 500 Punkte Spiele auf 44"x30" gespielt, so wie Combat Patrol? Wie siehts dann bei 750 aus?*  
 **Ja**. 500 und 750 Punkte werden auf dem kleinen Spielfeld 44"x30" gespielt. Ab 1000 Punkten spielen wir dann auf den großen 60"x44" Platten.
 
 *Was passiert, wenn wir keinen Termin finden?*  
