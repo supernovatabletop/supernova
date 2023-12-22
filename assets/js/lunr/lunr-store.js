@@ -1,6 +1,6 @@
 var store = [{
         "title": "Phase1_paarung",
-        "excerpt":"        ","categories": [],
+        "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/paarungen/phase1-paarung",
         "teaser": null
@@ -27,6 +27,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/bennz",
+        "teaser": null
+      },{
+        "title": "Bugmann",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/bugmann",
         "teaser": null
       },{
         "title": "Chorche",
@@ -63,6 +69,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/empix",
+        "teaser": null
+      },{
+        "title": "Goschn",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/goschn",
         "teaser": null
       },{
         "title": "Green",
