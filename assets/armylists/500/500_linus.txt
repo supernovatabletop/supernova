@@ -1,0 +1,26 @@
+
+++ Army Roster (Xenos - Orks) [470pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Waaagh! Tribe
+
++ Character +
+
+Big Mek in Mega Armour [100pts]: Kustom mega-blasta, Supa-Cybork Body, Warlord
+
++ Infantry +
+
+Gretchin [40pts]
+. 10x Gretchin: 10x Close combat weapon, 10x Grot blasta
+. Runtherd
+
++ Vehicle +
+
+Morkanaut [330pts]
+
+++ Total: [470pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
