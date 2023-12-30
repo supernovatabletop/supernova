@@ -1,0 +1,34 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [495pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Unforgiven Task Force
+
+Show/Hide Options
+
++ Character +
+
+Apothecary [50pts]
+
+Judiciar [90pts]: Heavenfall Blade, Warlord
+
++ Infantry +
+
+Bladeguard Veteran Squad [90pts]
+. Bladeguard Veteran Sergeant: Plasma Pistol
+. 2x Bladeguard Veterans: 2x Heavy Bolt Pistol, 2x Master-crafted Power Weapon
+
+Hellblaster Squad [125pts]
+. 4x Hellblaster: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Plasma Incinerator
+. Hellblaster Sergeant
+
++ Vehicle +
+
+Ballistus Dreadnought [140pts]
+
+++ Total: [495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
