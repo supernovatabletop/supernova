@@ -1,0 +1,31 @@
+
+++ Army Roster (Chaos - Chaos Daemons) [490pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Daemonic Incursion
+
+Khorne Daemons are visible
+
+Nurgle Daemons are visible
+
+Show/Hide Options: Chaos Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
+Slaanesh Daemons are visible
+
+Tzeentch Daemons are visible
+
++ Epic Hero +
+
+Be'lakor [350pts]: Betraying Shades, The Blade of Shadows, Warlord
+
++ Battleline +
+
+Pink Horrors [140pts]
+. 10x Pink Horror: 10x Coruscating Pink flames, 10x Pink claws
+
+++ Total: [490pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

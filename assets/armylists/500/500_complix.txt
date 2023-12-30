@@ -1,0 +1,48 @@
+
+++ Army Roster (Imperium - Adepta Sororitas) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Hallowed Martyrs Detachment
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Saint Celestine [135pts]: Warlord
+. Geminae Superia: Bolt Pistol, Power Weapon
+. Geminae Superia: Bolt Pistol, Power Weapon
+. Saint Celestine: The Ardent Blade
+
++ Battleline +
+
+Battle Sisters Squad [100pts]
+. 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. Battle Sister w/ Simulacrum Imperialus: Bolt Pistol, Boltgun, Close combat weapon, Simulacrum Imperialis
+. Battle Sister w/ Special or Heavy Weapon: Bolt Pistol, Boltgun, Close combat weapon, Multi-melta
+. Battle Sister w/ Special Weapon: Bolt Pistol, Close combat weapon, Meltagun
+. Sister Superior: Bolt Pistol, Close combat weapon, Combi-weapon, Power weapon
+
++ Infantry +
+
+Crusaders [25pts]
+. Crusaders
+. . 2x Crusader: 2x Power Weapon
+
+Crusaders [25pts]
+. Crusaders
+. . 2x Crusader: 2x Power Weapon
+
+Zephyrim Squad [140pts]
+. 9x Zephyrim: 9x Bolt Pistol, 9x Power Weapon
+. Zephyrim Superior: Plasma pistol, Power Weapon, Sacred Banner
+
++ Dedicated Transport +
+
+Sororitas Rhino [75pts]: Armoured tracks, Hunter-Killer Missile, Storm bolter
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

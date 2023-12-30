@@ -1,7 +1,7 @@
 ---
 layout: player
 name: "Chuhonez"
-army: tba
+army: The Emperor Protects
 discord: chuhonez
 filename: chuhonez
 phases: [1]

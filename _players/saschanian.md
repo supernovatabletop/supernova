@@ -1,6 +1,6 @@
 ---
 layout: player
-name: Sascha
+name: Sascha "Saschanian"
 army: Who Needs Melee
 discord: saschanian
 filename: saschanian

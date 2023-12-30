@@ -1,0 +1,40 @@
+
+++ Army Roster (Chaos - Chaos Space Marines) [495pts] ++
+
++ Configuration +
+
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Slaves to Darkness
+
++ Character +
+
+
+Chaos Lord [75pts]: Daemon hammer, Mark of Chaos Undivided, Plasma pistol, Warlord
+
++ Battleline +
+
+
+Cultist Mob [55pts]: Mark of Chaos Undivided
+
+. Cultist Champion: Autopistol and brutal assault weapon
+. 9x Cultist w/ autopistol and brutal assault weapon: 9x Autopistol, 9x Brutal assault weapon
+
++ Infantry +
+
+
+Chaos Terminator Squad [195pts]: Mark of Tzeentch
+
+. 2x Accursed weapon and combi-bolter: 2x Accursed weapon, 2x Combi-bolter
+. Accursed weapon and combi-weapon: Accursed weapon, Combi-weapon
+. Chainfist and combi-weapon: Chainfist, Combi-weapon
+. Heavy weapon: Accursed weapon, Heavy flamer
+
+Obliterators [170pts]: Mark of Nurgle
+
+. 2x Obliterator: 2x Crushing fists, 2x Fleshmetal guns
+
+++ Total: [495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

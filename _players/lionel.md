@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Lion'el "Shorty" Durden
-army: tba
+army: Lion'el Yarrik
 discord: lioneldurden
 filename: lionel
 phases: [1]

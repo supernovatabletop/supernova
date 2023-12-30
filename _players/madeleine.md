@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Madeleine
-army: My Fancy Teamname
+army: The Emperor's Mediocrest
 discord: sweetmadeleines
 filename: madeleine
 phases: [1]

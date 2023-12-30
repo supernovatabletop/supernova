@@ -1,0 +1,34 @@
+
+++ Army Roster (Imperium - Adeptus Mechanicus) [470pts] ++
+
++ Configuration +
+
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Cohort Cybernetica
+
++ Epic Hero +
+
+
+Belisarius Cawl [180pts]: Arc scourge, Cawl's Omnissian axe, Mechadendrite hive, Solar atomiser, Warlord
+
++ Battleline +
+
+
+Skitarii Rangers [90pts]
+
+. Skitarii Ranger Alpha: Close combat weapon, Galvanic rifle
+. 9x Skitarii Ranger w/ galvanic rifle: 9x Close combat weapon, 9x Galvanic rifle
+
++ Vehicle +
+
+
+Kastelan Robots [200pts]
+
+. Kastelan Robot: Incendine combustor, Twin Kastelan fist
+. Kastelan Robot: Incendine combustor, Twin Kastelan fist
+
+++ Total: [470pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

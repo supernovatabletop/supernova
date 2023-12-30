@@ -1,0 +1,23 @@
++++ Ekko the Biene (Warhammer 40,000 10th Edition) [495pts] +++
+
+++ Boarding Action (Imperium - Adeptus Astartes - Dark Angels) [495pts] ++
+
++ Configuration +
+
+Battle Size: 4. Boarding Patrol (500 Point Limit)
+
+Detachment: Firestorm Assault Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character [55pts] +
+
+Techmarine [55pts]: Forge Bolter, Grav-pistol, Omnissian Power Axe, Servo-arm, Warlord
+
++ Vehicle [440pts] +
+
+Repulsor Executioner [220pts]: Armoured Hull, Heavy Onslaught Gatling Cannon, Macro Plasma Incinerator, Repulsor Executioner Defensive Array, Twin Heavy Bolter, Twin Icarus Ironhail Heavy Stubber
+
+Repulsor Executioner [220pts]: Armoured Hull, Heavy Onslaught Gatling Cannon, Macro Plasma Incinerator, Repulsor Executioner Defensive Array, Twin Heavy Bolter, Twin Icarus Ironhail Heavy Stubber
+
+Created with BattleScribe (https://battlescribe.net)

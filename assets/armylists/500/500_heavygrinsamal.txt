@@ -1,0 +1,34 @@
+
+++ Army Roster (Xenos - Orks) [495pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Waaagh! Tribe
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Painboy [95pts]: Follow Me Ladz, Grot orderly, Warlord
+
++ Battleline +
+
+Boyz [170pts]
+. Boss Nob
+. . Big choppa and slugga
+. 2x Boy w/ Rokkit launcha and close combat weapon: 2x Close combat weapon, 2x Rokkit launcha
+. 17x Boy w/ Slugga and choppa: 17x Choppa, 17x Slugga
+
++ Vehicle +
+
+Deff Dread [130pts]: Kustom mega-blasta, 2x Rokkit launcha, Skorcha
+
+Deffkoptas [100pts]
+. 2x Deffkopta: 2x Kopta rokkits, 2x Slugga, 2x Spinnin’ blades
+. Deffkopta w/ Kustom mega-blasta
+
+++ Total: [495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

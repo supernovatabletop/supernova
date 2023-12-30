@@ -1,0 +1,38 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Blood Angels) [495pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Sons of Sanguinius
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Chaplain with Jump Pack [85pts]: Icon of the Angel, Inferno Pistol, Warlord
+
++ Infantry +
+
+Death Company Marines with Jump Packs [130pts]
+. Death Company Marine: Thunder Hammer
+. Death Company Marine: Thunder Hammer
+. Death Company Marine: Thunder Hammer
+. Death Company Marine: Thunder Hammer
+. Death Company Marine: Thunder Hammer
+
+Vanguard Veteran Squad with Jump Packs [105pts]
+. Vanguard Veteran Sergeant with Jump Pack: Storm Shield
+. Vanguard Veterans with Jump Packs: Storm Shield
+. Vanguard Veterans with Jump Packs: Storm Shield
+. Vanguard Veterans with Jump Packs: Storm Shield
+. Vanguard Veterans with Jump Packs: Storm Shield
+
++ Vehicle +
+
+Brutalis Dreadnought [175pts]: Brutalis Talons, Twin Multi-melta
+
+++ Total: [495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

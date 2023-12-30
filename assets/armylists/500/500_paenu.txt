@@ -1,0 +1,30 @@
+
+++ Army Roster (Xenos - Necrons) [495pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Awakened Dynasty
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Technomancer [60pts]: Staff of light, Warlord
+
++ Battleline +
+
+Necron Warriors [100pts]
+. 10x Warrior w/ gauss flayer: 10x Close combat weapon, 10x Gauss flayer
+
+Necron Warriors [200pts]
+. 20x Warrior w/ gauss flayer: 20x Close combat weapon, 20x Gauss flayer
+
++ Vehicle +
+
+Canoptek Doomstalker [135pts]
+
+++ Total: [495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
