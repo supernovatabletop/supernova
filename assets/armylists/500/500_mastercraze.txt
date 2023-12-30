@@ -1,0 +1,44 @@
+
+++ Army Roster (Aeldari - Craftworlds) [495pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Battle Host
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Troupe Master [55pts]: Fusion Pistol, Troupe Master's Blade
+. Troupe Master Warlord: Warlord
+
++ Infantry +
+
+Troupe [75pts]
+. Lead Player: Aeldari power sword, Fusion Pistol
+. Player with Fusion Pistol: Fusion Pistol, Harlequin's Special Weapon
+. Player with Harlequin's Special Weapon: Harlequin's Special Weapon, Shuriken Pistol
+. Player with Neuro Disruptor: Harlequin's Special Weapon, Neuro Disruptor
+. Player with Neuro Disruptor: Harlequin's Special Weapon, Neuro Disruptor
+
++ Mounted +
+
+Skyweavers [190pts]
+. Skyweaver: Close Combat Weapon, Skyweaver Haywire Cannon, Star Bolas
+. Skyweaver: Close Combat Weapon, Skyweaver Haywire Cannon, Star Bolas
+. Skyweaver: Close Combat Weapon, Skyweaver Haywire Cannon, Star Bolas
+. Skyweaver: Close Combat Weapon, Skyweaver Haywire Cannon, Star Bolas
+
+Skyweavers [95pts]
+. Skyweaver: Close Combat Weapon, Shuriken Cannon, Zephyrglaive
+. Skyweaver: Close Combat Weapon, Shuriken Cannon, Zephyrglaive
+
++ Dedicated Transport +
+
+Starweaver [80pts]: Close Combat Weapon, 2x Shuriken Cannon
+
+++ Total: [495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
