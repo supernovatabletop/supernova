@@ -47,6 +47,12 @@ var store = [{
         "url": "/supernova/spielerinnen/chuhonez",
         "teaser": null
       },{
+        "title": "Complix",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/complix",
+        "teaser": null
+      },{
         "title": "Disqord",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -71,10 +77,16 @@ var store = [{
         "url": "/supernova/spielerinnen/empix",
         "teaser": null
       },{
-        "title": "Goschn",
+        "title": "Feulp",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/supernova/spielerinnen/goschn",
+        "url": "/supernova/spielerinnen/feulp",
+        "teaser": null
+      },{
+        "title": "Goshn",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/goshn",
         "teaser": null
       },{
         "title": "Green",
@@ -95,6 +107,12 @@ var store = [{
         "url": "/supernova/spielerinnen/halato",
         "teaser": null
       },{
+        "title": "Heavygrinsamal",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/heavygrinsamal",
+        "teaser": null
+      },{
         "title": "Justcoco",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -113,10 +131,10 @@ var store = [{
         "url": "/supernova/spielerinnen/keksbroesel",
         "teaser": null
       },{
-        "title": "Lackofgreatness",
+        "title": "Kunsterblich",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/supernova/spielerinnen/lackofgreatness",
+        "url": "/supernova/spielerinnen/kunsterblich",
         "teaser": null
       },{
         "title": "Linus",
@@ -137,16 +155,16 @@ var store = [{
         "url": "/supernova/spielerinnen/lupublic",
         "teaser": null
       },{
-        "title": "Ma5ter19",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/supernova/spielerinnen/ma5ter19",
-        "teaser": null
-      },{
         "title": "Madeleine",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/madeleine",
+        "teaser": null
+      },{
+        "title": "Master",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/master",
         "teaser": null
       },{
         "title": "Mastercraze",
@@ -155,10 +173,10 @@ var store = [{
         "url": "/supernova/spielerinnen/mastercraze",
         "teaser": null
       },{
-        "title": "Max",
+        "title": "Paenu",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/supernova/spielerinnen/max",
+        "url": "/supernova/spielerinnen/paenu",
         "teaser": null
       },{
         "title": "Paeu",
@@ -197,6 +215,12 @@ var store = [{
         "url": "/supernova/spielerinnen/saschanian",
         "teaser": null
       },{
+        "title": "Schwarmbruder",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/schwarmbruder",
+        "teaser": null
+      },{
         "title": "Scurvymcg",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -227,6 +251,12 @@ var store = [{
         "url": "/supernova/spielerinnen/tabletopweinviertl",
         "teaser": null
       },{
+        "title": "Tempest",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/tempest",
+        "teaser": null
+      },{
         "title": "Thelyricalmachete",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -243,6 +273,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/tris",
+        "teaser": null
+      },{
+        "title": "Whitewolf",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/whitewolf",
         "teaser": null
       },{
         "title": "Phase0_rangliste",

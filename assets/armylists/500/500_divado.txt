@@ -1,0 +1,63 @@
+﻿++ Army Roster (Imperium - Adeptus Astartes - Blood Angels) [500pts] ++
+
+
++ Configuration +
+
+
+
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+
+Detachment: Sons of Sanguinius
+
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
+
++ Character +
+
+
+
+
+Captain with Jump Pack [85pts]: Bolt Pistol, Warlord
+
+
+. Melee and Pistol: Plasma Pistol, Power Fist
+
+
+Lieutenant with Combi-weapon [70pts]: Combi-weapon, Paired Combat Blades
+
+
++ Infantry +
+
+
+
+
+Assault Intercessors with Jump Packs [85pts]
+
+
+. Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+. 3x Assault Intercessors with Jump Pack: 3x Astartes Chainsword, 3x Heavy Bolt Pistol
+. Assault Intercessors with Jump Pack w/ Plasma Pistol: Astartes Chainsword, Plasma Pistol
+
+
+Bladeguard Veteran Squad [90pts]
+
+
+. Bladeguard Veteran Sergeant: Master-crafted Power Weapon, Neo-volkite Pistol
+. 2x Bladeguard Veterans: 2x Heavy Bolt Pistol, 2x Master-crafted Power Weapon
+
+
++ Vehicle +
+
+
+
+
+Librarian Dreadnought [170pts]: Blood Lance, Furioso Fist, Furioso Force Halberd, Meltagun
+
+
+++ Total: [500pts] ++
+
+
+Created with BattleScribe (https://battlescribe.net)

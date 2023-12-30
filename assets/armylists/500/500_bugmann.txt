@@ -1,0 +1,35 @@
++++ SupernovaEL Der Löwe (500 points) (Warhammer 40,000 10th Edition) [500pts] +++
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Unforgiven Task Force
+
+Show/Hide Options
+
++ Character +
+
+Chaplain [75pts]: Stubborn Tenacity, Warlord
+
++ Battleline +
+
+Assault Intercessor Squad [80pts]
+. Assault Intercessor Sergeant: Astartes Chainsword, Plasma Pistol
+. 4x Assault Intercessors: 4x Astartes Chainsword, 4x Heavy Bolt Pistol
+
++ Infantry +
+
+Eliminator Squad [75pts]
+. 2x Eliminator: 2x Bolt Pistol, 2x Bolt Sniper Rifle, 2x Close Combat Weapon
+. Eliminator Sergeant: Bolt Sniper Rifle
+
++ Vehicle +
+
+Drop Pod [70pts]: Storm Bolter
+
+Redemptor Dreadnought [200pts]: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Twin Fragstorm Grenade Launcher
+
+Created with BattleScribe (https://battlescribe.net)

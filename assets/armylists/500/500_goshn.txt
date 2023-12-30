@@ -1,0 +1,38 @@
++++ 10th SupernovaEL kleines Rudel (500 points) (Warhammer 40,000 10th Edition) [500pts] +++
+
+++ Army Roster (Imperium - Adeptus Astartes - Space Wolves) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Champions of Russ
+
+Show/Hide Options
+
++ Character +
+
+Captain in Gravis Armour [80pts]: Warlord
+. Master-crafted Heavy Bolt Rifle and Master-crafted Power Weapon
+
++ Battleline +
+
+Intercessor Squad [85pts]
+. Intercessor Sergeant: Bolt Rifle, Close Combat Weapon
+. 4x Intercessors: 4x Bolt Pistol, 4x Bolt Rifle, 4x Close Combat Weapon
+
+Intercessor Squad [85pts]
+. Intercessor Sergeant: Bolt Rifle, Close Combat Weapon
+. 4x Intercessors: 4x Bolt Pistol, 4x Bolt Rifle, 4x Close Combat Weapon
+
++ Infantry +
+
+Aggressor Squad [110pts]: Flamestorm Gauntlets
+. Aggressor Sergeant
+. 2x Aggressors: 2x Twin Power Fist
+
++ Vehicle +
+
+Invictor Tactical Warsuit [140pts]: Incendium Cannon
+
+Created with BattleScribe (https://battlescribe.net)

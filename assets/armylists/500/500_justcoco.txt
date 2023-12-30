@@ -1,0 +1,24 @@
+
+++ Army Roster (Xenos - Tyranids) [485pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Invasion Fleet
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Neurotyrant [135pts]: Alien Cunning, Neurotyrant claws and lashes, Psychic scream, Warlord
+
++ Monster +
+
+Screamer-killer [170pts]: Bio-plasmic Scream, Screamer-killer Talons
+
+Trygon [180pts]: Bio-electric Pulse, Trygon Scything Talons
+
+++ Total: [485pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

@@ -1,0 +1,32 @@
+
+++ Army Roster (Xenos - Leagues of Votann) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Oathband
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Ûthar the Destined [90pts]: Blade of the Ancestors, Rampart crest, Volkanite disintegrator, Warlord
+
++ Battleline +
+
+Hearthkyn Warriors [110pts]: Comms array, Medipack, Pan spectral scanner
+. 7x Hearthkyn Warrior: 7x Autoch-pattern bolt pistol, 7x Close combat weapon, 7x Ion blaster
+. Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, Magna-rail rifle*
+. Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, HYLas auto rifle*
+. Theyn: Close combat weapon, Etacarn plasma pistol, Kin melee weapon, Weavefield crest
+
++ Infantry +
+
+Einhyr Hearthguard [300pts]
+. 9x Einhyr Hearthguard: 9x Concussion gauntlet, 9x Exo-armour grenade launcher, 9x Volkanite disintegrator
+. Hesyr: Concussion gauntlet, Exo-armour grenade launcher, Teleport crest, Volkanite disintegrator
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
