@@ -45,7 +45,10 @@ Wir führen eine Tabelle mit den Ligaergebnissen. Punkte erhält jeder Spieler n
 # FAQ
 
 *Welche Missions werden in der Liga gespielt?*  
-Wir bestimmen am Monatsersten die Primary Mission, Mission Rule und Deployment mit dem beide Matches in diesem Monat gespielt werden. Diese werden aus dem [Leviathan Tournament Companion](https://www.warhammer-community.com/wp-content/uploads/2023/06/hlF8WKv4gJpXPZha.pdf) ausgewählt. Für die beiden kleinen Spiele (500 und 750 Punkte) wird das Deployment (Aufstellungszone und Markerpositionen) aus den [Combat Patrol Missions](https://www.warhammer-community.com/wp-content/uploads/2023/06/htkssr6vgkoqDAJn.pdf) ausgewählt.
+Wir bestimmen am Monatsersten die Primary Mission, Mission Rule und Deployment mit dem beide Matches in diesem Monat gespielt werden. Diese werden aus dem [Leviathan Tournament Companion](https://www.warhammer-community.com/wp-content/uploads/2023/06/hlF8WKv4gJpXPZha.pdf) ausgewählt. Für die beiden kleinen Spiele (500 und 750 Punkte) wird das Deployment (Aufstellungszone und Markerpositionen) aus den [Combat Patrol Missions](https://www.warhammer-community.com/wp-content/uploads/2023/06/htkssr6vgkoqDAJn.pdf) ausgewählt.  
+**Phase 1 (Jänner)**: 44"x30" (siehe Bild), Vital Ground (Leviathan Tournament Companion), Chilling Rain (Leviathan Tournament Companion) 
+![Phase 1 Deployment](/assets/images/phase1_vitalground.png)
+
 
 *Wie bekomme ich die Punkte für eine angemalte Armee?*  
 Bis zum Monatsende muss ein Foto mit allen Figuren aus der Armeeliste geschickt werden. Die Punkte werden gutgeschrieben, wenn alle Modelle darauf nach dem GW Standard [Battle Ready](https://www.warhammer-community.com/2019/05/21/introducing-battle-readygw-homepage-post-1fw-homepage-post-1/) bemalt wurden. Es ist nicht verpflichtend GW Farben zu verwenden. Optional kann zusätzlich ein Bild von der Armeeliste in unbemaltem Zustand geschickt werden, die Bilder werden im Register Spieler:innen hochgeladen und sollen am Ende der Liga eine hübsche visuelle Reise durch die Evolution der Armee erlauben.

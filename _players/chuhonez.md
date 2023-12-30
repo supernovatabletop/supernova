@@ -1,6 +1,6 @@
 ---
 layout: player
-name: "Chuhonez"
+name: Stepan "Chuhonez"
 army: The Emperor Protects
 discord: chuhonez
 filename: chuhonez

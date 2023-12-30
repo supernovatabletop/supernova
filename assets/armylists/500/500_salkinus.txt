@@ -1,0 +1,64 @@
+
+++ Army Roster (Imperium - Adepta Sororitas) [495pts] ++
+
++ Configuration +
+
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Hallowed Martyrs Detachment
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+
+Palatine [65pts]: Blade of Saint Ellynor, Palatine Blade, Plasma pistol, Warlord
+
++ Battleline +
+
+
+Battle Sisters Squad [100pts]
+
+. 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. Battle Sister w/ Simulacrum Imperialus: Bolt Pistol, Boltgun, Close combat weapon, Simulacrum Imperialis
+. Battle Sister w/ Special or Heavy Weapon: Bolt Pistol, Boltgun, Close combat weapon, Heavy bolter
+. Battle Sister w/ Special Weapon: Artificer-crafted storm bolter, Bolt Pistol, Close combat weapon
+. Sister Superior: Bolt Pistol, Close combat weapon, Condemnor boltgun, Power weapon
+
++ Infantry +
+
+
+Dominion Squad [120pts]
+
+. 4x Dominion: 4x Bolt Pistol, 4x Boltgun, 4x Close combat weapon
+. Dominion Superior: Bolt Pistol, Boltgun, Close combat weapon
+. Dominion w/ Simulacrum Imperialus: Bolt Pistol, Boltgun, Close combat weapon, Simulacrum Imperialis
+. Dominion w/ Special Weapon: Bolt Pistol, Close combat weapon, Meltagun
+. Dominion w/ Special Weapon: Bolt Pistol, Close combat weapon, Meltagun
+. Dominion w/ Special Weapon: Bolt Pistol, Close combat weapon, Meltagun
+. Dominion w/ Special Weapon: Bolt Pistol, Close combat weapon, Meltagun
+
+Seraphim Squad [70pts]
+
+. 2x Seraphim: 2x Close combat weapon
+
+. . 2x 2 Bolt Pistols: 4x Bolt Pistol
+. Seraphim Superior: Close combat weapon
+
+. . Plasma Pistol and Power Weapon: Plasma pistol, Power Weapon
+. Seraphim with Special Weapons: Close combat weapon
+
+. . 2x Ministorum Hand Flamers: 2x Ministorum hand flamer
+. Seraphim with Special Weapons: Close combat weapon
+
+. . 2x Ministorum Hand Flamers: 2x Ministorum hand flamer
+
++ Vehicle +
+
+
+Castigator [140pts]: Armoured tracks, Castigator battle cannon, 3x Heavy Bolters, Hunter-Killer Missile, Storm bolter
+
+++ Total: [495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
