@@ -3,37 +3,53 @@
 
 + Configuration +
 
+
 Battle Size: 1. Incursion (1000 Point limit)
 
 Detachment: Kauyon
 
+Show/Hide Options
+
 + Character +
 
-Cadre Fireblade [40pts]
-. 2x Gun Drone: 2x Twin pulse carbine
 
-Commander in Coldstar Battlesuit [125pts]: Cyclic ion blaster, 2x Cyclic ion blaster, Exemplar of the Kauyon, 2x Shield Drone, Shield generator, Warlord
+Cadre Fireblade [40pts]: Close combat weapon, Fireblade pulse rifle
+
+. Gun Drone: Twin pulse carbine
+. Marker Drone
+
+Commander in Coldstar Battlesuit [125pts]: Battlesuit fists, Cyclic ion blaster, 2x Cyclic ion blaster, Exemplar of the Kauyon, 2x Shield Drone, Shield generator, Warlord
 
 + Battleline +
 
-Strike Team [80pts]
-. Fire Warrior Shas'ui
+
+Strike Team [80pts]: Support turret missile system
+
+. Fire Warrior Shas'ui: Close combat weapon, Pulse pistol, Pulse rifle
+
 . . Guardian Drone
-. . Gun Drone
+. . Gun Drone: Twin pulse carbine
 . 9x Fire Warrior w/ pulse rifle: 9x Close combat weapon, 9x Pulse pistol, 9x Pulse rifle
 
 + Infantry +
 
+
 Stealth Battlesuits [60pts]
+
 . 2x Stealth Shas'ui w/ burst cannon: 2x Battlesuit fists, 2x Burst cannon
-. Stealth Shas'vre: Battlesuit support system, Burst cannon, 2x Shield Drone
+. Stealth Shas'vre: Battlesuit fists, Battlesuit support system, Burst cannon, Homing beacon
+
+. . Gun Drone: Twin pulse carbine
+. . Marker Drone
 
 + Vehicle +
 
+
 Crisis Battlesuits [180pts]
-. Crisis Shas’ui: 2x Cyclic ion blaster, Cyclic ion blaster, 2x Shield Drone, Shield generator
-. Crisis Shas’ui: Cyclic ion blaster, 2x Cyclic ion blaster, 2x Shield Drone, Shield generator
-. Crisis Shas’vre: 2x Cyclic ion blaster, Cyclic ion blaster, 2x Shield Drone, Shield generator
+
+. Crisis Shas’ui: Battlesuit fists, 2x Cyclic ion blaster, Cyclic ion blaster, 2x Shield Drone, Shield generator
+. Crisis Shas’ui: Battlesuit fists, Cyclic ion blaster, 2x Cyclic ion blaster, 2x Shield Drone, Shield generator
+. Crisis Shas’vre: Battlesuit fists, 2x Cyclic ion blaster, Cyclic ion blaster, 2x Shield Drone, Shield generator
 
 ++ Total: [485pts] ++
 
