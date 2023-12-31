@@ -1,4 +1,3 @@
-+++ 10th SupernovaEL kleines Rudel (500 points) (Warhammer 40,000 10th Edition) [500pts] +++
 
 ++ Army Roster (Imperium - Adeptus Astartes - Space Wolves) [500pts] ++
 
@@ -13,7 +12,7 @@ Show/Hide Options
 + Character +
 
 Captain in Gravis Armour [80pts]: Warlord
-. Master-crafted Heavy Bolt Rifle and Master-crafted Power Weapon
+. Boltstorm Gauntlet, Powerfist, and Relic weapon Chainsword: Relic Chainsword
 
 + Battleline +
 
@@ -27,12 +26,15 @@ Intercessor Squad [85pts]
 
 + Infantry +
 
-Aggressor Squad [110pts]: Flamestorm Gauntlets
+Aggressor Squad [110pts]
 . Aggressor Sergeant
 . 2x Aggressors: 2x Twin Power Fist
+. Auto Boltstorm Gauntlets & Fragstorm Grenade Launcher
 
 + Vehicle +
 
 Invictor Tactical Warsuit [140pts]: Incendium Cannon
+
+++ Total: [500pts] ++
 
 Created with BattleScribe (https://battlescribe.net)
