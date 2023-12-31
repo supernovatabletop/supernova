@@ -155,16 +155,16 @@ var store = [{
         "url": "/supernova/spielerinnen/lupublic",
         "teaser": null
       },{
+        "title": "Ma5ter19",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/ma5ter19",
+        "teaser": null
+      },{
         "title": "Madeleine",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/madeleine",
-        "teaser": null
-      },{
-        "title": "Master",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/supernova/spielerinnen/master",
         "teaser": null
       },{
         "title": "Mastercraze",
