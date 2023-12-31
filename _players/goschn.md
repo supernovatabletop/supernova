@@ -1,8 +1,8 @@
 ---
 layout: player
-name: Roman "Goshn"
+name: Roman "Goschn"
 army: Der Löwe und der Wolf
-discord: goshn
-filename: goshn
+discord: goschn
+filename: goschn
 phases: [1]
 ---
