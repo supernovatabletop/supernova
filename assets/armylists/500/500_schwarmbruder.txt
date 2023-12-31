@@ -1,0 +1,37 @@
+
+++ Army Roster (Xenos - Tyranids) [500pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Vanguard Onslaught
+
++ Character +
+
+Broodlord [90pts]: Warlord
+
+Parasite of Mortrex [80pts]
+
++ Battleline +
+
+Gargoyles [75pts]
+. 10x Gargoyles: 10x Blinding Venom, 10x Fleshborer
+
++ Infantry +
+
+Genestealers [85pts]
+. 5x Genestealer: 5x Genestealers claws and talons
+
+Genestealers [85pts]
+. 5x Genestealer: 5x Genestealers claws and talons
+
+Neurolictor [65pts]
+
++ Swarm +
+
+Ripper Swarms [20pts]: Ripper Swarm
+
+++ Total: [500pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

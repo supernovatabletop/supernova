@@ -1,0 +1,36 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [485pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Firestorm Assault Force
+
+Show/Hide Options
+
++ Epic Hero +
+
+Azrael [105pts]: Warlord
+
++ Infantry +
+
+Eradicator Squad [95pts]
+. Eradicator
+. Eradicator Sergeant
+. Eradicator with Multi-melta
+
+Sternguard Veteran Squad [100pts]
+. Sternguard Veteran Sergeant: Combi-weapon
+. 3x Sternguard Veteran w/Bolt Rifle: 3x Close Combat Weapon, 3x Sternguard Bolt Pistol, 3x Sternguard Bolt Rifle
+. Sternguard Veteran w/Special Weapon: Sternguard Heavy Bolter
+
+Terminator Squad [185pts]
+. Terminator Sergeant: Power Weapon
+. Terminator w/ Heavy Weapon: Power Fist
+. . Cyclone Missile Launcher & Storm Bolter
+. 3x Terminator w/ Power Fist: 3x Power Fist, 3x Storm Bolter
+
+++ Total: [485pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

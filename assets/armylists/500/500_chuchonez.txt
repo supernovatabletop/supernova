@@ -1,0 +1,30 @@
+
+++ Army Roster (Imperium - Adeptus Mechanicus) [485pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Explorator Maniple
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Tech-Priest Dominus [100pts]: Genetor, Omnissian axe, Phosphor serpenta, Volkite blaster, Warlord
+
++ Infantry +
+
+Kataphron Breachers [145pts]
+. 3x Kataphron Breacher (Heavy arc rifle & arc claw): 3x Arc claw, 3x Heavy arc rifle
+
++ Vehicle +
+
+Skorpius Disintegrator [180pts]: Armoured hull, Belleros energy cannon, 3x Cognis heavy stubber, Disruptor missile launcher
+
+Sydonian Dragoons (Taser Lance) [60pts]
+. Sydonian Dragoon (Taser lance & phosphor serpenta): Phosphor serpenta, Taser lance
+
+++ Total: [485pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

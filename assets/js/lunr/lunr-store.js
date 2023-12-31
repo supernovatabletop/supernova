@@ -83,10 +83,10 @@ var store = [{
         "url": "/supernova/spielerinnen/feulp",
         "teaser": null
       },{
-        "title": "Goshn",
+        "title": "Goschn",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/supernova/spielerinnen/goshn",
+        "url": "/supernova/spielerinnen/goschn",
         "teaser": null
       },{
         "title": "Green",
