@@ -1,6 +1,6 @@
 ---
 layout: player
-name: Feulp
+name: David "Feulp"
 army: Deimos
 discord: feulp
 filename: feulp

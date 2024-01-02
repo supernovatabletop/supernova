@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Felix "Keksbrösel"
-army: Team7
+army: Vengaboys
 discord: sir-keksalot
 filename: keksbroesel
 phases: [1]
