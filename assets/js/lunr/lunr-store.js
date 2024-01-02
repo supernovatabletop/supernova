@@ -113,12 +113,6 @@ var store = [{
         "url": "/supernova/spielerinnen/heavygrinsamal",
         "teaser": null
       },{
-        "title": "Incognito",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/supernova/spielerinnen/incognito",
-        "teaser": null
-      },{
         "title": "Justcoco",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -207,12 +201,6 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/rem",
-        "teaser": null
-      },{
-        "title": "Rudolfwagrainer",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/supernova/spielerinnen/rudolfwagrainer",
         "teaser": null
       },{
         "title": "Salkinus",
