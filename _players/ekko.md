@@ -1,6 +1,6 @@
 ---
 layout: player
-name: "Ekko die Biene"
+name: Erkan "Ekko die Biene"
 army: The Emperor Protects
 discord: Ekko the Biene#4742
 filename: ekko
