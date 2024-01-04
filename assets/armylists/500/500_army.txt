@@ -1,7 +1,7 @@
-++ Army Roster (Imperium - Adeptus Mechanicus) [490pts] ++
+
+++ Army Roster (Imperium - Adeptus Mechanicus) [480pts] ++
 
 + Configuration +
-
 
 Battle Size: 1. Incursion (1000 Point limit)
 
@@ -11,37 +11,31 @@ Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visi
 
 + Character +
 
-
 Tech-Priest Manipulus [75pts]: Magnarail lance, Peerless Eradicator, Warlord
 
-Tech-Priest Manipulus [55pts]: Autoclavic Denounciation, Transonic cannon
+Tech-Priest Manipulus [60pts]: Autoclavic Denounciation, Transonic cannon
 
 + Battleline +
 
-
 Skitarii Vanguard [80pts]
-
-. Skitarii Vanguard Alpha: Close combat weapon, Radium carbine
+. Skitarii Vanguard Alpha: Alpha combat weapon, Radium carbine
 . Skitarii Vanguard w/ data-tether: Close combat weapon
 . 7x Skitarii Vanguard w/ radium carbine: 7x Close combat weapon, 7x Radium carbine
 . Skitarii Vanguard w/ transuranic arquebus: Close combat weapon
 
 Skitarii Vanguard [80pts]
-
-. Skitarii Vanguard Alpha: Close combat weapon, Radium carbine
+. Skitarii Vanguard Alpha: Alpha combat weapon, Radium carbine
 . Skitarii Vanguard w/ data-tether: Close combat weapon
 . 7x Skitarii Vanguard w/ radium carbine: 7x Close combat weapon, 7x Radium carbine
 . Skitarii Vanguard w/ transuranic arquebus: Close combat weapon
 
 + Vehicle +
 
+Ironstrider Ballistarii [50pts]
+. Ironstrider Ballistarius (Twin cognis autocannon)
 
 Onager Dunecrawler [140pts]: Broad spectrum data-tether, Cognis heavy stubber, Eradication beamer
 
-Sydonian Dragoons (Taser Lance) [60pts]
+++ Total: [495pts] ++
 
-. Sydonian Dragoon (Taser lance & phosphor serpenta)
-
-++ Total: [490pts] ++
-
-Created with BattleScribe (https://battlescribe.net/)
+Created with BattleScribe (https://battlescribe.net)

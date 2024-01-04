@@ -2,7 +2,7 @@
 layout: player
 name: Rafael "Aquila"
 army: Sledgehammer
-discord: Aquila#3729
+discord: shalaxi
 filename: aquila
 phases: [1]
 ---
