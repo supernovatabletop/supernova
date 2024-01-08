@@ -17,15 +17,21 @@ Cadian Command Squad [65pts]
 
 + Battleline +
 
-Cadian Shock Troops [120pts]
-. 2 Shock Trooper Sergeants and 18 Shock Troopers: Shock Trooper w/ Vox-caster
-. . 13x Shock Trooper: 13x Close Combat Weapon, 13x Lasgun
+Cadian Shock Troops [60pts]
+. 1 Shock Trooper Sergeant and 9 Shock Troopers: Shock Trooper w/ Vox Caster
+. . 6x Shock Trooper: 6x Close Combat Weapon, 6x Lasgun
 . . Shock Trooper Sergeant
 . . . Drum-fed Autogun and Close Combat Weapon
+. . Shock Trooper w/ Meltagun
+. . Shock Trooper w/ Plasma Gun
+
+Cadian Shock Troops [60pts]
+. 1 Shock Trooper Sergeant and 9 Shock Troopers: Shock Trooper w/ Vox Caster
+. . 6x Shock Trooper: 6x Close Combat Weapon, 6x Lasgun
 . . Shock Trooper Sergeant
 . . . Drum-fed Autogun and Close Combat Weapon
-. . 2x Shock Trooper w/ Meltagun: 2x Close Combat Weapon, 2x Meltagun
-. . 2x Shock Trooper w/ Plasma Gun: 2x Close Combat Weapon, 2x Plasma Gun
+. . Shock Trooper w/ Meltagun
+. . Shock Trooper w/ Plasma Gun
 
 + Infantry +
 
