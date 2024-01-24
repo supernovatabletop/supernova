@@ -33,7 +33,10 @@ layout: default
           {% if phase.mission %}<p>{{ phase.mission }}</p>{% endif %}
         {% endif %}
 
-        {{ content }}
+        {% if phase and phase.map %}
+          {% assign image_file = site.static_files | where: "basename", phase.map | first %}
+          <p><a href="{{ image_file.path | relative_url }}"><img src="{{ image_file.path | relative_url }}" alt="{{ phase.map }}"></a></p>
+        {% endif %}
         
         {% if phase and site.data.pairings[phase.paring_data] %}
           <table>

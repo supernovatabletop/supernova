@@ -39,7 +39,7 @@ layout: default
                     {% assign rosz_army_file = site.static_files | where: "name", rosz_name | first %}
         
                     <h2 id="phase-1">{{ phase.name | append: ": " | append: phase.points | append: " Pkte"}}</h2>
-                    {% if image_file %}<p><a href="{{ image_file.path | relative_url }}"><img src="{{ image_file.path | relative_url }}" alt="500 Pkte"></a><p>{% endif %}
+                    {% if image_file %}<p><a href="{{ image_file.path | relative_url }}"><img src="{{ image_file.path | relative_url }}" alt="{{ phase.points | append: ' Pkte' }}"></a><p>{% endif %}
                     {% if txt_army_file or rosz_army_file %}
                         <table>
                             <thead>
