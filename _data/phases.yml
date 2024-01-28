@@ -5,3 +5,10 @@
   map: phase1_vitalground
   time_frame: Monat 1 (Jänner 2024)
   paring_data: phase1
+2:
+  name: Phase II
+  points: 750
+  mission: "Primary: Purge the Foe (Leviathan Tournament Companion), Mission Rule: Chilling Rain (Leviathan Tournament Companion), Board Size: 44x30"
+  map: phase2_purgethefoe
+  time_frame: Monat 2 (Februar 2024)
+  paring_data: phase2
