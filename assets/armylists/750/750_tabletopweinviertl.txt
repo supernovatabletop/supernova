@@ -1,0 +1,54 @@
+750 escalationleaug (750 points)
+
+Tyranids
+Strike Force (2000 points)
+Assimilation Swarm
+
+
+CHARACTERS
+
+Old One Eye (140 points)
+  • Warlord
+  • 1x Old One Eye’s claws and talons
+
+
+BATTLELINE
+
+Termagants (60 points)
+  • 10x Termagant
+    • 10x Chitinous claws and teeth
+      10x Fleshborer
+
+Termagants (60 points)
+  • 10x Termagant
+    • 10x Chitinous claws and teeth
+      10x Fleshborer
+
+
+OTHER DATASHEETS
+
+Barbgaunts (60 points)
+  • 5x Barbgaunt
+    • 5x Barblauncher
+      5x Chitinous claws and teeth
+
+Carnifexes (250 points)
+  • 2x Carnifex
+    • 2x Bio-plasma
+      2x Carnifex extra scything talons
+      2x Carnifex scything talons
+      2x Chitinous claws and teeth
+      2x Spine banks
+
+Psychophage (125 points)
+  • 1x Psychoclastic torrent
+    1x Talons and betentacled maw
+
+Pyrovores (35 points)
+  • 1x Chitin-barbed limbs
+    1x Flamespurt
+
+Ripper Swarms (20 points)
+  • 1x Chitinous claws and teeth
+
+Exported with App Version: v1.10.0 (37), Data Version: v336
