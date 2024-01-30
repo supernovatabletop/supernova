@@ -4,5 +4,5 @@ name: Christian "Rem"
 army: Vengaboys
 discord: remcorp
 filename: rem
-phases: [1]
+phases: [1,2]
 ---
