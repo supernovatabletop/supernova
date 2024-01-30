@@ -41,7 +41,7 @@ layout: default
         {% if phase and site.data.pairings[phase.paring_data] %}
           <table>
             <thead>
-              <tr><td>Spieler:in A</td><td>Spieler:in B</td><td>Gewinner:in</td></tr>
+              <tr><td>Spieler:in A</td><td>Spieler:in B</td><td>Score</td><td>Sieger (Team)</td></tr>
             </thead>
           {% for pairing in site.data.pairings[phase.paring_data] %}
             {% assign player_a_path = "_players/" | append: pairing.player_a | append: ".md" %}
@@ -51,6 +51,7 @@ layout: default
               <tr>
                 <td><a href ="{% link {{ player_a_path }} %}">{{ pairing.player_a }}</a></td>
                 <td><a href ="{% link {{ player_b_path }} %}">{{ pairing.player_b }}</a></td>
+                {% if pairing.score != null && pairing.score != "" %}<td>{{ pairing.score }}</td>{% endif %}
                 {% if pairing.winner != null and pairing.winner != "" %}<td><a href ="{% link {{ winner_path }} %}">{{ pairing.winner }}</a></td>{% endif %}
               </tr>
             </tbody>
