@@ -92,7 +92,7 @@ Bis zum Monatsende muss ein Foto mit allen Figuren aus der Armeeliste geschickt 
 **Ja**. 500 und 750 Punkte werden auf dem kleinen Spielfeld 44"x30" gespielt. Ab 1000 Punkten spielen wir dann auf den großen 60"x44" Platten.
 
 *Was passiert, wenn wir keinen Termin finden?*  
-Sollte nur eines der Spiele zustandekommen, so wird nur dieses Ergebnis gewertet. Falls ihr tatsächlich keinen Termin schafft, dann erhalten beide Teams einen Punkt, als ob ein Spiel unentschieden ausgegangen wäre.
+Sind sich beide Spieler einig, dass eine Person hauptverantwortlich für das Nichtzustandekommen des Spieles war, wird das Spiel als 0-40 ohne Anwesenheit des Verlierers gewertet. Ansonsten nehmt bitte Kontakt mit uns auf und wir finden eine individuelle Lösung.
 
 *Was passiert, wenn mein Teampartner nicht mehr spielen möchte?*  
 Melde dich bei uns, und wir finden sicherlich eine Lösung.
