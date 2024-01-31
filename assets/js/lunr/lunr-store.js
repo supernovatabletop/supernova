@@ -5,6 +5,12 @@ var store = [{
         "url": "/supernova/paarungen/phase1-paarung",
         "teaser": null
       },{
+        "title": "Phase2_paarung",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/paarungen/phase2-paarung",
+        "teaser": null
+      },{
         "title": "Aquila",
         "excerpt":" ","categories": [],
         "tags": [],
