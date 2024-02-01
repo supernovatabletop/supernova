@@ -1,0 +1,44 @@
+
+++ Army Roster (Xenos - Necrons) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Awakened Dynasty
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Overlord [105pts]: Nether-realm Casket, Warlord
+. Overlord's blade and tachyon arrow
+
+Overlord [105pts]: Veil of Darkness
+. Overlord's blade and tachyon arrow
+
++ Battleline +
+
+Immortals [70pts]
+. 5x Immortal: 5x Close combat weapon, 5x Gauss blaster
+
+Necron Warriors [100pts]
+. 10x Warrior w/ gauss flayer: 10x Close combat weapon, 10x Gauss flayer
+
++ Infantry +
+
+Skorpekh Destroyers [100pts]
+. 3x Skorpekh Destroyer: 3x Skorpekh hyperphase weapons
+
++ Swarm +
+
+Canoptek Scarab Swarms [40pts]
+. 3x Canoptek Scarab Swarm: 3x Feeder mandibles
+
++ Vehicle +
+
+Doom Scythe [230pts]
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
