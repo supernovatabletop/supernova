@@ -1,0 +1,38 @@
+
+++ Army Roster (Xenos - Necrons) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Awakened Dynasty
+
++ Character +
+
+Skorpekh Lord [120pts]: Nether-realm Casket, Warlord
+
+Technomancer [60pts]
+
++ Battleline +
+
+Necron Warriors [100pts]
+. 10x Warrior w/ gauss flayer: 10x Close combat weapon, 10x Gauss flayer
+
++ Infantry +
+
+Deathmarks [65pts]
+. 5x Deathmark: 5x Close combat weapon, 5x Synaptic disintegrator
+
+Flayed Ones [70pts]
+. 5x Flayed One: 5x Flayer claws
+
+Skorpekh Destroyers [200pts]: 2x Plasmacyte
+. 6x Skorpekh Destroyer: 6x Skorpekh hyperphase weapons
+
++ Vehicle +
+
+Canoptek Doomstalker [135pts]
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

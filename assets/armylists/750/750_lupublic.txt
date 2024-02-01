@@ -1,0 +1,45 @@
+
+++ Army Roster (Imperium - Grey Knights) [740pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Teleport Strike Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible
+
++ Epic Hero +
+
+Castellan Crowe [75pts]
+
++ Character +
+
+Brother-Captain [105pts]: Inescapable Wrath, Psycannon, Warlord
+
+Brotherhood Champion [80pts]
+
++ Battleline +
+
+Strike Squad [125pts]
+. 3x Grey Knight: 3x Nemesis Force Weapon, 3x Storm Bolter
+. Grey Knight with Heavy Weapon: Psycannon
+. Justicar
+
++ Infantry +
+
+Paladin Squad [225pts]
+. Paladin
+. Paladin with Ancient's Banner: Storm Bolter
+. Paladin with Heavy Weapon: Psycannon
+. Paladin with Heavy Weapon: Psycannon
+. Paragon
+
+Purifier Squad [130pts]
+. Knight of the Flame
+. 2x Purifier: 2x Nemesis Force Weapon, 2x Purifying Flame, 2x Storm Bolter
+. 2x Purifier w/ incinerator: 2x Close combat weapon, 2x Incinerator, 2x Purifying Flame
+
+++ Total: [740pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

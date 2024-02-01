@@ -1,0 +1,33 @@
+++ Army Roster (Chaos - Chaos Daemons) [790pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
++ Epic Hero +
+
+Syll'esske [120pts]
+
++ Character +
+
+Great Unclean One [250pts]: Bileblade, Bilesword, Warlord
+
++ Battleline +
+
+Nurglings [35pts]
+. 3x Nurgling Swarm: 3x Diseased claws and teeth
+
+Pink Horrors [140pts]
+. 10x Pink Horror: 10x Coruscating Pink flames, 10x Pink claws
+
+Plaguebearers [125pts]
+. 10x Plaguebearer: 10x Plaguesword
+
++ Mounted +
+
+Bloodcrushers [120pts]: Daemonic Icon, Instrument of Chaos
+. 2x Bloodcrusher: 2x Hellblade, 2x Juggernaut's bladed horn
+
+++ Total: [790pts] ++
+
+Created with BattleScribe (https://battlescribe.net/)

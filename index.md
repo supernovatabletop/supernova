@@ -28,7 +28,7 @@ Du hast keinen Teampartner möchtest aber trotzdem mitmachen? In unserem [Discor
 31.12.2023 Deadline Armeelistenabgabe Phase I  
 02.01.2024 Auslosung der Pairings für Phase I  
 03.02.2024 Deadline Armeelistenabgabe Phase II  
-04.02.2024 Auslosung der Pairings für Phase II
+04.02.2024 Auslosung der Pairings für Phase II  
 29.02.2024 Deadline Armeelistenabgabe Phase III  
 02.03.2024 Auslosung der Pairings für Phase III
 
