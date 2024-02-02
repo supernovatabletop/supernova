@@ -5,3 +5,5 @@ main:
     url: /paarungen/
   - title: "Spieler:innen"
     url: /spielerinnen/
+  - title: "Örtlichkeiten"
+    url: /locations/
