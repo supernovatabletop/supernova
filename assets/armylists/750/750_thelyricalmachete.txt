@@ -1,0 +1,45 @@
+
+++ Army Roster (Chaos - Chaos Space Marines) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Slaves to Darkness
+
+Show/Hide Options: Chaos Knights are visible, Khorne Daemons are visible, Legends are visible, Nurgle Daemons are visible, Slaanesh Daemons are visible, Titans are visible, Tzeentch Daemons are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Chaos Lord [95pts]: Daemon hammer, Mark of Khorne, Plasma pistol, Warlord
+
++ Battleline +
+
+Cultist Mob [55pts]: Mark of Tzeentch
+. Cultist Champion: Cultist firearm and close combat weapon
+. 9x Cultist w/ cultist firearm and close combat weapon: 9x Close combat weapon, 9x Cultist firearm
+
+Legionaries [90pts]: Chaos icon, Mark of Tzeentch
+. Aspiring Champion: Accursed weapon, Plasma pistol
+. Legionary w/ balefire tome
+. 2x Legionary w/ boltgun: 2x Bolt pistol, 2x Boltgun, 2x Close combat weapon
+. Legionary w/ other weapon
+
++ Infantry +
+
+Chosen [130pts]: Mark of Khorne
+. 3x Chosen w/ boltgun: 3x Accursed weapon, 3x Bolt pistol, 3x Boltgun
+. 2x Chosen w/ boltgun and plasma pistol: 2x Accursed weapon, 2x Boltgun, 2x Plasma pistol
+
+Obliterators [180pts]: Mark of Tzeentch
+. 2x Obliterator: 2x Crushing fists, 2x Fleshmetal guns
+
++ Vehicle +
+
+Forgefiend [200pts]: Mark of Nurgle
+. 2 ectoplasma cannons
+. Ectoplasma cannon and limbs
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

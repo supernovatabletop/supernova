@@ -1,0 +1,42 @@
+
+++ Army Roster (Xenos - Necrons) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Canoptek Court
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+C'tan Shard of the Nightbringer [255pts]
+
++ Character +
+
+Plasmancer [65pts]: Metalodermal Tesla Weave, Warlord
+
+Technomancer [80pts]: Dimensional Sanctum
+
++ Battleline +
+
+Immortals [140pts]
+. 10x Immortal: 10x Close combat weapon, 10x Tesla carbine
+
++ Mounted +
+
+Lokhust Heavy Destroyers [50pts]
+. Destroyer w/ enmitic exterminator
+
+Lokhust Heavy Destroyers [50pts]
+. Destroyer w/ gauss destructor
+
++ Beast +
+
+Canoptek Wraiths [110pts]
+. 3x Wraith w/ claws and particle caster: 3x Particle caster, 3x Vicious claws
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

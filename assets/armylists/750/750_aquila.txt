@@ -1,0 +1,49 @@
+
+++ Army Roster (Xenos - Leagues of Votann) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Oathband
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Brôkhyr Iron-master [85pts]: Grim Demeanour, Warlord
+
++ Battleline +
+
+Hearthkyn Warriors [110pts]: Comms array, Medipack, Pan spectral scanner
+. 7x Hearthkyn Warrior: 7x Autoch-pattern bolt pistol, 7x Autoch-pattern bolter, 7x Close combat weapon
+. Hearthkyn Warrior w/ heavy weapon: HYLas auto rifle*
+. Hearthkyn Warrior w/ heavy weapon: Magna-rail rifle*
+. Theyn: Autoch-pattern bolter, Etacarn plasma pistol
+
++ Infantry +
+
+Brôkhyr Thunderkyn [170pts]
+. 6x Brôkhyr Thunderkyn: 6x Close combat weapon, 6x Graviton blast cannon
+
++ Mounted +
+
+Hernkyn Pioneers [90pts]
+. Hernkyn Pioneer w/ HYLas rotary cannon
+. Hernkyn Pioneer w/ pan-spectral scanner
+. Hernkyn Pioneer w/ searchlight
+
+Hernkyn Pioneers [180pts]
+. Hernkyn Pioneer
+. Hernkyn Pioneer w/ comms array
+. 2x Hernkyn Pioneer w/ HYLas rotary cannon: 2x Bolt revolver, 2x Bolt shotgun, 2x HYLas rotary cannon, 2x Magna-coil autocannon, 2x Plasma knife
+. Hernkyn Pioneer w/ pan-spectral scanner
+. Hernkyn Pioneer w/ searchlight
+
++ Dedicated Transport +
+
+Sagitaur [115pts]: HYLas beam cannon
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

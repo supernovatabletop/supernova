@@ -1,0 +1,37 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Space Wolves) [755pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Gladius Task Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Lukas the Trickster [50pts]
+
++ Character +
+
+Captain [100pts]: Adept of the Codex, Warlord
+. Heavy Bolt Pistol, Master-crafted power weapon and 1 Relic Shield
+
++ Battleline +
+
+Intercessor Squad [80pts]
+. Intercessor Sergeant: Bolt Rifle, Close Combat Weapon
+. 4x Intercessors: 4x Bolt Pistol, 4x Bolt Rifle, 4x Close Combat Weapon
+
++ Vehicle +
+
+Brutalis Dreadnought [175pts]: Brutalis Talons, Twin Multi-melta
+
+Invictor Tactical Warsuit [140pts]: Twin Ironhail Autocannon
+
+Redemptor Dreadnought [210pts]: Heavy Onslaught Gatling Cannon, Icarus Rocket Pod, Onslaught Gatling Cannon, Twin Storm Bolter
+
+++ Total: [755pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

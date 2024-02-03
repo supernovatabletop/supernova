@@ -1,0 +1,51 @@
+
+++ Army Roster (Xenos - T'au Empire) [735pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Kauyon
+
+Show/Hide Options
+
++ Character +
+
+Cadre Fireblade [40pts]
+. 2x Gun Drone: 2x Twin pulse carbine
+
+Commander in Enforcer Battlesuit [105pts]: Cyclic ion blaster, 2x Cyclic ion blaster, Exemplar of the Kauyon, 2x Shield Drone, Warlord, Weapon support system
+
++ Battleline +
+
+Breacher Team [90pts]
+. Breacher Fire Warrior Shas'ui
+. . Guardian Drone
+. . Gun Drone
+. 9x Breacher Fire Warriors: 9x Close combat weapon, 9x Pulse blaster, 9x Pulse pistol
+
++ Vehicle +
+
+Broadside Battlesuits [90pts]
+. Broadside Shas’vre: Heavy rail rifle, Twin plasma rifle, Weapon support system
+. . 2x Missile Drone: 2x Missile pod
+
+Crisis Battlesuits [200pts]
+. Crisis Shas’ui: Cyclic ion blaster, Cyclic ion blaster, 2x Shield Drone, Shield generator, Weapon support system
+. Crisis Shas’ui: Cyclic ion blaster, Cyclic ion blaster, 2x Shield Drone, Shield generator, Weapon support system
+. Crisis Shas’vre: Cyclic ion blaster, Cyclic ion blaster, 2x Shield Drone, Shield generator, Weapon support system
+
+Piranha [55pts]
+. Piranhas: Piranha fusion blaster, 2x Seeker missile
+
+Tetras [80pts]
+. 2x Tetra: 2x Close combat weapons, 4x Pulse rifle
+
++ Dedicated Transport +
+
+Devilfish [75pts]: 2x Seeker missile
+. 2 Twin pulse carbines
+
+++ Total: [735pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

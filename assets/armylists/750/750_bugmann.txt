@@ -1,0 +1,41 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Gladius Task Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Lieutenant [95pts]: Fire Discipline, Warlord
+. Pistol, Master-crafted Bolt Rifle & Melee Weapon: Heavy Bolt Pistol, Master-crafted Power Weapon, Plasma Pistol
+
+Techmarine [65pts]: Artificer Armour
+
++ Battleline +
+
+Intercessor Squad [80pts]
+. Intercessor Sergeant: Bolt Rifle, Close Combat Weapon
+. 4x Intercessors: 4x Bolt Pistol, 4x Bolt Rifle, 4x Close Combat Weapon
+
++ Infantry +
+
+Hellblaster Squad [125pts]
+. 4x Hellblaster: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Plasma Incinerator
+. Hellblaster Sergeant: Plasma Pistol
+
++ Vehicle +
+
+Ballistus Dreadnought [140pts]
+
+Brutalis Dreadnought [175pts]: Brutalis Talons, Twin Multi-melta
+
+Drop Pod [70pts]: Storm Bolter
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

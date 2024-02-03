@@ -1,0 +1,46 @@
+
+++ Army Roster (Chaos - Chaos Space Marines) [740pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Slaves to Darkness
+
+Show/Hide Options: Chaos Knights are visible, Khorne Daemons are visible, Legends are visible, Nurgle Daemons are visible, Slaanesh Daemons are visible, Titans are visible, Tzeentch Daemons are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Dark Apostle [100pts]: Mark of Nurgle, Orbs of Unlife, Warlord
+. 2x Dark Disciple: 2x Close combat weapon
+
++ Battleline +
+
+Legionaries [90pts]: Chaos icon, Mark of Nurgle
+. Aspiring Champion: Accursed weapon, Plasma pistol
+. Legionary w/ boltgun
+. 2x Legionary w/ chainsword: 2x Astartes chainsword, 2x Bolt pistol, 2x Close combat weapon
+. Legionary w/ other weapon: Missile launcher
+
++ Infantry +
+
+Obliterators [180pts]: Mark of Chaos Undivided
+. 2x Obliterator: 2x Crushing fists, 2x Fleshmetal guns
+
+Possessed [140pts]: Chaos icon, Mark of Slaanesh
+. 5x Possessed: 5x Hideous mutations
+
+Raptors [90pts]: Mark of Chaos Undivided
+. 2x Raptor: 2x Astartes chainsword, 2x Bolt pistol
+. Raptor Champion: Plasma pistol, Power fist
+. Raptor w/ meltagun
+. Raptor w/ plasma pistol
+
++ Vehicle +
+
+Helbrute [140pts]: Mark of Chaos Undivided, Twin autocannon
+. Helbrute fist with combi-bolter
+
+++ Total: [740pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

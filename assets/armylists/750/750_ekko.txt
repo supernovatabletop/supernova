@@ -1,0 +1,32 @@
+
+++ Boarding Action (Imperium - Adeptus Astartes - Dark Angels) [750pts] ++
+
++ Configuration +
+
+Battle Size: 4. Boarding Patrol (500 Point Limit)
+
+Detachment: Firestorm Assault Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Techmarine [55pts]: Warlord
+
++ Infantry +
+
+Infiltrator Squad [100pts]
+. Infiltrator Sergeant
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
++ Vehicle +
+
+Repulsor Executioner [220pts]: Macro Plasma Incinerator
+
+Repulsor Executioner [220pts]: Macro Plasma Incinerator
+
+Stormhawk Interceptor [155pts]: Las-talon, Skyhammer Missile Launcher
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
