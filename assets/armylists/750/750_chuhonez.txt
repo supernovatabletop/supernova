@@ -1,0 +1,39 @@
+++ Army Roster (Imperium - Adeptus Mechanicus) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Explorator Maniple
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Tech-Priest Manipulus [80pts]: Genetor, Transonic cannon, Warlord
+
++ Battleline +
+
+Skitarii Vanguard [80pts]
+. Skitarii Vanguard Alpha: Alpha combat weapon, Archeotech pistol
+. Skitarii Vanguard w/ arc rifle: Close combat weapon
+. Skitarii Vanguard w/ data-tether: Close combat weapon
+. Skitarii Vanguard w/ plasma caliver: Close combat weapon
+. 5x Skitarii Vanguard w/ radium carbine: 5x Close combat weapon, 5x Radium carbine
+. Skitarii Vanguard w/ transuranic arquebus: Close combat weapon
+
++ Infantry +
+
+Kataphron Breachers [290pts]
+. 6x Kataphron Breacher (Heavy arc rifle & hydraulic claw): 6x Heavy arc rifle, 6x Hydraulic claw
+
++ Vehicle +
+
+Skorpius Disintegrator [180pts]: Belleros energy cannon
+
+Sydonian Dragoons (Taser Lance) [120pts]
+. 2x Sydonian Dragoon (Taser lance & phosphor serpenta): 2x Phosphor serpenta, 2x Taser lance
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net/)

@@ -1,0 +1,40 @@
+
+++ Army Roster (Xenos - Orks) [740pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Waaagh! Tribe
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Mozrog Skragbad [195pts]: Warlord
+
++ Character +
+
+Deffkilla Wartrike [95pts]: Supa-Cybork Body
+
++ Infantry +
+
+Gretchin [40pts]
+. 10x Gretchin: 10x Close combat weapon, 10x Grot blasta
+. Runtherd
+
++ Mounted +
+
+Warbikers [70pts]
+. Boss Nob on Warbike: Power klaw
+. 2x Warbiker w/ Choppa: 2x Choppa, 2x Close combat weapon, 2x Twin dakkagun
+
++ Vehicle +
+
+Kill Rig [170pts]
+
+Kill Rig [170pts]
+
+++ Total: [740pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

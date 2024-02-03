@@ -1,0 +1,34 @@
+
+++ Army Roster (Imperium - Adeptus Custodes) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachments: Shield Host
+
+Show/Hide Options: Agents of the Imperium are visible
+
++ Epic Hero +
+
+Trajann Valoris [160pts]
+
++ Character +
+
+Shield-Captain in Allarus Terminator Armour [170pts]: Castellan Axe, Ceaseless Hunter
+
++ Infantry +
+
+Allarus Custodians [130pts]
+. 2x Allarus Custodian (Castellan Axe): 2x Balistus grenade launcher, 2x Castellan Axe
+
+Custodian Wardens [200pts]
+. 4x Custodian Warden (Guardian Spear): 4x Guardian Spear
+
++ Allied Units +
+
+Callidus Assassin [90pts]
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
