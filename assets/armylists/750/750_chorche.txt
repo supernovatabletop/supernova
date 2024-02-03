@@ -1,0 +1,48 @@
+
+++ Army Roster (Xenos - Orks) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Waaagh! Tribe
+
+Show/Hide Options
+
++ Character +
+
+Deffkilla Wartrike [95pts]: Supa-Cybork Body
+
+Nob on Smasha Squig [80pts]: Headwoppa’s Killchoppa
+
+Warboss in Mega Armour [105pts]: Follow Me Ladz, Warlord
+
++ Infantry +
+
+Gretchin [40pts]
+. 10x Gretchin: 10x Close combat weapon, 10x Grot blasta
+. Runtherd
+
+Lootas [50pts]
+. 4x Loota: 4x Close combat weapon, 4x Deffgun
+. Spanner w/ Big shoota
+
+Lootas [50pts]
+. 4x Loota: 4x Close combat weapon, 4x Deffgun
+. Spanner w/ Big shoota
+
+Meganobz [60pts]
+. 2x Meganob w/ Twin killsaw: 2x Twin killsaw
+
+Nobz [110pts]: Ammo Runt
+. Boss Nob
+. . Slugga and power klaw
+. 4x Nob w/ Slugga and power klaw: 4x Power klaw, 4x Slugga
+
++ Vehicle +
+
+Battlewagon [160pts]: 4x Big shoota, Deff rolla, Grabbin' klaw, Killkannon, Lobba, Wreckin' ball, ’Ard Case
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
