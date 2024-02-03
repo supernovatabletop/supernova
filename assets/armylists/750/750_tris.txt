@@ -12,14 +12,14 @@ Show/Hide Options: Agents of the Imperium are visible, Unaligned Forces are visi
 + Character +
 
 
-Knight Errant [405pts]: Meltagun, Reaper chainsword, Stormspear rocket pod, Warlord
+Knight Errant [405pts]: Questoris heavy stubber, Reaper chainsword, Stormspear rocket pod, Warlord
 
 + Battleline +
 
 
-Armiger Warglaive [150pts]: Meltagun
+Armiger Warglaive [150pts]: Questoris heavy stubber
 
-Armiger Warglaive [150pts]: Meltagun
+Armiger Warglaive [150pts]: Questoris heavy stubber
 
 + Allied Units +
 
@@ -31,5 +31,3 @@ Inquisitorial Henchmen [40pts]
 . Inquisitorial Acolyte w/ plasma pistol
 
 ++ Total: [745pts] ++
-
-Created with BattleScribe (https://battlescribe.net/)

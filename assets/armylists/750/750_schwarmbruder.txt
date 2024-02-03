@@ -1,0 +1,45 @@
+
+++ Army Roster (Xenos - Tyranids) [745pts] ++
+
++ Configuration +
+
+
+Battle Size
+
+Detachment: Invasion Fleet
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+
+Neurotyrant [105pts]: Neurotyrant claws and lashes, Psychic scream, Warlord
+
++ Battleline +
+
+
+Gargoyles [80pts]
+
+. 10x Gargoyles: 10x Blinding Venom, 10x Fleshborer
+
+Gargoyles [80pts]
+
+. 10x Gargoyles: 10x Blinding Venom, 10x Fleshborer
+
++ Infantry +
+
+
+Lictor [60pts]: Lictor Claws and Talons
+
++ Monster +
+
+
+Haruspex [125pts]: Grasping Tongue, Ravenous Maw, Shovelling Claws
+
+Haruspex [125pts]: Grasping Tongue, Ravenous Maw, Shovelling Claws
+
+Maleceptor [170pts]: Massive Scything Talons, Psychic Overload
+
+++ Total: [745pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

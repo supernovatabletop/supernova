@@ -4,5 +4,5 @@ name: Benny "HeavyGrinsamal"
 army: The Green Wave
 discord: heavygrinsamal
 filename: heavygrinsamal
-phases: [1]
+phases: [1,2]
 ---

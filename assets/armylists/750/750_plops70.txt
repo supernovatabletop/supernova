@@ -1,0 +1,53 @@
+
+++ Army Roster (Xenos - T'au Empire) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Kauyon
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Darkstrider [60pts]
+
+Longstrike [140pts]: Ion cannon, Warlord
+. 2 Accelerator burst cannons
+
++ Character +
+
+Cadre Fireblade [40pts]
+
++ Battleline +
+
+Strike Team [80pts]
+. 9x Fire Warrior w/ pulse rifle: 9x Close combat weapon, 9x Pulse pistol, 9x Pulse rifle
+
++ Infantry +
+
+Pathfinder Team [90pts]
+. 2x Gun Drone: 2x Twin pulse carbine
+. Pathfinder Shas'ui: Semi-automatic grenade launcher
+. . Recon drone
+. 6x Pathfinders w/ pulse carbine: 6x Close combat weapon, 6x Pulse carbine, 6x Pulse pistol
+. 3x Pathfinders w/ rail rifle: 3x Close combat weapon, 3x Pulse pistol, 3x Rail rifle
+
++ Vehicle +
+
+Broadside Battlesuits [90pts]
+. Broadside Shas’vre: Heavy rail rifle, Seeker missile, Twin plasma rifle
+. . Missile Drone
+. . Shield Drone
+
+Broadside Battlesuits [90pts]
+. Broadside Shas’vre: Heavy rail rifle, Seeker missile, Twin plasma rifle
+. . Missile Drone
+. . Shield Drone
+
+Ghostkeel Battlesuit [160pts]: Battlesuit support system, Cyclic ion raker, Twin T'au flamer
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

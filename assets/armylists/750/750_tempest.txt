@@ -1,0 +1,61 @@
+Roster (745 Points)
+
+Space Marines
+Dark Angels
+Unforgiven Task Force
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Ancient in Terminator Armour (75 Points)
+    • 1x Power fist
+      1x Storm bolter
+
+Belial (85 Points)
+    • Warlord
+    • 1x Master-crafted storm bolter
+      1x The Sword of Silence
+
+Librarian in Terminator Armour (75 Points)
+    • 1x Force weapon
+      1x Smite
+
+OTHER DATASHEETS
+
+Eliminator Squad (75 Points)
+    • 1x Eliminator Sergeant
+        • 1x Bolt pistol
+          1x Bolt sniper rifle
+          1x Close combat weapon
+    • 2x Eliminator
+        • 2x Bolt pistol
+          2x Bolt sniper rifle
+          2x Close combat weapon
+
+Scout Squad (65 Points)
+    • 1x Scout Sergeant
+        • 1x Bolt pistol
+          1x Boltgun
+          1x Close combat weapon
+    • 4x Scout
+        • 4x Bolt pistol
+          4x Boltgun
+          4x Close combat weapon
+
+Terminator Squad (185 Points)
+    • 1x Terminator Sergeant
+        • 1x Power fist
+          1x Storm bolter
+    • 4x Terminator
+        • 4x Power fist
+          4x Storm bolter
+
+Terminator Squad (185 Points)
+    • 1x Terminator Sergeant
+        • 1x Power fist
+          1x Storm bolter
+    • 4x Terminator
+        • 4x Power fist
+          4x Storm bolter
+
+Exported with App Version: v1.10.1 (30), Data Version: v336

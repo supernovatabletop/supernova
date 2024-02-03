@@ -4,5 +4,5 @@ name: Martin "Paenu"
 army: The Green Wave
 discord: paenu
 filename: paenu
-phases: [1]
+phases: [1,2]
 ---

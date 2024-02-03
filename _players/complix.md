@@ -4,5 +4,5 @@ name: Lily "Complix"
 army: Deimos
 discord: c0mplix
 filename: complix
-phases: [1]
+phases: [1,2]
 ---
