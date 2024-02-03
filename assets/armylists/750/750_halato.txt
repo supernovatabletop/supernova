@@ -1,0 +1,74 @@
+
+++ Army Roster (Imperium - Astra Militarum) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Combined Regiment
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Cadian Command Squad [65pts]
+. Cadian Commander: Laspistol, Power Weapon
+. Veteran Guardsman w/ Chainsword: Laspistol, Meltagun
+. Veteran Guardsman w/ Regimental Standard
+. . Regimental Standard and Lasgun
+
+Cadian Command Squad [65pts]
+. Cadian Commander: Laspistol, Power Weapon
+. Veteran Guardsman w/ Chainsword: Laspistol, Meltagun
+. Veteran Guardsman w/ Regimental Standard
+. . Regimental Standard and Lasgun
+
+Platoon Command Squad [75pts]
+. Platoon Commander: Grand Strategist, Laspistol, Power Weapon, Warlord
+. Veteran Guardsman: Meltagun
+. Veteran Guardsman w/ Master Vox
+. Veteran Guardsman w/ Medi-pack
+. Veteran Guardsman w/ Regimental Standard: Lasgun
+
++ Battleline +
+
+Cadian Shock Troops [60pts]
+. 1 Shock Trooper Sergeant and 9 Shock Troopers: Shock Trooper w/ Vox Caster
+. . 6x Shock Trooper: 6x Close Combat Weapon, 6x Lasgun
+. . Shock Trooper Sergeant
+. . . Drum-fed Autogun and Close Combat Weapon
+. . Shock Trooper w/ Grenade Launcher
+. . Shock Trooper w/ Plasma Gun
+
+Cadian Shock Troops [60pts]
+. 1 Shock Trooper Sergeant and 9 Shock Troopers: Shock Trooper w/ Vox Caster
+. . 6x Shock Trooper: 6x Close Combat Weapon, 6x Lasgun
+. . Shock Trooper Sergeant
+. . . Drum-fed Autogun and Close Combat Weapon
+. . Shock Trooper w/ Grenade Launcher
+. . Shock Trooper w/ Plasma Gun
+
+Infantry Squad [60pts]
+. 1 Sergeant, 7 Guardsmen and 1 Heavy Weapons Team: Guardsman w/ Vox Caster
+. . 5x Guardsman: 5x Close Combat Weapon, 5x Lasgun
+. . Guardsman w/ Grenade Launcher
+. . Heavy Weapons Team: Missile Launcher
+. . Sergeant: Chainsword, Laspistol
+
++ Infantry +
+
+Field Ordnance Battery [120pts]
+. Ordnance Teams: Bombast Field Gun
+. Ordnance Teams: Bombast Field Gun
+
++ Vehicle +
+
+Hellhound [125pts]: Chem Cannon, Hunter-killer Missile, Multi-melta
+
+Scout Sentinels [120pts]
+. Scout Sentinel: Hunter-killer Missile, Plasma Cannon, Sentinel Chainsaw
+. Scout Sentinel: Hunter-killer Missile, Plasma Cannon, Sentinel Chainsaw
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

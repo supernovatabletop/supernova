@@ -1,0 +1,35 @@
+++ Army Roster (Imperium - Imperial Knights) [745pts] ++
+
++ Configuration +
+
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Noble Lance
+
+Show/Hide Options: Agents of the Imperium are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+
+Knight Errant [405pts]: Meltagun, Reaper chainsword, Stormspear rocket pod, Warlord
+
++ Battleline +
+
+
+Armiger Warglaive [150pts]: Meltagun
+
+Armiger Warglaive [150pts]: Meltagun
+
++ Allied Units +
+
+
+Inquisitorial Henchmen [40pts]
+
+. 2x Inquisitorial Acolyte: 2x Acolyte firearm, 2x Acolyte melee weapon
+. Inquisitorial Acolyte w/ eviscerator
+. Inquisitorial Acolyte w/ plasma pistol
+
+++ Total: [745pts] ++
+
+Created with BattleScribe (https://battlescribe.net/)

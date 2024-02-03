@@ -1,0 +1,50 @@
++++ Harlequins  (Warhammer 40,000 10th Edition) [750pts] +++
+
+++ Army Roster (Aeldari - Craftworlds) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Battle Host
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero [115pts] +
+
+Solitaire [115pts]
+
++ Character [70pts] +
+
+Troupe Master [70pts]: Fate's Messenger [15pts], Fusion Pistol, Troupe Master Warlord, Troupe Master's Blade
+
++ Infantry [75pts] +
+
+Troupe [75pts]
+. . Lead Player: Aeldari power sword, Fusion Pistol
+. . Player with Fusion Pistol: Harlequin's Special Weapon
+. . Player with Harlequin's Special Weapon
+. . Player with Neuro Disruptor: Harlequin's Special Weapon
+. . Player with Neuro Disruptor: Harlequin's Special Weapon
+
++ Mounted [285pts] +
+
+Skyweavers [190pts]
+. . Skyweaver: Skyweaver Haywire Cannon, Zephyrglaive
+. . Skyweaver: Skyweaver Haywire Cannon, Zephyrglaive
+. . Skyweaver: Skyweaver Haywire Cannon, Zephyrglaive
+. . Skyweaver: Skyweaver Haywire Cannon, Zephyrglaive
+
+Skyweavers [95pts]
+. . Skyweaver: Shuriken Cannon, Star Bolas
+. . Skyweaver: Shuriken Cannon, Star Bolas
+
++ Vehicle [125pts] +
+
+Voidweaver [125pts]: Prismatic Cannon
+
++ Dedicated Transport [80pts] +
+
+Starweaver [80pts]
+
+Created with BattleScribe (https://battlescribe.net)

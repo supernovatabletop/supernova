@@ -1,0 +1,46 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Blood Angels) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Sons of Sanguinius
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Captain in Terminator Armour [95pts]: Relic Weapon, Storm Bolter, Warlord
+
+Chaplain with Jump Pack [75pts]: Inferno Pistol
+
+Lieutenant with Combi-weapon [70pts]
+
+Sanguinary Priest with Jump Pack [90pts]
+
++ Infantry +
+
+Death Company Marines with Jump Packs [130pts]
+. Death Company Marine: Thunder Hammer
+. Death Company Marine: Thunder Hammer
+. Death Company Marine: Thunder Hammer
+. Death Company Marine: Thunder Hammer
+. Death Company Marine: Thunder Hammer
+
+Terminator Squad [185pts]
+. Terminator Sergeant: Power Fist
+. Terminator w/ Heavy Weapon: Power Fist
+. . Cyclone Missile Launcher & Storm Bolter
+. 3x Terminator w/ Power Fist: 3x Power Fist, 3x Storm Bolter
+
+Vanguard Veteran Squad with Jump Packs [105pts]
+. Vanguard Veteran Sergeant with Jump Pack: Storm Shield
+. Vanguard Veterans with Jump Packs: Storm Shield
+. Vanguard Veterans with Jump Packs: Storm Shield
+. Vanguard Veterans with Jump Packs: Storm Shield
+. Vanguard Veterans with Jump Packs: Storm Shield
+
+++ Total: [750pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

@@ -1,0 +1,51 @@
++++ Sisters Escalation League 750 Final (Warhammer 40,000 10th Edition) [745pts] +++
+
+++ Army Roster (Imperium - Adepta Sororitas) [745pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Hallowed Martyrs Detachment
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero [135pts] +
+
+Saint Celestine [135pts]: Warlord
+
++ Character [35pts] +
+
+Hospitaller [35pts]
+
++ Battleline [200pts] +
+
+Battle Sisters Squad [100pts]
+. . 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. . Battle Sister w/ Simulacrum Imperialus
+. . Battle Sister w/ Special or Heavy Weapon: Multi-melta
+. . Battle Sister w/ Special Weapon: Meltagun
+. . Sister Superior: Boltgun
+
+Battle Sisters Squad [100pts]
+. . 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. . Battle Sister w/ Simulacrum Imperialus
+. . Battle Sister w/ Special or Heavy Weapon: Multi-melta
+. . Battle Sister w/ Special Weapon: Meltagun
+. . Sister Superior: Boltgun
+
++ Infantry [140pts] +
+
+Zephyrim Squad [140pts]
+. . 9x Zephyrim: 9x Bolt Pistol, 9x Power Weapon
+. . Zephyrim Superior: Plasma pistol, Sacred Banner
+
++ Vehicle [160pts] +
+
+Exorcist [160pts]: Exorcist Missile Launcher
+
++ Dedicated Transport [75pts] +
+
+Sororitas Rhino [75pts]
+
+Created with BattleScribe (https://battlescribe.net)

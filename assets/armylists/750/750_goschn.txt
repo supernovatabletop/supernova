@@ -1,0 +1,77 @@
+kleines Rudel 500 (750 points)
+
+Space Marines
+Space Wolves
+Incursion (1000 points)
+Stormlance Task Force
+
+
+CHARACTERS
+
+Wolf Guard Battle Leader on Thunderwolf (95 points)
+  • Warlord
+  • 1x Crushing teeth and claws
+    1x Plasma pistol
+    1x Power fist
+  • Enhancement: Portents of Wisdom
+
+
+BATTLELINE
+
+Intercessor Squad (80 points)
+  • 1x Intercessor Sergeant
+    • 1x Bolt pistol
+      1x Bolt rifle
+      1x Power fist
+  • 4x Intercessor
+    • 1x Astartes grenade launcher
+      4x Bolt pistol
+      4x Bolt rifle
+      4x Close combat weapon
+
+
+OTHER DATASHEETS
+
+Aggressor Squad (120 points)
+  • 1x Aggressor Sergeant
+    • 1x Flamestorm gauntlets
+      1x Twin power fists
+  • 2x Aggressor
+    • 2x Flamestorm gauntlets
+      2x Twin power fists
+
+Ballistus Dreadnought (140 points)
+  • 1x Armoured feet
+    1x Ballistus lascannon
+    1x Ballistus missile launcher
+    1x Twin storm bolter
+
+Incursor Squad (85 points)
+  • 1x Incursor Sergeant
+    • 1x Bolt pistol
+      1x Occulus bolt carbine
+      1x Paired combat blades
+  • 4x Incursor
+    • 4x Bolt pistol
+      1x Haywire Mine
+      4x Occulus bolt carbine
+      4x Paired combat blades
+
+Invictor Tactical Warsuit (140 points)
+  • 1x Fragstorm grenade launcher
+    1x Heavy bolter
+    1x Invictor fist
+    1x Twin ironhail autocannon
+    1x Twin ironhail heavy stubber
+
+Thunderwolf Cavalry (90 points)
+  • 1x Thunderwolf Cavalry Pack Leader
+    • 1x Crushing teeth and claws
+      1x Heirloom weapon
+      1x Plasma pistol
+  • 2x Thunderwolf Cavalry
+    • 2x Crushing teeth and claws
+      2x Heirloom weapon
+      2x Plasma pistol
+
+Exported with App Version: v1.10.0 (37), Data Version: v336

@@ -1,0 +1,45 @@
++++ Escalation League Phase II Dante Version (Warhammer 40,000 10th Edition) [750pts] +++
+
+++ Army Roster (Imperium - Adeptus Astartes - Blood Angels) [750pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Sons of Sanguinius
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero [120pts] +
+
+Commander Dante [120pts]: Warlord
+
++ Character [150pts] +
+
+Apothecary Biologis [55pts]
+
+Chaplain with Jump Pack [95pts]: Artisan of War [20pts], Inferno Pistol
+
++ Infantry [310pts] +
+
+Assault Intercessors with Jump Packs [85pts]
+. . Assault Intercessor Sergeant with Jump Pack: Astartes Chainsword, Heavy Bolt Pistol
+. . 4x Assault Intercessors with Jump Pack: 4x Astartes Chainsword, 4x Heavy Bolt Pistol
+
+Death Company Marines with Jump Packs [130pts]
+. . Death Company Marine: Thunder Hammer
+. . Death Company Marine: Thunder Hammer
+. . Death Company Marine: Thunder Hammer
+. . Death Company Marine: Thunder Hammer
+. . Death Company Marine: Thunder Hammer
+
+Eradicator Squad [95pts]
+. . Eradicator
+. . Eradicator Sergeant
+. . Eradicator with Multi-melta
+
++ Vehicle [170pts] +
+
+Librarian Dreadnought [170pts]: Meltagun
+
+Created with BattleScribe (https://battlescribe.net)

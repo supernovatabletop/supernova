@@ -1,0 +1,65 @@
+Death Guard
+Incursion (1000 points)
+Plague Company
+
+
+CHARACTERS
+
+Biologus Putrifier (50 points)
+  • 1x Hyper blight grenades
+    1x Injector pistol
+    1x Plague knives
+
+Foul Blightspawn (50 points)
+  • 1x Close combat weapon
+    1x Plague sprayer
+
+Typhus (80 points)
+  • Warlord
+  • 1x Master-crafted manreaper
+
+
+BATTLELINE
+
+Plague Marines (180 points)
+  • 1x Plague Champion
+    • 1x Heavy plague weapon
+      1x Plasma pistol
+  • 9x Plague Marine
+    • 2x Blight launcher
+      2x Heavy plague weapon
+      2x Meltagun
+      1x Plague boltgun
+      9x Plague knives
+      2x Plague spewer
+
+
+DEDICATED TRANSPORTS
+
+Death Guard Rhino (75 points)
+  • 1x Armoured tracks
+    1x Havoc launcher
+    1x Plague combi-bolter
+    1x Plague combi-bolter
+
+
+OTHER DATASHEETS
+
+Foetid Bloat-Drone (90 points)
+  • 1x Heavy blight launcher
+    1x Plague probe
+
+Poxwalkers (50 points)
+  • 10x Poxwalker
+    • 10x Improvised weapon
+
+
+ALLIED UNITS
+
+War Dog Brigand (170 points)
+  • 1x Armoured feet
+    1x Avenger chaincannon
+    1x Daemonbreath spear
+    1x Diabolus heavy stubber
+
+Exported with App Version: v1.10.1 (38), Data Version: v336
