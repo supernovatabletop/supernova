@@ -155,7 +155,7 @@ footer:
       url: https://www.twitch.tv/farberpastell
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: https://www.twitch.tv/farberpastell
+      url: https://www.youtube.com/channel/UCMkzKMBlxwKdZDt_M_lBysQ
     - label: "Website"
       icon: "fas fa-globe"
       url: "https://pascalhann.github.io"
