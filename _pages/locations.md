@@ -30,7 +30,7 @@ An diser Stelle ein paar Vereine und Spielelokale an denen ihr eure Liga Spiele 
 ### ![](../assets/images/sledgehammer.png) Sledgehammer Wargaming
 
 * Kontakt: [Instragram](https://www.instagram.com/sledgehammer_wargaming/)
-* Adresse: [Hernalser Haupstraße 123, 1220 Wien](https://maps.app.goo.gl/pwWM5SL55vq5Ppy58)
+* Adresse: [Hernalser Haupstraße 123, 1170 Wien](https://maps.app.goo.gl/pwWM5SL55vq5Ppy58)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.2656177746994!2d16.3227792!3d48.220759699999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d087468381879%3A0x217af6118f801399!2sHernalser%20Hauptstra%C3%9Fe%20123%2C%201170%20Wien!5e0!3m2!1sde!2sat!4v1707067066755!5m2!1sde!2sat" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
