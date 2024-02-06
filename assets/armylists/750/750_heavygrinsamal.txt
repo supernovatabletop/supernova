@@ -1,5 +1,5 @@
 
-++ Army Roster (Xenos - Orks) [715pts] ++
+++ Army Roster (Xenos - Orks) [740pts] ++
 
 + Configuration +
 
@@ -21,11 +21,11 @@ Boyz [170pts]
 . 2x Boy w/ Rokkit launcha and close combat weapon: 2x Close combat weapon, 2x Rokkit launcha
 . 17x Boy w/ Slugga and choppa: 17x Choppa, 17x Slugga
 
-+ Infantry +
-
-Burna Boyz [60pts]
-. 4x Burna Boy: 4x Burna, 4x Cuttin’ flames
-. Spanner w/ Big shoota
+Boyz [85pts]
+. Boss Nob
+. . Big choppa and slugga
+. Boy w/ Rokkit launcha and close combat weapon
+. 8x Boy w/ Slugga and choppa: 8x Choppa, 8x Slugga
 
 + Vehicle +
 
@@ -37,6 +37,6 @@ Deffkoptas [100pts]
 . 2x Deffkopta: 2x Kopta rokkits, 2x Slugga, 2x Spinnin’ blades
 . Deffkopta w/ Kustom mega-blasta
 
-++ Total: [715pts] ++
+++ Total: [740pts] ++
 
 Created with BattleScribe (https://battlescribe.net)
