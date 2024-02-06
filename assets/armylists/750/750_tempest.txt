@@ -1,36 +1,52 @@
-Roster (745 Points)
+bb (745 Points)
 
 Space Marines
 Dark Angels
 Unforgiven Task Force
-Strike Force (2000 Points)
+Incursion (1000 Points)
 
 CHARACTERS
 
-Ancient in Terminator Armour (75 Points)
-    • 1x Power fist
-      1x Storm bolter
+Azrael (105 Points)
+    • 1x Lion’s Wrath
+      1x The Lion Helm
+      1x The Sword of Secrets
 
 Belial (85 Points)
     • Warlord
     • 1x Master-crafted storm bolter
       1x The Sword of Silence
 
-Librarian in Terminator Armour (75 Points)
-    • 1x Force weapon
-      1x Smite
+Deathwing Strikemaster (100 Points)
+    • 1x Mace of absolution
+      1x Storm bolter
+    • Enhancements: Heavenfall Blade
 
 OTHER DATASHEETS
 
-Eliminator Squad (75 Points)
-    • 1x Eliminator Sergeant
+Deathwing Command Squad (200 Points)
+    • 1x Deathwing Ancient
+        • 1x Power fist
+          1x Storm bolter
+    • 1x Deathwing Apothecary
+        • 1x Chainfist
+          1x Storm bolter
+    • 1x Deathwing Champion
+        • 1x Halberd of Caliban
+    • 2x Deathwing Command Terminator
+        • 1x Cyclone missile launcher
+          2x Power fist
+          1x Storm bolter          1x Storm bolter
+
+Hellblaster Squad (125 Points)
+    • 1x Hellblaster Sergeant
         • 1x Bolt pistol
-          1x Bolt sniper rifle
           1x Close combat weapon
-    • 2x Eliminator
-        • 2x Bolt pistol
-          2x Bolt sniper rifle
-          2x Close combat weapon
+          1x Plasma incinerator
+    • 4x Hellblaster
+        • 4x Bolt pistol
+          4x Close combat weapon
+          4x Plasma incinerator
 
 Scout Squad (65 Points)
     • 1x Scout Sergeant
@@ -39,23 +55,21 @@ Scout Squad (65 Points)
           1x Close combat weapon
     • 4x Scout
         • 4x Bolt pistol
-          4x Boltgun
+          2x Boltgun
           4x Close combat weapon
+          1x Missile launcher
+          1x Scout sniper rifle
 
-Terminator Squad (185 Points)
-    • 1x Terminator Sergeant
-        • 1x Power fist
-          1x Storm bolter
-    • 4x Terminator
-        • 4x Power fist
-          4x Storm bolter
-
-Terminator Squad (185 Points)
-    • 1x Terminator Sergeant
-        • 1x Power fist
-          1x Storm bolter
-    • 4x Terminator
-        • 4x Power fist
-          4x Storm bolter
+Scout Squad (65 Points)
+    • 1x Scout Sergeant
+        • 1x Bolt pistol
+          1x Boltgun
+          1x Close combat weapon
+    • 4x Scout
+        • 4x Bolt pistol
+          2x Boltgun
+          4x Close combat weapon
+          1x Missile launcher
+          1x Scout sniper rifle
 
 Exported with App Version: v1.10.1 (30), Data Version: v336
