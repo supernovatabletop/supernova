@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Pawel "Paeu"
-army: Szczebrzeszyn
+name: Pawel
+displayname: Paeu
+army: 
+team: Szczebrzeszyn
 discord: Paeu#0019
 filename: paeu
 phases: [1,2]

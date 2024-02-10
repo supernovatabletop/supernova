@@ -1,30 +1,33 @@
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% if post.name and post.name != "" %}
+  {% assign page_title = post.name | append: ' "' | append: post.displayname | append: '"' %}
 {% else %}
-  {% assign teaser = site.teaser %}
+  {% assign page_title = post.displayname %}
+{% endif %}
+{% assign current_phase = site.data.phases | sort | last %}
+{% if post.phases contains current_phase[0] %}
+  {% assign inactive = false %}
+{% else %}
+  {% assign page_title = page_title | append: " (inaktiv)" %}
+  {% assign inactive = true %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.name | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.name %}
-{% endif %}
+{% assign title = page_title | markdownify | remove: "<p>" | remove: "</p>" %}
 
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
-      </div>
-    {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}" style="{% if inactive %}color: #AAAFB4{% endif %}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.url | relative_url }}" rel="permalink" style="{% if inactive == true %}color: #AAAFB4{% endif %}">{{ title }}</a>
       {% endif %}
     </h2>
     {% include page__meta.html type=include.type %}
-    {% if post.army %}<p class="archive__item-excerpt" itemprop="description">{{ post.army | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% if post.army or post.team %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {% if post.army %}Army: {{ post.army | markdownify | strip_html | truncate: 160 }}<br>{% endif %}
+        {% if post.team %}Team: {{ post.team | markdownify | strip_html | truncate: 160 }}{% endif %}
+      </p>
+    {% endif %}
   </article>
 </div>

@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Paul "Halato"
-army: Lion'el Yarrik
+name: Paul
+displayname: Halato
+army: 
+team: Lion'el Yarrik
 discord: halato
 filename: halato
 phases: [1,2]

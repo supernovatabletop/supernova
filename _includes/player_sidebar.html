@@ -1,12 +1,20 @@
+{% if page.name and page.name != "" %}
+  {% assign page_title = page.name | append: ' "' | append: page.displayname | append: '"' %}
+{% else %}
+  {% assign page_title = page.displayname %}
+{% endif %}
+
 <div class="sidebar sticky">
-  <img src="{% if page.name %}
+  <img src="{% if page.filename %}
           {% assign image_name = page.filename | append: "_avatar" %}
           {% assign image_file = site.static_files | where: "basename", image_name | first %}
           {% if image_file %}{{ image_file.path | relative_url }}{% else %}{{ "assets/images/avatars/platzhalter_avatar.png" | relative_url }}{% endif %}
           {% else %}{{ "assets/images/avatars/platzhalter_avatar.png" | relative_url }}
           {% endif %}"
-          alt="{% if page.name %}{{ page.name }}{% endif %}">
-  {% if page.name %}<h3>{{ page.name }}</h3>{% endif %}
+          alt="{{ page_title }}">
+  <h3>{{ page_title }}</h3>
   {% if page.discord %}<p><i class="fab fa-fw fa-discord" aria-hidden="true"></i><span> </span>{{ page.discord | markdownify | remove: "<p>" | remove: "</p>"}}<br>
-  {% if page.army %}{{ page.army | markdownify | remove: "<p>" | remove: "</p>"}}{% endif %}</p>{% endif %}
+  {% if page.army %}{{ "Armee: " | append: page.army | markdownify | remove: "<p>" | remove: "</p>"}}{% endif %}<br>
+  {% if page.team %}{{ "Team: " | append: page.team | markdownify | remove: "<p>" | remove: "</p>"}}{% endif %}
+  </p>{% endif %}
 </div>

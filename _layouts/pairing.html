@@ -43,19 +43,31 @@ layout: default
             <thead>
               <tr><td>Spieler:in A</td><td>Spieler:in B</td><td>Score</td><td>Sieger (Team)</td></tr>
             </thead>
+            <tbody>
           {% for pairing in site.data.pairings[phase.paring_data] %}
             {% assign player_a_path = "_players/" | append: pairing.player_a | append: ".md" %}
             {% assign player_b_path = "_players/" | append: pairing.player_b | append: ".md" %}
             {% assign winner_path = "_players/" | append: pairing.winner | append: ".md" %}
-            <tbody>
-              <tr>
-                <td><a href ="{% link {{ player_a_path }} %}">{{ pairing.player_a }}</a></td>
-                <td><a href ="{% link {{ player_b_path }} %}">{{ pairing.player_b }}</a></td>
-                {% if pairing.score != null && pairing.score != "" %}<td>{{ pairing.score }}</td>{% else %}<td></td>{% endif %}
-                {% if pairing.winner != null and pairing.winner != "" %}<td><a href ="{% link {{ winner_path }} %}">{{ pairing.winner }}</a></td>{% endif %}
-              </tr>
-            </tbody>
+            {% assign player_data_a = site.players | where: "filename", pairing.player_a | first %}
+            {% assign player_data_b = site.players | where: "filename", pairing.player_b | first %}
+            {% if player_data_a.team %}
+              {% assign player_a_text = player_data_a.displayname | append: " (" | append: player_data_a.team | append: ")" %}
+            {% endif%}
+            {% if player_data_b.team %}
+              {% assign player_b_text = player_data_b.displayname | append: " (" | append: player_data_b.team | append: ")" %}
+            {% endif%}
+            {% if pairing.winner %}
+              {% assign winner_data = site.players | where: "filename", pairing.winner | first %}
+            {% endif %}
+
+            <tr>
+              <td><a href ="{% link {{ player_a_path }} %}">{{ player_a_text }}</a></td>
+              <td><a href ="{% link {{ player_b_path }} %}">{{ player_b_text }}</a></td>
+              {% if pairing.score != null and pairing.score != "" %}<td style="width: 60px">{{ pairing.score }}</td>{% else %}<td></td>{% endif %}
+              {% if pairing.winner != null and pairing.winner != "" %}<td><a href ="{% link {{ winner_path }} %}">{% if winner_data.team %}{{ winner_data.team }}{% else %}{{ winner_data.displayname}}{% endif %}</a></td>{% endif %}
+            </tr>
           {% endfor %}
+          </tbody>
           </table>
         {% endif %}
       </section>

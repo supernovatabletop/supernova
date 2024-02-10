@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Georg "Chorche"
-army: Cirque de Waaghleil
+name: Georg
+displayname: Chorche
+army: 
+team: Cirque de Waaghleil
 discord: chorche
 filename: chorche
 phases: [1,2]

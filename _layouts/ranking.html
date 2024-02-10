@@ -142,7 +142,13 @@ layout: default
               {% assign placement_score = ranking[4] %}
             {% endif %}
             {% assign player_path = "_players/" | append: ranking[0] | append: ".md" %}
-            <tr><td>{{ placement }}</td><td><a href ="{% link {{ player_path }} %}">{{ ranking[0] }}</a></td><td>{{ ranking[1] }}</td><td>{{ ranking[2] }}</td><td>{{ ranking[3] }}</td><td>{{ ranking[4] }}</td></tr>
+            {% assign player_data = site.players | where: "filename", ranking[0] | first %}
+            {%if player_data.team %}
+              {%assign player_text = player_data.displayname | append: " (" | append: player_data.team | append: ")" %}
+            {% else %}
+              {% assign player_text = player_data.displayname %}
+            {% endif %}
+            <tr><td>{{ placement }}</td><td><a href ="{% link {{ player_path }} %}">{{ player_text }}</a></td><td>{{ ranking[1] }}</td><td>{{ ranking[2] }}</td><td>{{ ranking[3] }}</td><td>{{ ranking[4] }}</td></tr>
           {% endfor %}
 
             </tbody>
