@@ -11,6 +11,12 @@ var store = [{
         "url": "/supernova/paarungen/phase2-paarung",
         "teaser": null
       },{
+        "title": "Phase3_paarung",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/paarungen/phase3-paarung",
+        "teaser": null
+      },{
         "title": "Aquila",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -303,5 +309,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/ranglisten/phase2-rangliste",
+        "teaser": null
+      },{
+        "title": "Phase3_rangliste",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/ranglisten/phase3-rangliste",
         "teaser": null
       }]

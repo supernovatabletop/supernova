@@ -1,0 +1,63 @@
+
+++ Army Roster (Chaos - Death Guard) [1,000pts] ++
+
++ Configuration +
+
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Plague Company
+
+Show/Hide Options: Chaos Knights are visible, Legends are visible, Nurgle Daemons are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+
+Biologus Putrifier [50pts]: Hyper blight grenades, Injector pistol, Plague knives
+
+Lord of Virulence [80pts]: Heavy plague fist, Twin plague spewer, Warlord
+
+Tallyman [45pts]: Close combat weapon, Infected plasma pistol
+
++ Battleline +
+
+
+Plague Marines [180pts]
+
+. Plague Champion: Heavy plague weapon, Plasma pistol
+. 2x Plague Marine w/ blight launcher: 2x Blight launcher, 2x Plague knives
+. Plague Marine w/ boltgun: Plague boltgun, Plague knives
+. 2x Plague Marine w/ heavy plague weapon: 2x Heavy plague weapon, 2x Plague knives
+. 2x Plague Marine w/ plague spewer: 2x Plague knives, 2x Plague spewer
+. Plague Marine w/ special weapon: Meltagun, Plague knives
+. Plague Marine w/ special weapon: Meltagun, Plague knives
+
++ Infantry +
+
+
+Deathshroud Terminators [120pts]
+
+. 2x Deathshroud Terminator: 2x Manreaper, 2x Plaguespurt gauntlet
+. Deathshroud Terminator Champion: Manreaper, 2x Plaguespurt gauntlet
+
++ Vehicle +
+
+
+Foetid Bloat-drone [90pts]: Heavy blight launcher, Plague probe
+
+Plagueburst Crawler [180pts]: Armoured tracks, Heavy slugger, Plagueburst mortar
+
+. 2 entropy cannons: 2x Entropy cannon
+
+Plagueburst Crawler [180pts]: Armoured tracks, Heavy slugger, Plagueburst mortar
+
+. 2 entropy cannons: 2x Entropy cannon
+
++ Dedicated Transport +
+
+
+Death Guard Rhino [75pts]: Armoured tracks, Havoc launcher, Plague combi-bolter, Plague combi-bolter
+
+++ Total: [1,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

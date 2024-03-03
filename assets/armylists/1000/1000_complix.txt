@@ -1,0 +1,59 @@
++++ Sisters Escalation League 1k  (Warhammer 40,000 10th Edition) [1,000pts] +++
+
+++ Army Roster (Imperium - Adepta Sororitas) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Hallowed Martyrs Detachment
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero [260pts] +
+
+Saint Celestine [135pts]: Warlord
+
+Triumph of Saint Katherine [125pts]
+
++ Character [45pts] +
+
+Imagifier [45pts]: Saintly Example [10pts]
+
++ Battleline [200pts] +
+
+Battle Sisters Squad [100pts]
+. . 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. . Battle Sister w/ Simulacrum Imperialus
+. . Battle Sister w/ Special or Heavy Weapon: Multi-melta
+. . Battle Sister w/ Special Weapon: Meltagun
+. . Sister Superior: Combi-weapon, Power weapon
+
+Battle Sisters Squad [100pts]
+. . 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. . Battle Sister w/ Simulacrum Imperialus
+. . Battle Sister w/ Special or Heavy Weapon: Multi-melta
+. . Battle Sister w/ Special Weapon: Meltagun
+. . Sister Superior: Combi-weapon, Power weapon
+
++ Infantry [120pts] +
+
+Zephyrim Squad [120pts]
+. . 9x Zephyrim: 9x Bolt Pistol, 9x Power Weapon
+. . Zephyrim Superior: Plasma pistol, Sacred Banner
+
++ Vehicle [300pts] +
+
+Exorcist [180pts]: Exorcist Missile Launcher, Hunter-Killer Missile
+
+Penitent Engines [60pts]
+. . Penitent Engine: Twin Penitent Buzz-Blades
+
+Penitent Engines [60pts]
+. . Penitent Engine: Twin Penitent Buzz-Blades
+
++ Dedicated Transport [75pts] +
+
+Sororitas Rhino [75pts]: Hunter-Killer Missile
+
+Created with BattleScribe (https://battlescribe.net)

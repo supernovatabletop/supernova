@@ -1,0 +1,45 @@
++++ SEL-Paenu-1000 (Warhammer 40,000 10th Edition) [985pts] +++
+
+++ Army Roster (Xenos - Necrons) [985pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Canoptek Court
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero [255pts] +
+
+C'tan Shard of the Nightbringer [255pts]
+
++ Character [75pts] +
+
+Technomancer [75pts]: Autodivinator [15pts], Warlord
+
++ Battleline [210pts] +
+
+Immortals [70pts]
+. . 5x Immortal: 5x Close combat weapon, 5x Gauss blaster
+
+Immortals [70pts]
+. . 5x Immortal: 5x Close combat weapon, 5x Gauss blaster
+
+Immortals [70pts]
+. . 5x Immortal: 5x Close combat weapon, 5x Gauss blaster
+
++ Swarm [40pts] +
+
+Canoptek Scarab Swarms [40pts]
+. . 3x Canoptek Scarab Swarm: 3x Feeder mandibles
+
++ Vehicle [405pts] +
+
+Canoptek Doomstalker [135pts]
+
+Canoptek Doomstalker [135pts]
+
+Canoptek Doomstalker [135pts]
+
+Created with BattleScribe (https://battlescribe.net)

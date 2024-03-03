@@ -1,0 +1,31 @@
+++ Army Roster (Imperium - Imperial Knights) [1,000pts] ++
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Noble Lance
+
++ Epic Hero +
+
+Canis Rex [435pts]: Warlord
+
++ Battleline +
+
+Armiger Helverin [140pts]: Questoris heavy stubber
+
+Armiger Warglaive [150pts]: Questoris heavy stubber
+
+Armiger Warglaive [150pts]: Questoris heavy stubber
+
++ Allied Units +
+
+Inquisitor [55pts]: Blessed wardings, Combi-weapon, Inquisitorial melee weapon
+
+Inquisitorial Henchmen [70pts]: Daemonhost
+
+. 2x Inquisitorial Acolyte: 2x Acolyte firearm, 2x Acolyte melee weapon
+. Inquisitorial Acolyte w/ eviscerator
+. Inquisitorial Acolyte w/ plasma pistol
+. Mystic
+. Servitor w/ heavy bolter
+
+++ Total: [1,000pts] ++

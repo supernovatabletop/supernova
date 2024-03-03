@@ -1,0 +1,41 @@
+
+++ Army Roster (Chaos - Chaos Space Marines) [985pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Slaves to Darkness
+
+Show/Hide Options: Chaos Knights are visible, Khorne Daemons are visible, Legends are visible, Nurgle Daemons are visible, Slaanesh Daemons are visible, Titans are visible, Tzeentch Daemons are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Chaos Lord in Terminator Armour [135pts]: Combi-bolter, Eye of Tzeentch, Mark of Tzeentch, Power fist, Warlord
+
++ Battleline +
+
+Cultist Mob [55pts]: Mark of Tzeentch
+. Cultist Champion: Cultist firearm and close combat weapon
+. 9x Cultist w/ cultist firearm and close combat weapon: 9x Close combat weapon, 9x Cultist firearm
+
++ Infantry +
+
+Chaos Terminator Squad [195pts]: Mark of Tzeentch
+. Accursed weapon and combi-bolter
+. Chainfist and combi-bolter
+. Heavy weapon: Power fist, Reaper autocannon
+. 2x Power fist and combi-bolter: 2x Combi-bolter, 2x Power fist
+
+Obliterators [360pts]: Mark of Nurgle
+. 4x Obliterator: 4x Crushing fists, 4x Fleshmetal guns
+
++ Vehicle +
+
+Venomcrawler [120pts]: Mark of Tzeentch
+
+Venomcrawler [120pts]: Mark of Tzeentch
+
+++ Total: [985pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

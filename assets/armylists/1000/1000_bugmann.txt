@@ -1,0 +1,50 @@
++++ New Roster (Warhammer 40,000 10th Edition) [995pts] +++
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [995pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Gladius Task Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character [215pts] +
+
+Apothecary [50pts]
+
+Lieutenant [95pts]: Fire Discipline [30pts], Warlord
+. . Pistol, Master-crafted Bolt Rifle & Melee Weapon: Heavy Bolt Pistol, Master-crafted Bolt Rifle, Master-crafted Power Weapon
+
+Techmarine [70pts]: The Honour Vehement [15pts]
+
++ Battleline [80pts] +
+
+Intercessor Squad [80pts]
+. . Intercessor Sergeant: Bolt Rifle, Close Combat Weapon
+. . 4x Intercessors: 4x Bolt Pistol, 4x Bolt Rifle, 4x Close Combat Weapon
+
++ Infantry [280pts] +
+
+Eliminator Squad [75pts]
+. . 2x Eliminator: 2x Bolt Pistol, 2x Bolt Sniper Rifle, 2x Close Combat Weapon
+. . Eliminator Sergeant: Instigator Bolt Carbine
+
+Hellblaster Squad [125pts]
+. . 4x Hellblaster: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Plasma Incinerator
+. . Hellblaster Sergeant: Plasma Pistol
+
+Infernus Squad [80pts]
+. . 4x Infernus Marines: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Pyreblaster
+. . Infernus Sergeant
+
++ Vehicle [420pts] +
+
+Ballistus Dreadnought [140pts]
+
+Drop Pod [70pts]: Storm Bolter
+
+Redemptor Dreadnought [210pts]: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Twin Fragstorm Grenade Launcher
+
+Created with BattleScribe (https://battlescribe.net)

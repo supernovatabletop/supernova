@@ -1,0 +1,56 @@
+
+++ Army Roster (Imperium - Adeptus Mechanicus) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Rad Zone Corps
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Skitarii Marshal [35pts]
+
+Tech-Priest Dominus [75pts]: Phosphor serpenta, Volkite blaster, Warlord
+
+Tech-Priest Manipulus [70pts]: Autoclavic Denounciation, Transonic cannon
+
++ Battleline +
+
+Skitarii Rangers [90pts]
+. Skitarii Ranger Alpha: Alpha combat weapon, Archeotech pistol
+. Skitarii Ranger w/ arc rifle: Close combat weapon
+. Skitarii Ranger w/ data-tether: Close combat weapon
+. 5x Skitarii Ranger w/ galvanic rifle: 5x Close combat weapon, 5x Galvanic rifle
+. Skitarii Ranger w/ plasma caliver: Close combat weapon
+. Skitarii Ranger w/ transuranic arquebus: Close combat weapon
+
+Skitarii Vanguard [80pts]
+. Skitarii Vanguard Alpha: Alpha combat weapon, Archeotech pistol
+. Skitarii Vanguard w/ arc rifle: Close combat weapon
+. Skitarii Vanguard w/ data-tether: Close combat weapon
+. Skitarii Vanguard w/ plasma caliver: Close combat weapon
+. 5x Skitarii Vanguard w/ radium carbine: 5x Close combat weapon, 5x Radium carbine
+. Skitarii Vanguard w/ transuranic arquebus: Close combat weapon
+
++ Infantry +
+
+Kataphron Breachers [290pts]
+. 6x Kataphron Breacher (Heavy arc rifle & hydraulic claw): 6x Heavy arc rifle, 6x Hydraulic claw
+
++ Vehicle +
+
+Ironstrider Ballistarii [100pts]
+. 2x Ironstrider Ballistarius (Twin cognis lascannon): 2x Ironstrider feet, 2x Twin cognis lascannon
+
+Onager Dunecrawler [140pts]: Cognis heavy stubber
+. Neutron laser & Cognis heavy stubber
+
+Sydonian Dragoons (Taser Lance) [120pts]
+. 2x Sydonian Dragoon (Taser lance & phosphor serpenta): 2x Phosphor serpenta, 2x Taser lance
+
+++ Total: [1,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

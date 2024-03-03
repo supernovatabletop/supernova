@@ -1,0 +1,69 @@
+
+++ Army Roster (Chaos - Chaos Space Marines) [995pts] ++
+
++ Configuration +
+
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Slaves to Darkness
+
+Show/Hide Options: Chaos Knights are visible, Khorne Daemons are visible, Legends are visible, Nurgle Daemons are visible, Slaanesh Daemons are visible, Titans are visible, Tzeentch Daemons are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+
+Chaos Lord [95pts]: Daemon hammer, Mark of Chaos Undivided, Plasma pistol, Warlord
+
+Dark Commune [65pts]: Mark of Nurgle
+
+. 2x Blessed Blades: 2x Commune blade
+. Cult Demagogue: Autopistol, Commune stave
+. Iconarch: Autopistol, Chaos icon, Close combat weapon
+. Mindwitch: Close combat weapon, Warp Curse
+
++ Battleline +
+
+
+Cultist Mob [55pts]: Mark of Nurgle
+
+. Cultist Champion: Autopistol and brutal assault weapon
+. 9x Cultist w/ autopistol and brutal assault weapon: 9x Autopistol, 9x Brutal assault weapon
+
++ Infantry +
+
+
+Chosen [130pts]: Chaos icon, Mark of Chaos Undivided
+
+. 3x Chosen w/ boltgun: 3x Accursed weapon, 3x Bolt pistol, 3x Boltgun
+. Chosen w/ boltgun and plasma pistol: Accursed weapon, Boltgun, Plasma pistol
+. Chosen w/ power fist and plasma pistol: Boltgun, Plasma pistol, Power fist
+
+Havocs [135pts]: Mark of Chaos Undivided
+
+. Havoc Champion: Astartes chainsword, Plasma gun
+. Havoc w/ autocannon: Havoc autocannon
+. 2x Havoc w/ lascannon: 2x Havoc lascannon
+. Havoc w/ reaper chaincannon: Havoc reaper chaincannon
+
+Obliterators [180pts]: Mark of Chaos Undivided
+
+. 2x Obliterator: 2x Crushing fists, 2x Fleshmetal guns
+
++ Vehicle +
+
+
+Helbrute [140pts]: Close combat weapon, Mark of Chaos Undivided, Twin autocannon
+
+. Helbrute fist with combi-bolter: Combi-bolter, Helbrute fist
+
+Venomcrawler [120pts]: 2x Excruciator cannon, Mark of Chaos Undivided, Soulflayer tendrils and claws
+
++ Dedicated Transport +
+
+
+Chaos Rhino [75pts]: Armoured tracks, Combi-bolter, Combi-weapon, Havoc launcher, Mark of Chaos Undivided
+
+++ Total: [995pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

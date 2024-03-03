@@ -1,0 +1,45 @@
++++ Chorche 1000 Escalation Snaggas (Warhammer 40,000 10th Edition) [1,000pts] +++
+
+++ Army Roster (Xenos - Orks) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Waaagh! Tribe
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero [195pts] +
+
+Mozrog Skragbad [195pts]
+
++ Character [280pts] +
+
+Beastboss [125pts]: Follow Me Ladz [25pts], Warlord
+
+Nob on Smasha Squig [80pts]: Headwoppa’s Killchoppa [20pts]
+
+Nob on Smasha Squig [75pts]: Supa-Cybork Body [15pts]
+
++ Battleline [210pts] +
+
+Beast Snagga Boyz [210pts]
+. . 19x Beast Snagga Boy: 19x Choppa, 19x Slugga
+
++ Infantry [40pts] +
+
+Gretchin [40pts]
+. . 10x Gretchin: 10x Close combat weapon, 10x Grot blasta
+. . Runtherd
+
++ Mounted [125pts] +
+
+Squighog Boyz [125pts]
+. . 3x Squighog Boy: 3x Saddlegit weapons, 3x Squighog jaws and saddlegits, 3x Stikka
+
++ Vehicle [150pts] +
+
+Hunta Rig [150pts]
+
+Created with BattleScribe (https://battlescribe.net)

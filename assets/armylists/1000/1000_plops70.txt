@@ -1,0 +1,63 @@
++++ SEL 1k (Warhammer 40,000 10th Edition) [1,000pts] +++
+
+++ Army Roster (Xenos - T'au Empire) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Kauyon
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character [80pts] +
+
+Cadre Fireblade [40pts]: Warlord
+. . 2x Gun Drone: 2x Twin pulse carbine
+
+Cadre Fireblade [40pts]
+. . 2x Gun Drone: 2x Twin pulse carbine
+
++ Battleline [170pts] +
+
+Breacher Team [90pts]
+. . Breacher Fire Warrior Shas'ui
+. . . . Guardian Drone
+. . . . Gun Drone
+. . 9x Breacher Fire Warriors: 9x Close combat weapon, 9x Pulse blaster, 9x Pulse pistol
+
+Strike Team [80pts]
+. . Fire Warrior Shas'ui: Guardian Drone, Marker Drone
+. . 9x Fire Warrior w/ pulse rifle: 9x Close combat weapon, 9x Pulse pistol, 9x Pulse rifle
+
++ Infantry [90pts] +
+
+Pathfinder Team [90pts]
+. . 2x Gun Drone: 2x Twin pulse carbine
+. . Pathfinder Shas'ui: Semi-automatic grenade launcher
+. . . . Recon drone
+. . 6x Pathfinders w/ pulse carbine: 6x Close combat weapon, 6x Pulse carbine, 6x Pulse pistol
+. . 3x Pathfinders w/ rail rifle: 3x Close combat weapon, 3x Pulse pistol, 3x Rail rifle
+
++ Vehicle [585pts] +
+
+Broadside Battlesuits [90pts]
+. . Broadside Shas’vre [90pts]: Heavy rail rifle, Seeker missile, 2x Shield Drone, Twin plasma rifle
+
+Broadside Battlesuits [90pts]
+. . Broadside Shas’vre [90pts]: Heavy rail rifle, Seeker missile, 2x Shield Drone, Twin plasma rifle
+
+Ghostkeel Battlesuit [160pts]: Battlesuit support system, Cyclic ion raker, Twin T'au flamer
+
+Riptide Battlesuit [165pts]: Heavy burst cannon, Twin smart missile system
+. . 2x Missile Drone: 2x Missile pod
+
+Tetras [80pts]
+. . 2x Tetra: 2x Close combat weapons, 4x Pulse rifle
+
++ Dedicated Transport [75pts] +
+
+Devilfish [75pts]: 2x Seeker missile
+. . 2 Twin pulse carbines
+
+Created with BattleScribe (https://battlescribe.net)

@@ -1,0 +1,28 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [965pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Ironstorm Spearhead
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Techmarine [95pts]: Target Augury Web [Aura], Warlord
+
++ Vehicle +
+
+Redemptor Dreadnought [210pts]: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Twin Fragstorm Grenade Launcher
+
+Repulsor Executioner [220pts]: Heavy Laser Destroyer, Icarus Rocket Pod, Ironhail Heavy Stubber
+
+Repulsor Executioner [220pts]: Heavy Laser Destroyer, Icarus Rocket Pod, Ironhail Heavy Stubber
+
+Repulsor Executioner [220pts]: Heavy Laser Destroyer, Icarus Rocket Pod, Ironhail Heavy Stubber
+
+++ Total: [965pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

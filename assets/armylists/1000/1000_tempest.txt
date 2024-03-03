@@ -1,0 +1,48 @@
++++ New Roster (Warhammer 40,000 10th Edition) [1,000pts] +++
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Unforgiven Task Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero [105pts] +
+
+Azrael [105pts]: Warlord
+
++ Character [145pts] +
+
+Apothecary [65pts]: Stubborn Tenacity [15pts]
+
+Deathwing Strikemaster [80pts]: Mace of absolution
+
++ Battleline [80pts] +
+
+Intercessor Squad [80pts]: Astartes Grenade Launcher
+. . Intercessor Sergeant: Bolt Rifle, Close Combat Weapon
+. . 4x Intercessors: 4x Bolt Pistol, 4x Bolt Rifle, 4x Close Combat Weapon
+
++ Infantry [380pts] +
+
+Bladeguard Veteran Squad [180pts]
+. . Bladeguard Veteran Sergeant: Heavy Bolt Pistol
+. . 5x Bladeguard Veterans: 5x Heavy Bolt Pistol, 5x Master-crafted Power Weapon
+
+Deathwing Command Squad [200pts]: Watcher in the Dark
+. . Command Terminator
+. . Command Terminator w/ Heavy Weapon: Cyclone Missile Launcher & Storm Bolter, Power Fist
+. . Deathwing Ancient
+. . Deathwing Apothecary
+. . Deathwing Champion
+
++ Vehicle [290pts] +
+
+Drop Pod [70pts]: Storm Bolter
+
+Repulsor Executioner [220pts]: Heavy Laser Destroyer, Icarus Rocket Pod, Ironhail Heavy Stubber
+
+Created with BattleScribe (https://battlescribe.net)

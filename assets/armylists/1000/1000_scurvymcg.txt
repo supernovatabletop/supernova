@@ -1,0 +1,45 @@
++++ New Roster (Warhammer 40,000 10th Edition) [1,000pts] +++
+
+++ Army Roster (Chaos - Chaos Daemons) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Daemonic Incursion
+
+Khorne Daemons are visible
+
+Nurgle Daemons are visible
+
+Show/Hide Options: Chaos Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
+Slaanesh Daemons are visible
+
+Tzeentch Daemons are visible
+
++ Epic Hero [90pts] +
+
+The Changeling [90pts]
+
++ Character [490pts] +
+
+Great Unclean One [230pts]: Bilesword, Plague flail, Warlord
+
+Lord of Change [260pts]: Rod of sorcery
+
++ Battleline [110pts] +
+
+Plaguebearers [110pts]: Daemonic Icon, Instrument of Chaos
+. . 10x Plaguebearer: 10x Plaguesword
+
++ Beast [140pts] +
+
+Beasts of Nurgle [140pts]
+. . 2x Beast of Nurgle [140pts]: 2x Putrid appendages
+
++ Allied Units [170pts] +
+
+War Dog Brigand [170pts]: Havoc multi-launcher
+
+Created with BattleScribe (https://battlescribe.net)

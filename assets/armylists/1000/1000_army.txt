@@ -1,0 +1,50 @@
+
+++ Army Roster (Imperium - Adeptus Mechanicus) [990pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Rad Zone Corps
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Tech-Priest Dominus [95pts]: Macrostubber, Peerless Eradicator, Volkite blaster, Warlord
+
+Tech-Priest Enginseer [45pts]
+
+Tech-Priest Manipulus [70pts]: Autoclavic Denounciation, Transonic cannon
+
+Tech-Priest Manipulus [75pts]: Magnarail lance, Malphonic Susurrus
+
++ Battleline +
+
+Skitarii Vanguard [80pts]
+. Skitarii Vanguard Alpha: Alpha combat weapon, Close combat weapon, Radium carbine
+. Skitarii Vanguard w/ omnispex: Close combat weapon
+. 7x Skitarii Vanguard w/ radium carbine: 7x Close combat weapon, 7x Radium carbine
+. Skitarii Vanguard w/ transuranic arquebus: Close combat weapon
+
+Skitarii Vanguard [80pts]
+. Skitarii Vanguard Alpha: Alpha combat weapon, Close combat weapon, Radium carbine
+. Skitarii Vanguard w/ omnispex: Close combat weapon
+. 7x Skitarii Vanguard w/ radium carbine: 7x Close combat weapon, 7x Radium carbine
+. Skitarii Vanguard w/ transuranic arquebus: Close combat weapon
+
++ Infantry +
+
+Kataphron Breachers [290pts]
+. 6x Kataphron Breacher (Heavy arc rifle & hydraulic claw): 6x Heavy arc rifle, 6x Hydraulic claw
+
+Kataphron Destroyers [115pts]
+. 3x Kataphron Destroyer (Heavy grav-cannon & Cognis flamer): 3x Close combat weapon, 3x Cognis flamer, 3x Heavy grav cannon
+
++ Vehicle +
+
+Onager Dunecrawler [140pts]: Broad spectrum data-tether, Cognis heavy stubber, Eradication beamer
+
+++ Total: [990pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

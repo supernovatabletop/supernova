@@ -1,0 +1,51 @@
+
+++ Army Roster (Xenos - Tyranids) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Vanguard Onslaught
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Deathleaper [80pts]: Warlord
+
++ Character +
+
+Broodlord [110pts]: Neuronode
+
++ Battleline +
+
+Gargoyles [80pts]
+. 10x Gargoyles: 10x Blinding Venom, 10x Fleshborer
+
+Gargoyles [80pts]
+. 10x Gargoyles: 10x Blinding Venom, 10x Fleshborer
+
++ Infantry +
+
+Biovores [75pts]: Biovore
+
+Genestealers [150pts]
+. 10x Genestealer: 10x Genestealers claws and talons
+
+Genestealers [75pts]
+. 5x Genestealer: 5x Genestealers claws and talons
+
+Lictor [60pts]
+
+Neurolictor [80pts]
+
+Von Ryan's Leapers [75pts]
+. 3x Von Ryan's Leaper: 3x Leaper's Talons
+
++ Monster +
+
+Exocrine [135pts]
+
+++ Total: [1,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
