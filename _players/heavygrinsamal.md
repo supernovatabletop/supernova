@@ -3,7 +3,7 @@ layout: player
 name: Benny
 displayname: HeavyGrinsamal
 army: 
-team: The Green Wave
+team: Dropped
 discord: heavygrinsamal
 filename: heavygrinsamal
 phases: [1,2]
