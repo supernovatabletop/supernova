@@ -1,0 +1,53 @@
+
+++ Army Roster (Xenos - Leagues of Votann) [990pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Oathband
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Kâhl [90pts]: Grim Demeanour, Mass gauntlet, Rampart crest, Volkanite disintegrator, Warlord
+
++ Battleline +
+
+Hearthkyn Warriors [110pts]: Comms array, Medipack, Pan spectral scanner
+. 7x Hearthkyn Warrior: 7x Autoch-pattern bolt pistol, 7x Autoch-pattern bolter, 7x Close combat weapon
+. Hearthkyn Warrior w/ heavy weapon: Kin melee weapon
+. Hearthkyn Warrior w/ heavy weapon: Kin melee weapon
+. Theyn: Etacarn plasma pistol, Kin melee weapon
+
++ Infantry +
+
+Brôkhyr Thunderkyn [85pts]
+. 3x Brôkhyr Thunderkyn: 3x Close combat weapon, 3x Graviton blast cannon
+
+Einhyr Hearthguard [320pts]
+. 9x Einhyr Hearthguard: 9x Concussion gauntlet, 9x Exo-armour grenade launcher, 9x Volkanite disintegrator
+. Hesyr: Concussion gauntlet, Teleport crest, Volkanite disintegrator
+
++ Mounted +
+
+Hernkyn Pioneers [90pts]
+. Hernkyn Pioneer w/ HYLas rotary cannon
+. Hernkyn Pioneer w/ pan-spectral scanner
+. Hernkyn Pioneer w/ searchlight
+
+Hernkyn Pioneers [180pts]
+. Hernkyn Pioneer
+. Hernkyn Pioneer w/ comms array
+. 2x Hernkyn Pioneer w/ HYLas rotary cannon: 2x Bolt revolver, 2x Bolt shotgun, 2x HYLas rotary cannon, 2x Magna-coil autocannon, 2x Plasma knife
+. Hernkyn Pioneer w/ pan-spectral scanner
+. Hernkyn Pioneer w/ searchlight
+
++ Dedicated Transport +
+
+Sagitaur [115pts]: HYLas beam cannon
+
+++ Total: [990pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

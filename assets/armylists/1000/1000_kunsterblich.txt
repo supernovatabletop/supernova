@@ -1,0 +1,43 @@
+
+++ Army Roster (Imperium - Adeptus Custodes) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachments: Shield Host
+
+Show/Hide Options
+
++ Character +
+
+Blade Champion [145pts]: Unstoppable Destroyer, Warlord
+
++ Battleline +
+
+Custodian Guard [225pts]
+. 5x Custodian Guard (Guardian Spear): 5x Guardian Spear
+
+Prosecutors [50pts]
+. 4x Prosecutor: 4x Boltgun, 4x Close combat weapon
+
+Prosecutors [50pts]
+. 4x Prosecutor: 4x Boltgun, 4x Close combat weapon
+
++ Infantry +
+
+Allarus Custodians [195pts]
+. 3x Allarus Custodian (Guardian Spear): 3x Balistus grenade launcher, 3x Guardian Spear
+
++ Mounted +
+
+Vertus Praetors [150pts]
+. 2x Vertus Praetor (Hurricane Bolter): 2x Interceptor lance, 2x Vertus hurricane bolter
+
++ Vehicle +
+
+Venerable Contemptor Dreadnought [185pts]: Kheres-pattern assault cannon
+
+++ Total: [1,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

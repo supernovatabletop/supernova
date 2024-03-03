@@ -1,0 +1,70 @@
+
+++ Army Roster (Imperium - Adepta Sororitas) [995pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Hallowed Martyrs Detachment
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Canoness [50pts]: Plasma pistol, Power weapon, Rod of Office
+
+Palatine [50pts]: Plasma pistol, Warlord
+
++ Battleline +
+
+Battle Sisters Squad [100pts]
+. 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. Battle Sister w/ Simulacrum Imperialus
+. Battle Sister w/ Special or Heavy Weapon: Heavy bolter
+. Battle Sister w/ Special Weapon: Artificer-crafted storm bolter
+. Sister Superior: Combi-weapon, Power weapon
+
+Battle Sisters Squad [100pts]
+. 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. Battle Sister w/ Simulacrum Imperialus
+. Battle Sister w/ Special or Heavy Weapon: Ministorum heavy flamer
+. Battle Sister w/ Special Weapon: Artificer-crafted storm bolter
+. Sister Superior: Condemnor boltgun, Power weapon
+
++ Infantry +
+
+Arco-Flagellants [45pts]
+. 3x Arco-Flagellant: 3x Arco-flails
+
+Dominion Squad [110pts]
+. 4x Dominion: 4x Bolt Pistol, 4x Boltgun, 4x Close combat weapon
+. Dominion Superior: Plasma pistol, Power weapon
+. Dominion w/ Simulacrum Imperialus
+. Dominion w/ Special Weapon: Meltagun
+. Dominion w/ Special Weapon: Meltagun
+. Dominion w/ Special Weapon: Meltagun
+. Dominion w/ Special Weapon: Meltagun
+
+Seraphim Squad [70pts]
+. 2x Seraphim: 2x Close combat weapon
+. . 2x 2 Bolt Pistols: 4x Bolt Pistol
+. Seraphim Superior
+. . Plasma Pistol and Power Weapon
+. Seraphim with Special Weapons
+. . 2x Ministorum Hand Flamers
+. Seraphim with Special Weapons
+. . 2x Ministorum Hand Flamers
+
++ Vehicle +
+
+Castigator [140pts]: Castigator battle cannon, Hunter-Killer Missile, Storm bolter
+
+Exorcist [180pts]: Exorcist Missile Launcher, Hunter-Killer Missile
+
++ Allied Units +
+
+Armiger Warglaive [150pts]: Meltagun
+
+++ Total: [995pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

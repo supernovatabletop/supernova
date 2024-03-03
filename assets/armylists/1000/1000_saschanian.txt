@@ -1,0 +1,55 @@
+
+++ Army Roster (Xenos - T'au Empire) [995pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Kauyon
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Longstrike [140pts]: Railgun, 2x Seeker missile
+. 2 Accelerator burst cannons
+
++ Character +
+
+Cadre Fireblade [60pts]: Through Unity, Devastation
+. 2x Gun Drone: 2x Twin pulse carbine
+
+Commander in Coldstar Battlesuit [130pts]: Battlesuit support system, Cyclic ion blaster, 2x Cyclic ion blaster, Precision of the Patient Hunter, 2x Shield Drone, Warlord
+
++ Battleline +
+
+Breacher Team [90pts]
+. Breacher Fire Warrior Shas'ui: Guardian Drone, Shield Drone
+. 9x Breacher Fire Warriors: 9x Close combat weapon, 9x Pulse blaster, 9x Pulse pistol
+
++ Infantry +
+
+Stealth Battlesuits [60pts]
+. 2x Stealth Shas'ui w/ burst cannon: 2x Battlesuit fists, 2x Burst cannon
+. Stealth Shas'vre: Battlesuit support system, Burst cannon, Marker Drone, Shield Drone
+
++ Vehicle +
+
+Crisis Battlesuits [200pts]
+. Crisis Shas’ui: Battlesuit support system, Cyclic ion blaster, 2x Plasma rifle, 2x Shield Drone
+. Crisis Shas’ui: Battlesuit support system, Cyclic ion blaster, 2x Plasma rifle, 2x Shield Drone
+. Crisis Shas’vre: Battlesuit support system, Cyclic ion blaster, 2x Plasma rifle, 2x Shield Drone
+
+Ghostkeel Battlesuit [160pts]: Battlesuit support system, Cyclic ion raker, Twin T'au flamer
+
+Tetras [80pts]
+. 2x Tetra: 2x Close combat weapons, 4x Pulse rifle
+
++ Dedicated Transport +
+
+Devilfish [75pts]: 2x Seeker missile
+. 2 Twin pulse carbines
+
+++ Total: [995pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

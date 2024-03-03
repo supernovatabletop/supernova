@@ -4,5 +4,5 @@ name: Pawel "Paeu"
 army: Szczebrzeszyn
 discord: Paeu#0019
 filename: paeu
-phases: [1,2]
+phases: [1,2,3]
 --- 

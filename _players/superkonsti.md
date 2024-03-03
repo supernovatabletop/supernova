@@ -4,5 +4,5 @@ name: Konstantin "Superkonsti"
 army: Männliche Metall Machos
 discord: superkonsti
 filename: superkonsti
-phases: [1,2]
+phases: [1,2,3]
 ---

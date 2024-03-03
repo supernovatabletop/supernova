@@ -1,0 +1,66 @@
+
+++ Army Roster (Imperium - Adepta Sororitas) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Hallowed Martyrs Detachment
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Junith Eruita [90pts]
+
++ Character +
+
+Palatine [50pts]: Plasma pistol, Warlord
+
++ Battleline +
+
+Battle Sisters Squad [100pts]
+. 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. Battle Sister w/ Simulacrum Imperialus
+. Battle Sister w/ Special or Heavy Weapon: Artificer-crafted storm bolter
+. Battle Sister w/ Special Weapon: Ministorum flamer
+. Sister Superior: Boltgun, Power weapon
+
++ Infantry +
+
+Arco-Flagellants [45pts]
+. 3x Arco-Flagellant: 3x Arco-flails
+
+Celestian Sacresants [65pts]
+. 4x Celestian Sacresant (Hallowed Mace): 4x Bolt Pistol, 4x Hallowed Mace
+. Sacresant Superior: Inferno pistol, Spear of the Faithful
+
+Retributor Squad [105pts]
+. Retributor: Heavy bolter
+. Retributor: Heavy bolter
+. Retributor: Multi-melta
+. Retributor: Multi-melta
+. Retributor Superior: Chainsword, Inferno pistol
+
++ Vehicle +
+
+Castigator [140pts]: Castigator autocannons, Hunter-Killer Missile, Storm bolter
+
+Paragon Warsuits [170pts]
+. Paragon Superior: Multi-melta, Paragon Grenade Launchers, Paragon War Mace
+. Paragon Warsuit: Multi-melta, Paragon Grenade Launchers, Paragon War Mace
+. Paragon Warsuit: Multi-melta, Paragon Grenade Launchers, Paragon War Mace
+
+Penitent Engines [60pts]
+. Penitent Engine: Twin Penitent Buzz-Blades
+
+Penitent Engines [60pts]
+. Penitent Engine: Twin Penitent Buzz-Blades
+
++ Dedicated Transport +
+
+Immolator [115pts]: Hunter-Killer Missile, Twin Multi-melta
+
+++ Total: [1,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

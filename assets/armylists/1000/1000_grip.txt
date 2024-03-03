@@ -1,0 +1,42 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Blood Angels) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Ironstorm Spearhead
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Techmarine [75pts]: Forge Bolter, Grav-pistol, Master of the Machine War [Aura], Omnissian Power Axe, Servo-arm, Warlord
+
++ Infantry +
+
+Scout Squad [55pts]
+. Scout Sergeant: Bolt Pistol, Boltgun, Close Combat Weapon
+. Scout w/ Heavy Weapon: Bolt Pistol, Close Combat Weapon, Missile Launcher
+. 3x Scouts w/ Boltgun: 3x Bolt Pistol, 3x Boltgun, 3x Close Combat Weapon
+
+Scout Squad [55pts]
+. Scout Sergeant: Bolt Pistol, Boltgun, Close Combat Weapon
+. Scout w/ Heavy Weapon: Bolt Pistol, Close Combat Weapon, Missile Launcher
+. 3x Scouts w/ Boltgun: 3x Bolt Pistol, 3x Boltgun, 3x Close Combat Weapon
+
++ Vehicle +
+
+Ballistus Dreadnought [140pts]: Armoured Feet, Ballistus Lascannon, Ballistus Missile Launcher, Twin Storm Bolter
+
+Brutalis Dreadnought [175pts]: Brutalis Talons, Twin Icarus Ironhail Heavy Stubber, Twin Multi-melta
+
+Gladiator Reaper [150pts]: Armoured Hull, Icarus Rocket Pod, Ironhail Heavy Stubber, 2x Tempest Bolter, Twin Heavy Onslaught Gatling Cannon
+
+Gladiator Valiant [150pts]: Armoured Hull, Icarus Rocket Pod, Ironhail Heavy Stubber, 2x Multi-melta, Twin Las-talon
+
+Redemptor Dreadnought [200pts]: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Redemptor Fist, Twin Storm Bolter
+
+++ Total: [1,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

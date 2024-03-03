@@ -4,5 +4,5 @@ name: Christoph "MasterCraze"
 army: Cirque de Waaghleil
 discord: mastercraze
 filename: mastercraze
-phases: [1,2]
+phases: [1,2,3]
 ---

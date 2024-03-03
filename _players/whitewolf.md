@@ -4,5 +4,5 @@ name: Lukas "Whitewolf"
 army: Warp-Spätzle
 discord: whitewolfat
 filename: whitewolf
-phases: [1,2]
+phases: [1,2,3]
 ---

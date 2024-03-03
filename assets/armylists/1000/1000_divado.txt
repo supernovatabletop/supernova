@@ -1,0 +1,54 @@
++++ Escalation League Phase III (Warhammer 40,000 10th Edition) [1,000pts] +++
+
+++ Army Roster (Imperium - Adeptus Astartes - Blood Angels) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Sons of Sanguinius
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character [220pts] +
+
+Apothecary Biologis [55pts]
+
+Chaplain with Jump Pack [75pts]: Inferno Pistol
+
+Sanguinary Priest with Jump Pack [90pts]: Warlord
+
++ Infantry [435pts] +
+
+Death Company Marines with Jump Packs [130pts]
+. . Death Company Marine: Thunder Hammer
+. . Death Company Marine: Thunder Hammer
+. . Death Company Marine: Thunder Hammer
+. . Death Company Marine: Thunder Hammer
+. . Death Company Marine: Thunder Hammer
+
+Eradicator Squad [95pts]
+. . Eradicator
+. . Eradicator Sergeant
+. . Eradicator with Multi-melta
+
+Vanguard Veteran Squad with Jump Packs [210pts]
+. . Vanguard Veteran Sergeant with Jump Pack: Storm Shield
+. . Vanguard Veterans with Jump Packs: Storm Shield
+. . Vanguard Veterans with Jump Packs: Storm Shield
+. . Vanguard Veterans with Jump Packs: Storm Shield
+. . Vanguard Veterans with Jump Packs: Storm Shield
+. . Vanguard Veterans with Jump Packs: Storm Shield
+. . Vanguard Veterans with Jump Packs: Storm Shield
+. . Vanguard Veterans with Jump Packs: Storm Shield
+. . Vanguard Veterans with Jump Packs: Storm Shield
+. . Vanguard Veterans with Jump Packs: Storm Shield
+
++ Vehicle [345pts] +
+
+Brutalis Dreadnought [175pts]: Twin Multi-melta
+. . Brutalis Fists & Brutalis Bolt Rifles
+
+Librarian Dreadnought [170pts]: Meltagun
+
+Created with BattleScribe (https://battlescribe.net)

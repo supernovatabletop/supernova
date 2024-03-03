@@ -4,5 +4,5 @@ name: David "Feulp"
 army: Deimos
 discord: feulp
 filename: feulp
-phases: [1,2]
+phases: [1,2,3]
 ---

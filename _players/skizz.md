@@ -4,5 +4,5 @@ name: Pascal "Skizz"
 army: Würfelbiber
 discord: skizz
 filename: skizz
-phases: [1,2]
+phases: [1,2,3]
 ---

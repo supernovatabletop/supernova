@@ -12,3 +12,10 @@
   map: phase2_purgethefoe
   time_frame: Monat 2 (Februar 2024)
   paring_data: phase2
+3:
+  name: Phase III
+  points: 1000
+  mission: "Primary: Take and Hold (Leviathan Tournament Companion), Mission Rule: Chilling Rain (Leviathan Tournament Companion), Board Size: 60x44"
+  map: phase3_takeandhold
+  time_frame: Monat 3 (März 2024)
+  paring_data: phase3

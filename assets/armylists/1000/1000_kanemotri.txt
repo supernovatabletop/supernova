@@ -1,0 +1,54 @@
++++ Eska (Warhammer 40,000 10th Edition) [995pts] +++
+
+++ Army Roster (Xenos - Leagues of Votann) [995pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Oathband
+
+Show/Hide Options
+
++ Character [85pts] +
+
+Brôkhyr Iron-master [85pts]: Appraising Glare [20pts], Warlord
+. . Brôkhyr Iron-master: Graviton hammer, Graviton rifle
+. . E-COG: Autoch-pattern bolt pistol, Close combat weapon
+. . E-COG: Plasma torch
+. . E-COG: Manipulator arms
+. . Ironkyn Assistant: Close combat weapon, Las-beam cutter
+
++ Battleline [110pts] +
+
+Hearthkyn Warriors [110pts]: Comms array, Medipack, Pan spectral scanner
+. . 7x Hearthkyn Warrior: 7x Autoch-pattern bolt pistol, 7x Close combat weapon, 7x Ion blaster
+. . Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, HYLas rotary cannon*
+. . Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, Magna-rail rifle*
+. . Theyn: Close combat weapon, Ion blaster, Ion pistol, Weavefield crest
+
++ Infantry [345pts] +
+
+Brôkhyr Thunderkyn [85pts]
+. . 3x Brôkhyr Thunderkyn: 3x Close combat weapon, 3x Graviton blast cannon
+
+Cthonian Beserks [100pts]
+. . 3x Beserk: 3x Concussion maul
+. . Beserk w/ mole grenade launcher: Concussion maul, Mole grenade launcher
+. . Beserk w/ twin concussion gauntlets: Twin concussion gauntlets
+
+Einhyr Hearthguard [160pts]
+. . 4x Einhyr Hearthguard: 4x Concussion gauntlet, 4x EtaCarn plasma gun, 4x Exo-armour grenade launcher
+. . Hesyr: Concussion hammer, EtaCarn plasma gun, Exo-armour grenade launcher, Teleport crest
+
++ Vehicle [225pts] +
+
+Hekaton Land Fortress [225pts]: Armoured wheels, MATR autocannon, Pan spectral scanner, SP heavy conversion beamer, 2x Twin bolt cannon
+
++ Dedicated Transport [230pts] +
+
+Sagitaur [115pts]: Armoured wheels, L7 missile launcher and Sagitaur missile launcher, Twin bolt cannon
+
+Sagitaur [115pts]: Armoured wheels, L7 missile launcher and Sagitaur missile launcher, Twin bolt cannon
+
+Created with BattleScribe (https://battlescribe.net)

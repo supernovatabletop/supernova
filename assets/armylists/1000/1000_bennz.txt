@@ -1,0 +1,48 @@
+
+++ Army Roster (Chaos - Chaos Daemons) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Daemonic Incursion
+
+Khorne Daemons are visible
+
+Nurgle Daemons are visible
+
+Show/Hide Options: Chaos Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
+Slaanesh Daemons are visible
+
+Tzeentch Daemons are visible
+
++ Epic Hero +
+
+The Changeling [90pts]
+
++ Character +
+
+Bloodthirster [320pts]: Great axe of Khorne, Warlord
+
+Great Unclean One [260pts]: Bilesword, Plague flail, The Endless Gift
+
++ Battleline +
+
+Nurglings [40pts]
+. 3x Nurgling Swarm: 3x Diseased claws and teeth
+
+Nurglings [40pts]
+. 3x Nurgling Swarm: 3x Diseased claws and teeth
+
+Pink Horrors [140pts]: Daemonic Icon, Instrument of Chaos
+. 10x Pink Horror: 10x Coruscating Pink flames, 10x Pink claws
+
++ Mounted +
+
+Bloodcrushers [110pts]: Daemonic Icon, Instrument of Chaos
+. 2x Bloodcrusher: 2x Hellblade, 2x Juggernaut's bladed horn
+
+++ Total: [1,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

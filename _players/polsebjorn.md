@@ -4,5 +4,5 @@ name: Georg "Polsebjorn"
 army: Ragnarork
 discord: polsebjorn
 filename: polsebjorn
-phases: [1,2]
+phases: [1,2,3]
 ---

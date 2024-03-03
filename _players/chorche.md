@@ -4,5 +4,5 @@ name: Georg "Chorche"
 army: Cirque de Waaghleil
 discord: chorche
 filename: chorche
-phases: [1,2]
+phases: [1,2,3]
 ---

@@ -4,5 +4,5 @@ name: Tristan "Tris"
 army: Siren Games
 discord: tris
 filename: tris
-phases: [1,2]
+phases: [1,2,3]
 ---

@@ -1,0 +1,30 @@
+
+++ Army Roster (Chaos - Chaos Knights) [935pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment Choice: Traitoris Lance
+
+Show/Hide Options: Khorne Daemons are visible, Legends are visible, Nurgle Daemons are visible, Slaanesh Daemons are visible, Titans are visible, Tzeentch Daemons are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+War Dog Stalker [175pts]: Aura of Terror, Daemonbreath spear, Havoc multi-launcher, Slaughterclaw, Warlord
+
++ Battleline +
+
+War Dog Brigand [170pts]: Havoc multi-launcher
+
+War Dog Brigand [170pts]: Havoc multi-launcher
+
+War Dog Karnivore [140pts]: Havoc multi-launcher
+
+War Dog Karnivore [140pts]: Havoc multi-launcher
+
+War Dog Karnivore [140pts]: Havoc multi-launcher
+
+++ Total: [935pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

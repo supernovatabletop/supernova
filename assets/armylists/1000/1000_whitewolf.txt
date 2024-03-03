@@ -1,0 +1,56 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [995pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Vanguard Spearhead
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Azrael [105pts]: Warlord
+
++ Character +
+
+Lieutenant with Combi-weapon [70pts]
+
++ Infantry +
+
+Aggressor Squad [120pts]: Flamestorm Gauntlets
+. Aggressor Sergeant
+. 2x Aggressors: 2x Twin Power Fist
+
+Deathwing Terminator Squad [190pts]: Watcher in the Dark
+. Deathwing Sergeant
+. 3x Deathwing Terminator: 3x Power Fist, 3x Storm Bolter
+. Deathwing Terminator w/ Heavy Weapon: Cyclone Missile Launcher & Storm Bolter, Power Fist
+
+Hellblaster Squad [125pts]
+. 4x Hellblaster: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Plasma Incinerator
+. Hellblaster Sergeant: Plasma Pistol
+
+Scout Squad [65pts]
+. Scout Sergeant: Astartes Shotgun
+. Scout w/ Heavy Weapon: Missile Launcher
+. 3x Scouts w/ Astartes Shotgun: 3x Astartes Shotgun, 3x Bolt Pistol, 3x Close Combat Weapon
+
+Scout Squad [65pts]
+. Scout Sergeant: Astartes Shotgun
+. Scout w/ Heavy Weapon: Missile Launcher
+. 3x Scouts w/ Astartes Shotgun: 3x Astartes Shotgun, 3x Bolt Pistol, 3x Close Combat Weapon
+
++ Vehicle +
+
+Brutalis Dreadnought [175pts]: Twin Multi-melta
+. Brutalis Fists & Brutalis Bolt Rifles
+
++ Dedicated Transport +
+
+Impulsor [80pts]: 2 Fragstorm Grenade Launchers, Bellicatus Missile Array, Ironhail Heavy Stubber
+
+++ Total: [995pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

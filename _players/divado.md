@@ -4,5 +4,5 @@ name: Philip "Divado"
 army: Bloody Chaos
 discord: divado
 filename: divado
-phases: [1,2]
+phases: [1,2,3]
 ---
