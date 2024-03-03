@@ -1,0 +1,47 @@
+1000 (995 Points)
+
+Tyranids
+Vanguard Onslaught
+Incursion (1000 Points)
+
+CHARACTERS
+
+Broodlord (80 Points)
+    • 1x Broodlord claws and talons
+
+Deathleaper (80 Points)
+    • 1x Lictor claws and talons
+
+Winged Hive Tyrant (225 Points)
+    • Warlord
+    • 1x Monstrous bonesword and lash whip
+      1x Tyrant talons
+    • Enhancements: Chameleonic
+
+Winged Tyranid Prime (95 Points)
+    • 1x Prime talons
+    • Enhancements: Neuronode
+
+OTHER DATASHEETS
+
+Biovores (75 Points)
+    • 1x Chitin-barbed limbs
+      1x Spore Mine launcher
+
+Genestealers (150 Points)
+    • 10x Genestealer
+        • 10x Genestealers claws and talons
+
+Lictor (60 Points)
+    • 1x Lictor claws and talons
+
+Lictor (60 Points)
+    • 1x Lictor claws and talons
+
+Tyranid Warriors with Melee Bio-weapons (170 Points)
+    • 1x Tyranid Prime
+        • 1x Tyranid Warrior claws and talons
+    • 5x Tyranid Warrior
+        • 5x Tyranid Warrior claws and talons
+
+Exported with App Version: v1.10.1 (30), Data Version: v336

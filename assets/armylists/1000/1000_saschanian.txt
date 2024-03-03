@@ -1,5 +1,5 @@
 
-++ Army Roster (Xenos - T'au Empire) [995pts] ++
+++ Army Roster (Xenos - T'au Empire) [990pts] ++
 
 + Configuration +
 
@@ -19,7 +19,7 @@ Longstrike [140pts]: Railgun, 2x Seeker missile
 Cadre Fireblade [60pts]: Through Unity, Devastation
 . 2x Gun Drone: 2x Twin pulse carbine
 
-Commander in Coldstar Battlesuit [130pts]: Battlesuit support system, Cyclic ion blaster, 2x Cyclic ion blaster, Precision of the Patient Hunter, 2x Shield Drone, Warlord
+Commander in Coldstar Battlesuit [125pts]: Battlesuit support system, Cyclic ion blaster, 2x Cyclic ion blaster, Exemplar of the Kauyon, 2x Shield Drone, Warlord
 
 + Battleline +
 
@@ -50,6 +50,6 @@ Tetras [80pts]
 Devilfish [75pts]: 2x Seeker missile
 . 2 Twin pulse carbines
 
-++ Total: [995pts] ++
+++ Total: [990pts] ++
 
 Created with BattleScribe (https://battlescribe.net)

@@ -1,0 +1,46 @@
++++ Adeptus Mechanicus - 1000 Punkte (Warhammer 40,000 10th Edition) [1,000pts] +++
+
+++ Army Roster (Imperium - Adeptus Mechanicus) [1,000pts] ++
+
++ Configuration +
+
+Battle Size: 1. Incursion (1000 Point limit)
+
+Detachment: Cohort Cybernetica
+
++ Epic Hero [180pts] +
+
+Belisarius Cawl [180pts]
+
++ Character [95pts] +
+
+Cybernetica Datasmith [60pts]: Necromechanic [25pts]
+
+Cybernetica Datasmith [35pts]
+
++ Battleline [180pts] +
+
+Skitarii Rangers [90pts]
+. . Skitarii Ranger Alpha: Close combat weapon, Galvanic rifle
+. . 9x Skitarii Ranger w/ galvanic rifle: 9x Close combat weapon, 9x Galvanic rifle
+
+Skitarii Rangers [90pts]
+. . Skitarii Ranger Alpha: Close combat weapon, Galvanic rifle
+. . 9x Skitarii Ranger w/ galvanic rifle: 9x Close combat weapon, 9x Galvanic rifle
+
++ Infantry [145pts] +
+
+Kataphron Breachers [145pts]
+. . 3x Kataphron Breacher (Heavy arc rifle & arc claw): 3x Arc claw, 3x Heavy arc rifle
+
++ Vehicle [400pts] +
+
+Kastelan Robots [200pts]
+. . Kastelan Robot: Incendine combustor, Twin Kastelan fist
+. . Kastelan Robot: Incendine combustor, Twin Kastelan fist
+
+Kastelan Robots [200pts]
+. . Kastelan Robot: Incendine combustor, Twin Kastelan fist
+. . Kastelan Robot: Incendine combustor, Twin Kastelan fist
+
+Created with BattleScribe (https://battlescribe.net)
