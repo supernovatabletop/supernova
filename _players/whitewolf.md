@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Lukas "Whitewolf"
-army: Warp-Spätzle
+name: Lukas
+displayname: Whitewolf
+army: 
+team: Warp-Spätzle
 discord: whitewolfat
 filename: whitewolf
 phases: [1,2,3]

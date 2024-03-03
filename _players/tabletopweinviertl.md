@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Mario "Tabletop Weinviertl"
-army: Würfelbiber
+name: Mario
+displayname: Tabletop Weinviertl
+army: 
+team: Würfelbiber
 discord: mariobiber1
 filename: tabletopweinviertl
 phases: [1,2,3]

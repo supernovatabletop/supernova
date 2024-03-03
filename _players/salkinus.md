@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Niklas "Salkinus"
-army: Twisted Sisters
+name: Niklas
+displayname: Salkinus
+army: 
+team: Twisted Sisters
 discord: Salkinus#2440
 filename: salkinus
 phases: [1,2,3]

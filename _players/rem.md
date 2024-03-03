@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Christian "Rem"
-army: Vengaboys
+name: Christian
+displayname: Rem
+army: 
+team: Vengaboys
 discord: remcorp
 filename: rem
 phases: [1,2]

@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Flo "Green and a half"
-army: WeWeen
+name: Flo
+displayname: Green and a half
+army: 
+team: WeWeen
 discord: greenandahalf
 filename: green
 phases: [1,2]

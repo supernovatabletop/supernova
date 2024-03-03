@@ -1,8 +1,10 @@
 ---
 layout: player
-name: Gabriel "Ma5ter19"
-army: Placeholder
+name: Gabriel
+displayname: Ma5ter19
+army: 
+team: Placeholder
 discord: ma5ter19
-filename: master
+filename: ma5ter19
 phases: [2,3]
 ---

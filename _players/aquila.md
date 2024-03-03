@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Rafael "Aquila"
-army: Sledgehammer
+name: Rafael
+displayname: Aquila
+army: Leagues of Votan
+team: Sledgehammer
 discord: shalaxi
 filename: aquila
 phases: [1,2,3]

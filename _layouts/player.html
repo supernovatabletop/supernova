@@ -11,16 +11,26 @@ layout: default
 <div id="main" role="main">
   {% include player_sidebar.html %}
 
+  {% if page.name and page.name != "" %}
+    {% assign page_title = page.name | append: ' "' | append: page.displayname | append: '"' %}
+  {% else %}
+    {% assign page_title = page.displayname %}
+  {% endif %}
+  {% assign current_phase = site.data.phases | sort | last %}
+  {% unless page.phases contains current_phase[0] %}
+    {% assign page_title = page_title | append: " (inaktiv)" %}
+  {% endunless %}
+
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    {% if page.name %}<meta itemprop="headline" content="{{ page.name | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    <meta itemprop="headline" content="{{ page_title | markdownify | strip_html | strip_newlines | escape_once }}">
     {% if page.army %}<meta itemprop="description" content="{{ page.army | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.name %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.name | markdownify | remove: "<p>" | remove: "</p>" }}</a>
-          </h1>{% endif %}
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page_title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+          </h1>
           {% include page__meta.html %}
         </header>
       {% endunless %}

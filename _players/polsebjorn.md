@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Georg "Polsebjorn"
-army: Ragnarork
+name: Georg
+displayname: Polsebjorn
+army: 
+team: Ragnarork
 discord: polsebjorn
 filename: polsebjorn
 phases: [1,2,3]

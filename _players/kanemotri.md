@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Dominik "Kane Motri"
-army: Szczebrzeszyn
+name: Dominik
+displayname: Kane Motri
+army: 
+team: Szczebrzeszyn
 discord: KaneMotri#0055
 filename: kanemotri
 phases: [1,2,3]

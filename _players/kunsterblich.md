@@ -1,7 +1,9 @@
 ---
 layout: player
-name: Max "Kunsterblich"
-army: Siren Games
+name: Max
+displayname: Kunsterblich
+army: 
+team: Siren Games
 discord: kunsterblich
 filename: kunsterblich
 phases: [1,2,3]
