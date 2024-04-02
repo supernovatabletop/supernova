@@ -1,0 +1,74 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Eska  
+Factions used: Xenos - Leagues of Votann  
+Army Points: 1250  
+Army Enhancements:  
+Detachment Rules: Oathband  
+  
+Number of Units: 9  
+Character Units (Models): 1 (1)   
+Vehicle/Monster Models (Max Points): 3 (8)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Kâhl (90 pts)  
+   • Appraising Glare  
+     Autoch-pattern combi-bolter  
+     Mass gauntlet  
+     Rampart crest  
+     Warlord  
+  
+  
+BATTLELINE  
+  
+Hearthkyn Warriors (110 pts)  
+   • Comms array  
+     7xHearthkyn Warrior  
+     • Ion blaster  
+     Hearthkyn Warrior w/ heavy weapon  
+     • Magna-rail rifle*  
+     Hearthkyn Warrior w/ heavy weapon  
+     • HYLas auto rifle*  
+     Medipack  
+     Pan spectral scanner  
+     Theyn  
+     • Etacarn plasma pistol  
+       Ion blaster  
+  
+OTHER DATASHEETS  
+  
+Brôkhyr Thunderkyn (85 pts)  
+   • 3xBrôkhyr Thunderkyn  
+     • Graviton blast cannon  
+  
+Cthonian Beserks (100 pts)  
+   • 4xBeserk  
+     • Concussion maul  
+     Beserk w/ mole grenade launcher  
+     • Concussion maul  
+  
+Einhyr Hearthguard (320 pts)  
+   • 9xEinhyr Hearthguard  
+     • Concussion gauntlet  
+       EtaCarn plasma gun  
+     Hesyr  
+     • Concussion hammer  
+       EtaCarn plasma gun  
+       Teleport crest  
+  
+Hernkyn Pioneers (90 pts)  
+   • Hernkyn Pioneer w/ HYLas rotary cannon  
+     Hernkyn Pioneer w/ comms array  
+     Hernkyn Pioneer w/ pan-spectral scanner  
+  
+Hekaton Land Fortress (225 pts)  
+   • Heavy magna-rail cannon  
+     Pan spectral scanner  
+     2xTwin ion beamer  
+  
+Sagitaur (115 pts)  
+   • HYLas beam cannon  
+  
+Sagitaur (115 pts)  
+   • HYLas beam cannon  
