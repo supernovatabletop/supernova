@@ -2,7 +2,7 @@
 layout: player
 name: Dominik
 displayname: Kane Motri
-army: 
+army: Leagues of Votann
 team: Szczebrzeszyn
 discord: KaneMotri#0055
 filename: kanemotri
