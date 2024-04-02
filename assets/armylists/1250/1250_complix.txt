@@ -1,0 +1,75 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Sisters Escalation League 1250  
+Factions used: Imperium - Adepta Sororitas  
+Army Points: 1250  
+Army Enhancements:  
+Detachment Rules: Hallowed Martyrs Detachment  
+  
+Number of Units: 13  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 5 (13)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Saint Celestine (135 pts)  
+   • 2xGeminae Superia  
+     Saint Celestine  
+     Warlord  
+  
+Triumph of Saint Katherine (125 pts)  
+  
+Imagifier (45 pts)  
+   • Saintly Example  
+  
+  
+BATTLELINE  
+  
+Battle Sisters Squad (100 pts)  
+   • 6xBattle Sister  
+     Battle Sister w/ Simulacrum Imperialus  
+     Battle Sister w/ Special Weapon  
+     • Meltagun  
+     Battle Sister w/ Special or Heavy Weapon  
+     • Multi-melta  
+     Sister Superior  
+     • Combi-weapon  
+       Power weapon  
+  
+Battle Sisters Squad (100 pts)  
+   • 6xBattle Sister  
+     Battle Sister w/ Simulacrum Imperialus  
+     Battle Sister w/ Special Weapon  
+     • Meltagun  
+     Battle Sister w/ Special or Heavy Weapon  
+     • Multi-melta  
+     Sister Superior  
+     • Combi-weapon  
+       Power weapon  
+  
+OTHER DATASHEETS  
+  
+Arco-Flagellants (150 pts)  
+   • 10xArco-Flagellant  
+  
+Crusaders (25 pts)  
+  
+Zephyrim Squad (120 pts)  
+   • 9xZephyrim  
+     Zephyrim Superior  
+     • Plasma pistol  
+  
+Exorcist (180 pts)  
+   • Exorcist Missile Launcher  
+  
+Penitent Engines (60 pts)  
+   • Penitent Engine  
+     • Twin Penitent Buzz-Blades  
+  
+Penitent Engines (60 pts)  
+   • Penitent Engine  
+     • Twin Penitent Buzz-Blades  
+  
+Sororitas Rhino (75 pts)  
+  
+Sororitas Rhino (75 pts)  

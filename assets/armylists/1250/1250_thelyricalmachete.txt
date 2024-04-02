@@ -1,0 +1,43 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: 1250 Pkt Lyricalmachete  
+Factions used: Chaos - Chaos Knights  
+Army Points: 1225  
+Army Enhancements:  
+Detachment Rules: Traitoris Lance  
+  
+Number of Units: 7  
+Character Units (Models): 2 (2)   
+Vehicle/Monster Models (Max Points): 6 (20)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Knight Rampager (420 pts)  
+   • Panoply of the Cursed Knights  
+  
+War Dog Stalker (175 pts)  
+   • Aura of Terror  
+     Daemonbreath spear  
+     Havoc multi-launcher  
+     Slaughterclaw  
+     Warlord  
+  
+  
+BATTLELINE  
+  
+War Dog Brigand (170 pts)  
+   • Havoc multi-launcher  
+  
+War Dog Karnivore (140 pts)  
+   • Havoc multi-launcher  
+  
+War Dog Karnivore (140 pts)  
+   • Havoc multi-launcher  
+  
+War Dog Karnivore (140 pts)  
+   • Havoc multi-launcher  
+  
+OTHER DATASHEETS  
+  
+Nurglings (40 pts)  
+   • 3xNurgling Swarm  

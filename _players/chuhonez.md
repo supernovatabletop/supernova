@@ -2,9 +2,9 @@
 layout: player
 name: Stepan
 displayname: Chuhonez
-army: 
+army: Adeptus Custodes
 team: The Emperor Protects
 discord: chuhonez
 filename: chuhonez
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

@@ -1,0 +1,78 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: 1250 Points Escalation League  
+Factions used: Xenos - T'au Empire  
+Army Points: 1235  
+Army Enhancements:  
+Detachment Rules: Kauyon  
+  
+Number of Units: 13  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 11 (26)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Cadre Fireblade (40 pts)  
+   • 2xShield Drone  
+  
+Commander in Enforcer Battlesuit (105 pts)  
+   • Exemplar of the Kauyon  
+     Plasma rifle  
+     3xPlasma rifle  
+     2xShield Drone  
+     Warlord  
+  
+Ethereal (50 pts)  
+   • Hover Drone  
+     2xShield Drone  
+  
+  
+BATTLELINE  
+  
+Breacher Team (90 pts)  
+   • Breacher Fire Warrior Shas'ui  
+     • Guardian Drone  
+       Shield Drone  
+     9xBreacher Fire Warriors  
+  
+OTHER DATASHEETS  
+  
+Kroot Carnivores (55 pts)  
+   • 10xKroot Carnivores  
+  
+Vespid Stingwings (65 pts)  
+   • 4xVespid Stingwings  
+     Vespid Strain Leader  
+  
+Crisis Battlesuits (200 pts)  
+   • 2xCrisis Shas’ui  
+     • 3xPlasma rifle  
+       2xShield Drone  
+       Weapon support system  
+     Crisis Shas’vre  
+     • 3xPlasma rifle  
+       2xShield Drone  
+       Weapon support system  
+  
+Ghostkeel Battlesuit (160 pts)  
+   • Battlesuit support system  
+     Cyclic ion raker  
+     Twin burst cannon  
+  
+Piranha (55 pts)  
+   • Piranhas  
+     • Piranha burst cannon  
+       2xSeeker missile  
+  
+Sky Ray Gunship (130 pts)  
+   • 2 Accelerator burst cannons  
+  
+Sky Ray Gunship (130 pts)  
+   • 2 Accelerator burst cannons  
+  
+Tetras (80 pts)  
+   • 2xTetra  
+  
+Devilfish (75 pts)  
+   • 2 Twin pulse carbines  
+     2xSeeker missile  

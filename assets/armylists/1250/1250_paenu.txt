@@ -1,0 +1,47 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: SEL 1250 Paenu  
+Factions used: Xenos - Necrons  
+Army Points: 1245  
+Army Enhancements:  
+Detachment Rules: Hypercrypt Legion  
+  
+Number of Units: 10  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 5 (14)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+C'tan Shard of the Nightbringer (255 pts)  
+  
+C'tan Shard of the Void Dragon (270 pts)  
+  
+Plasmancer (55 pts)  
+   • Warlord  
+  
+  
+BATTLELINE  
+  
+Immortals (140 pts)  
+   • 10xImmortal  
+     • Gauss blaster  
+  
+Immortals (70 pts)  
+   • 5xImmortal  
+     • Gauss blaster  
+  
+Immortals (70 pts)  
+   • 5xImmortal  
+     • Gauss blaster  
+  
+OTHER DATASHEETS  
+  
+Canoptek Scarab Swarms (40 pts)  
+   • 3xCanoptek Scarab Swarm  
+  
+Canoptek Doomstalker (135 pts)  
+  
+Canoptek Doomstalker (135 pts)  
+  
+Canoptek Spyders (75 pts)  
+   • Canoptek Spyder  

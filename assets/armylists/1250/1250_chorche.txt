@@ -1,0 +1,64 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Stupid Fun  
+Factions used: Xenos - Orks  
+Army Points: 1250  
+Army Enhancements:  
+Detachment Rules: Waaagh! Tribe  
+  
+Number of Units: 12  
+Character Units (Models): 5 (5)   
+Vehicle/Monster Models (Max Points): 6 (14)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Mozrog Skragbad (195 pts)  
+   • Warlord  
+  
+Zodgrod Wortsnagga (80 pts)  
+  
+Deffkilla Wartrike (95 pts)  
+   • Supa-Cybork Body  
+  
+Nob on Smasha Squig (80 pts)  
+   • Headwoppa’s Killchoppa  
+  
+Warboss in Mega Armour (105 pts)  
+   • Follow Me Ladz  
+  
+  
+OTHER DATASHEETS  
+  
+Gretchin (40 pts)  
+   • 10xGretchin  
+     Runtherd  
+  
+Gretchin (40 pts)  
+   • 10xGretchin  
+     Runtherd  
+  
+Lootas (50 pts)  
+   • 4xLoota  
+     Spanner w/ Big shoota  
+  
+Meganobz (180 pts)  
+   • 6xMeganob w/ Twin killsaw  
+  
+Warbikers (70 pts)  
+   • Boss Nob on Warbike  
+     • Power klaw  
+     2xWarbiker w/ Choppa  
+  
+Battlewagon (160 pts)  
+   • 4xBig shoota  
+     Deff rolla  
+     Grabbin' klaw  
+     Killkannon  
+     Lobba  
+     Wreckin' ball  
+     ’Ard Case  
+  
+Grot Tanks (155 pts)  
+   • 3xGrot Tank w/ Rokkit launcha  
+     Grot Tank w/ additional weapon  
+     • 2xRokkit launcha  

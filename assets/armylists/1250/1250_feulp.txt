@@ -1,0 +1,59 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Adeptus Mechanicus - 1250 Punkte  
+Factions used: Imperium - Adeptus Mechanicus  
+Army Points: 1235  
+Army Enhancements:  
+Detachment Rules: Cohort Cybernetica  
+  
+Number of Units: 10  
+Character Units (Models): 4 (4)   
+Vehicle/Monster Models (Max Points): 7 (15)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Belisarius Cawl (180 pts)  
+   • Warlord  
+  
+Cybernetica Datasmith (60 pts)  
+   • Necromechanic  
+  
+Cybernetica Datasmith (35 pts)  
+  
+Cybernetica Datasmith (35 pts)  
+  
+  
+BATTLELINE  
+  
+Skitarii Rangers (90 pts)  
+   • Skitarii Ranger Alpha  
+     • Close combat weapon  
+       Galvanic rifle  
+     Skitarii Ranger w/ arc rifle  
+     8xSkitarii Ranger w/ galvanic rifle  
+  
+Skitarii Rangers (90 pts)  
+   • Skitarii Ranger Alpha  
+     • Close combat weapon  
+       Galvanic rifle  
+     9xSkitarii Ranger w/ galvanic rifle  
+  
+OTHER DATASHEETS  
+  
+Kataphron Breachers (145 pts)  
+   • 3xKataphron Breacher (Heavy arc rifle & arc claw)  
+  
+Kastelan Robots (200 pts)  
+   • 2xKastelan Robot  
+     • Incendine combustor  
+       Kastelan phosphor blaster & Kastelan fist  
+  
+Kastelan Robots (200 pts)  
+   • 2xKastelan Robot  
+     • Incendine combustor  
+       Kastelan phosphor blaster & Kastelan fist  
+  
+Kastelan Robots (200 pts)  
+   • 2xKastelan Robot  
+     • Incendine combustor  
+       Kastelan phosphor blaster & Kastelan fist  

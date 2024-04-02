@@ -1,0 +1,89 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Madeleine_april_2024  
+Factions used: Imperium - Adepta Sororitas  
+Army Points: 1240  
+Army Enhancements:  
+Detachment Rules: Hallowed Martyrs Detachment  
+  
+Number of Units: 13  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 8 (18)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Junith Eruita (90 pts)  
+  
+Morvenn Vahl (145 pts)  
+   • Warlord  
+  
+Palatine (75 pts)  
+   • Litanies of Faith  
+     Plasma pistol  
+  
+  
+BATTLELINE  
+  
+Battle Sisters Squad (100 pts)  
+   • 6xBattle Sister  
+     Battle Sister w/ Simulacrum Imperialus  
+     Battle Sister w/ Special Weapon  
+     • Ministorum flamer  
+     Battle Sister w/ Special or Heavy Weapon  
+     • Artificer-crafted storm bolter  
+     Sister Superior  
+     • Boltgun  
+       Power weapon  
+  
+OTHER DATASHEETS  
+  
+Arco-Flagellants (45 pts)  
+   • 3xArco-Flagellant  
+  
+Celestian Sacresants (65 pts)  
+   • 4xCelestian Sacresant (Hallowed Mace)  
+     Sacresant Superior  
+     • Inferno pistol  
+       Spear of the Faithful  
+  
+Retributor Squad (105 pts)  
+   • 2xRetributor  
+     • Heavy bolter  
+     2xRetributor  
+     • Multi-melta  
+     Retributor Superior  
+     • Chainsword  
+       Inferno pistol  
+  
+Seraphim Squad (70 pts)  
+   • 2xSeraphim  
+     Seraphim Superior  
+     • Plasma Pistol and Power Weapon  
+     2xSeraphim with Special Weapons  
+     • 2xMinistorum Hand Flamers  
+  
+Castigator (140 pts)  
+   • Castigator autocannons  
+     Hunter-Killer Missile  
+     Storm bolter  
+  
+Paragon Warsuits (170 pts)  
+   • Paragon Superior  
+     • Multi-melta  
+       Paragon Grenade Launchers  
+       Paragon War Mace  
+     2xParagon Warsuit  
+     • Multi-melta  
+       Paragon Grenade Launchers  
+       Paragon War Mace  
+  
+Penitent Engines (60 pts)  
+   • Penitent Engine  
+     • Twin Penitent Buzz-Blades  
+  
+Penitent Engines (60 pts)  
+   • Penitent Engine  
+     • Twin Penitent Buzz-Blades  
+  
+Immolator (115 pts)  
+   • Twin Multi-melta  

@@ -1,0 +1,65 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Empix 1250  
+Factions used: Chaos - Chaos Space Marines  
+Army Points: 1240  
+Army Enhancements:  
+Detachment Rules: Slaves to Darkness  
+  
+Number of Units: 9  
+Character Units (Models): 2 (2)   
+Vehicle/Monster Models (Max Points): 3 (8)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Vashtorr the Arkifane (190 pts)  
+   • Warlord  
+  
+Master of Possession (80 pts)  
+   • Mark of Chaos Undivided  
+  
+  
+BATTLELINE  
+  
+Cultist Mob (55 pts)  
+   • Cultist Champion  
+     • Autopistol and brutal assault weapon  
+     9xCultist w/ autopistol and brutal assault weapon  
+     Mark of Nurgle  
+  
+OTHER DATASHEETS  
+  
+Chaos Terminator Squad (195 pts)  
+   • 2xAccursed weapon and combi-bolter  
+     Chainfist and combi-weapon  
+     Heavy weapon  
+     • Power fist  
+       Reaper autocannon  
+     Mark of Tzeentch  
+     Power fist and combi-weapon  
+  
+Chosen (130 pts)  
+   • 2xChosen w/ boltgun  
+     2xChosen w/ combi-weapon and bolt pistol  
+     Chosen w/ power fist and plasma pistol  
+     Mark of Chaos Undivided  
+  
+Obliterators (180 pts)  
+   • Mark of Chaos Undivided  
+     2xObliterator  
+  
+Raptors (90 pts)  
+   • Mark of Slaanesh  
+     3xRaptor  
+     Raptor Champion  
+     • Plasma pistol  
+       Power fist  
+     Raptor w/ meltagun  
+  
+Forgefiend (200 pts)  
+   • 2 ectoplasma cannons  
+     Ectoplasma cannon and limbs  
+     Mark of Nurgle  
+  
+Venomcrawler (120 pts)  
+   • Mark of Chaos Undivided  

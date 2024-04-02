@@ -2,9 +2,9 @@
 layout: player
 name: Lukas
 displayname: Whitewolf
-army: 
+army: Dark Angels
 team: Warp-Spätzle
 discord: whitewolfat
 filename: whitewolf
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

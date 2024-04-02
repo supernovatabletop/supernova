@@ -1,0 +1,61 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Might of Metal 1,25k   
+Factions used: Imperium - Adeptus Mechanicus  
+Army Points: 1240  
+Army Enhancements:  
+Detachment Rules: Rad Zone Corps  
+  
+Number of Units: 10  
+Character Units (Models): 5 (5)   
+Vehicle/Monster Models (Max Points): 1 (3)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Tech-Priest Dominus (95 pts)  
+   • Malphonic Susurrus  
+     Phosphor serpenta  
+     Volkite blaster  
+  
+Tech-Priest Dominus (95 pts)  
+   • Peerless Eradicator  
+     Phosphor serpenta  
+     Volkite blaster  
+     Warlord  
+  
+Tech-Priest Enginseer (45 pts)  
+  
+Tech-Priest Manipulus (70 pts)  
+   • Autoclavic Denounciation  
+     Transonic cannon  
+  
+Tech-Priest Manipulus (55 pts)  
+   • Magnarail lance  
+  
+  
+BATTLELINE  
+  
+Skitarii Vanguard (80 pts)  
+   • Skitarii Vanguard Alpha  
+     • Radium carbine  
+     Skitarii Vanguard w/ omnispex  
+     7xSkitarii Vanguard w/ radium carbine  
+     Skitarii Vanguard w/ transuranic arquebus  
+  
+Skitarii Vanguard (80 pts)  
+   • Skitarii Vanguard Alpha  
+     • Radium carbine  
+     Skitarii Vanguard w/ omnispex  
+     7xSkitarii Vanguard w/ radium carbine  
+     Skitarii Vanguard w/ transuranic arquebus  
+  
+OTHER DATASHEETS  
+  
+Kataphron Breachers (290 pts)  
+   • 6xKataphron Breacher (Heavy arc rifle & hydraulic claw)  
+  
+Kataphron Breachers (290 pts)  
+   • 6xKataphron Breacher (Heavy arc rifle & hydraulic claw)  
+  
+Onager Dunecrawler (140 pts)  
+   • Eradication beamer  

@@ -3,8 +3,8 @@ layout: player
 name: Rafael
 displayname: Aquila
 army: Leagues of Votan
-team: Sledgehammer
+team: Chaos Dwarves
 discord: shalaxi
 filename: aquila
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

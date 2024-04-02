@@ -2,9 +2,9 @@
 layout: player
 name: Gabriel
 displayname: Ma5ter19
-army: 
+army: Death Guard
 team: Placeholder
 discord: ma5ter19
 filename: ma5ter19
-phases: [2,3]
+phases: [2,3,4]
 ---

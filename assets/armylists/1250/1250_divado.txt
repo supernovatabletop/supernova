@@ -1,0 +1,39 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Escalation League IV (Custodes)  
+Factions used: Imperium - Adeptus Custodes  
+Army Points: 1250  
+Army Enhancements:  
+Detachment Rules:   
+  
+Number of Units: 7  
+Character Units (Models): 2 (2)   
+Vehicle/Monster Models (Max Points): 1 (3)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Trajann Valoris (160 pts)  
+   • Warlord  
+  
+Blade Champion (150 pts)  
+   • Ceaseless Hunter  
+  
+  
+BATTLELINE  
+  
+Custodian Guard (180 pts)  
+   • 4xCustodian Guard (Guardian Spear)  
+  
+OTHER DATASHEETS  
+  
+Allarus Custodians (195 pts)  
+   • 3xAllarus Custodian (Guardian Spear)  
+  
+Custodian Wardens (250 pts)  
+   • 5xCustodian Warden (Guardian Spear)  
+  
+Vertus Praetors (150 pts)  
+   • 2xVertus Praetor (Salvo Launcher)  
+  
+Contemptor-Achillus Dreadnought (165 pts)  
+   • 2xLastrum storm bolter  

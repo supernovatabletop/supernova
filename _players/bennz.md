@@ -1,10 +1,10 @@
 ---
 layout: player
 name: Benjamin
-displayname: BENNZ
-army: 
-team: Ragnarween
+displayname: Bennz
+army: Chaos Daemons
+team: Chaos Dwarves
 discord: BENNZ#3804
 filename: bennz
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

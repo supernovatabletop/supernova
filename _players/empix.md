@@ -2,9 +2,9 @@
 layout: player
 name: Jakub
 displayname: Empix
-army: 
+army: Chaos Space Marines
 team: Bloody Chaos
 discord: empix
 filename: empix
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

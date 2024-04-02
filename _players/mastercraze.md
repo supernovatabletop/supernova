@@ -2,9 +2,9 @@
 layout: player
 name: Christoph
 displayname: MasterCraze
-army: 
+army: Craftworlds
 team: Cirque de Waaghleil
 discord: mastercraze
 filename: mastercraze
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

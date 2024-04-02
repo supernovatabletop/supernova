@@ -1,0 +1,44 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: 1250list  
+Factions used: Imperium - Adeptus Custodes  
+Army Points: 1250  
+Army Enhancements:  
+Detachment Rules:   
+  
+Number of Units: 7  
+Character Units (Models): 2 (2)   
+Vehicle/Monster Models (Max Points): 0 (0)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Trajann Valoris (160 pts)  
+   • Warlord  
+  
+Blade Champion (145 pts)  
+   • Veiled Blade  
+  
+  
+BATTLELINE  
+  
+Custodian Guard (225 pts)  
+   • 4xCustodian Guard (Guardian Spear)  
+     Custodian Guard (Sentinel Blade & Praesidium Shield)  
+  
+Custodian Guard (225 pts)  
+   • 4xCustodian Guard (Guardian Spear)  
+     Custodian Guard (Sentinel Blade & Praesidium Shield)  
+  
+OTHER DATASHEETS  
+  
+Allarus Custodians (195 pts)  
+   • 3xAllarus Custodian (Guardian Spear)  
+  
+Custodian Wardens (250 pts)  
+   • 4xCustodian Warden (Guardian Spear)  
+     Custodian Warden w/ Vexilla  
+     • Guardian Spear  
+  
+Witchseekers (50 pts)  
+   • 3xWitchseeker  
+     Witchseeker Sister Superior  

@@ -2,9 +2,9 @@
 layout: player
 name: Christian
 displayname: Rem
-army: 
-team: Vengaboys
+army: World Eaters
+team: Dadhammer
 discord: remcorp
 filename: rem
-phases: [1,2]
+phases: [1,2,4]
 ---

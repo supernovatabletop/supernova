@@ -2,9 +2,9 @@
 layout: player
 name: Konstantin
 displayname: Superkonsti
-army: 
+army: Necrons
 team: Männliche Metall Machos
 discord: superkonsti
 filename: superkonsti
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

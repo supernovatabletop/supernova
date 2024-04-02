@@ -2,9 +2,9 @@
 layout: player
 name: Steffen
 displayname: Schwarmbruder
-army: 
+army: Tyranids
 team: Warp-Spätzle
 discord: schwarmbruder
 filename: schwarmbruder
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

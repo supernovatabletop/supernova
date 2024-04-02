@@ -2,9 +2,9 @@
 layout: player
 name: Arthur
 displayname: Army
-army: 
+army: Adeptus Mechanicus
 team: Might of Metal
 discord: Army#3628
 filename: army
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

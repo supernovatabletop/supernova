@@ -2,9 +2,9 @@
 layout: player
 name: Lukas
 displayname: lu_public
-army: 
+army: Grey Knights
 team: Männliche Metall Machos
 discord: lu_public
 filename: lupublic
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

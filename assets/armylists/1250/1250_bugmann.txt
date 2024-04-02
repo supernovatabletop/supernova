@@ -1,0 +1,67 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: SEL Bugmann 1250  
+Factions used: Imperium - Space Marines  
+Army Points: 1250  
+Army Enhancements:  
+Detachment Rules: Gladius Task Force  
+  
+Number of Units: 11  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 4 (11)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Apothecary (60 pts)  
+   • Artificer Armour  
+  
+Apothecary Biologis (70 pts)  
+   • The Honour Vehement  
+  
+Lieutenant (95 pts)  
+   • Fire Discipline  
+     Pistol, Master-crafted Bolt Rifle & Melee Weapon  
+     • Bolt Pistol  
+       Close Combat Weapon  
+       Master-crafted Bolt Rifle  
+     Warlord  
+  
+  
+BATTLELINE  
+  
+Intercessor Squad (80 pts)  
+   • Intercessor Sergeant  
+     • Bolt Rifle  
+       Close Combat Weapon  
+     4xIntercessors  
+  
+OTHER DATASHEETS  
+  
+Aggressor Squad (120 pts)  
+   • Aggressor Sergeant  
+     2xAggressors  
+     Auto Boltstorm Gauntlets & Fragstorm Grenade Launcher  
+  
+Hellblaster Squad (125 pts)  
+   • 4xHellblaster  
+     Hellblaster Sergeant  
+     • Plasma Pistol  
+  
+Inceptor Squad (130 pts)  
+   • Assault Bolters  
+     2xInceptor  
+     Inceptor Sergeant  
+  
+Drop Pod (70 pts)  
+   • Storm Bolter  
+  
+Gladiator Lancer (160 pts)  
+   • 2 Fragstorm Grenade Launchers  
+  
+Predator Annihilator (130 pts)  
+   • 2 Lascannons  
+  
+Redemptor Dreadnought (210 pts)  
+   • Macro Plasma Incinerator  
+     Onslaught Gatling Cannon  
+     Twin Fragstorm Grenade Launcher  

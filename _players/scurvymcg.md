@@ -2,9 +2,9 @@
 layout: player
 name: Konstantin
 displayname: ScurvyMcG
-army: 
+army: Chaos Daemons
 team: Twisted Sisters
 discord: ScurvyMcG#4532
 filename: scurvymcg
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---
