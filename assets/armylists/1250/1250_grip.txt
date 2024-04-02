@@ -1,0 +1,47 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: New Roster  
+Factions used: Imperium - Adeptus Astartes - Blood Angels  
+Army Points: 1240  
+Army Enhancements:  
+Detachment Rules: Ironstorm Spearhead  
+  
+Number of Units: 8  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 3 (9)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Lemartes (110 pts)  
+  
+Captain with Jump Pack (95 pts)  
+   • Melee and Pistol  
+     • Plasma Pistol  
+       Relic Weapon  
+     The Flesh is Weak  
+     Warlord  
+  
+Techmarine (55 pts)  
+  
+  
+OTHER DATASHEETS  
+  
+Death Company Marines with Jump Packs (260 pts)  
+   • 10xDeath Company Marine  
+     • Thunder Hammer  
+  
+Vanguard Veteran Squad with Jump Packs (210 pts)  
+   • Vanguard Veteran Sergeant with Jump Pack  
+     • Storm Shield  
+     9xVanguard Veterans with Jump Packs  
+     • Storm Shield  
+  
+Gladiator Lancer (160 pts)  
+   • 2 Storm Bolters  
+  
+Gladiator Reaper (150 pts)  
+  
+Redemptor Dreadnought (200 pts)  
+   • Macro Plasma Incinerator  
+     Onslaught Gatling Cannon  
+     Twin Fragstorm Grenade Launcher  

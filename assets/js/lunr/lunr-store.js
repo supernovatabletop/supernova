@@ -17,6 +17,12 @@ var store = [{
         "url": "/supernova/paarungen/phase3-paarung",
         "teaser": null
       },{
+        "title": "Phase4_paarung",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/paarungen/phase4-paarung",
+        "teaser": null
+      },{
         "title": "Aquila",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -287,6 +293,12 @@ var store = [{
         "url": "/supernova/spielerinnen/tris",
         "teaser": null
       },{
+        "title": "Wagrainer",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/spielerinnen/wagrainer",
+        "teaser": null
+      },{
         "title": "Whitewolf",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -315,5 +327,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/ranglisten/phase3-rangliste",
+        "teaser": null
+      },{
+        "title": "Phase4_rangliste",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/ranglisten/phase4-rangliste",
         "teaser": null
       }]

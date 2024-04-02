@@ -1,0 +1,58 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Death guard 1250pts  
+Factions used: Chaos - Death Guard  
+Army Points: 1245  
+Army Enhancements:  
+Detachment Rules: Plague Company  
+  
+Number of Units: 12  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 6 (18)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Typhus (80 pts)  
+   • Warlord  
+  
+Biologus Putrifier (50 pts)  
+  
+Foul Blightspawn (50 pts)  
+  
+  
+BATTLELINE  
+  
+Plague Marines (180 pts)  
+   • Plague Champion  
+     • Heavy plague weapon  
+       Plasma pistol  
+     2xPlague Marine w/ blight launcher  
+     4xPlague Marine w/ heavy plague weapon  
+     Plague Marine w/ plague spewer  
+     2xPlague Marine w/ special weapon  
+     • Meltagun  
+  
+OTHER DATASHEETS  
+  
+Poxwalkers (100 pts)  
+   • 20xPoxwalker  
+  
+Foetid Bloat-drone (90 pts)  
+   • Heavy blight launcher  
+  
+Myphitic Blight-haulers (100 pts)  
+   • Myphitic Blight-hauler  
+  
+Death Guard Rhino (75 pts)  
+  
+Nurglings (40 pts)  
+   • 3xNurgling Swarm  
+  
+War Dog Brigand (170 pts)  
+   • Havoc multi-launcher  
+  
+War Dog Brigand (170 pts)  
+   • Havoc multi-launcher  
+  
+War Dog Karnivore (140 pts)  
+   • Diabolus heavy stubber  

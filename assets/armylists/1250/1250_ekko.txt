@@ -1,0 +1,43 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: 1000 Dark Angel  
+Factions used: Imperium - Adeptus Astartes - Dark Angels  
+Army Points: 1230  
+Army Enhancements:  
+Detachment Rules: Ironstorm Spearhead  
+  
+Number of Units: 7  
+Character Units (Models): 1 (1)   
+Vehicle/Monster Models (Max Points): 5 (18)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Techmarine (95 pts)  
+   • Target Augury Web [Aura]  
+     Warlord  
+  
+  
+OTHER DATASHEETS  
+  
+Ravenwing Black Knights (90 pts)  
+   • Ravenwing Black Knight  
+     Ravenwing Black Knight w/ Grenade Launcher  
+     Ravenwing Huntmaster  
+  
+Brutalis Dreadnought (175 pts)  
+   • Brutalis Talons  
+     Twin Multi-melta  
+  
+Redemptor Dreadnought (210 pts)  
+   • Macro Plasma Incinerator  
+     Onslaught Gatling Cannon  
+     Twin Fragstorm Grenade Launcher  
+  
+Repulsor Executioner (220 pts)  
+   • Heavy Laser Destroyer  
+  
+Repulsor Executioner (220 pts)  
+   • Heavy Laser Destroyer  
+  
+Repulsor Executioner (220 pts)  
+   • Heavy Laser Destroyer  

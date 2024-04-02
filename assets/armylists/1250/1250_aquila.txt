@@ -1,0 +1,72 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: 1250  
+Factions used: Xenos - Leagues of Votann  
+Army Points: 1245  
+Army Enhancements:  
+Detachment Rules: Oathband  
+  
+Number of Units: 9  
+Character Units (Models): 2 (2)   
+Vehicle/Monster Models (Max Points): 2 (4)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Brôkhyr Iron-master (65 pts)  
+   • Brôkhyr Iron-master  
+     3xE-COG  
+     Ironkyn Assistant  
+  
+Einhyr Champion (80 pts)  
+   • Grim Demeanour  
+     Mass hammer  
+     Warlord  
+     Weavefield crest  
+  
+  
+BATTLELINE  
+  
+Hearthkyn Warriors (110 pts)  
+   • Comms array  
+     7xHearthkyn Warrior  
+     • Autoch-pattern bolter  
+     2xHearthkyn Warrior w/ heavy weapon  
+     • Kin melee weapon  
+     Medipack  
+     Pan spectral scanner  
+     Theyn  
+     • Etacarn plasma pistol  
+       Kin melee weapon  
+  
+OTHER DATASHEETS  
+  
+Brôkhyr Thunderkyn (170 pts)  
+   • 6xBrôkhyr Thunderkyn  
+     • Graviton blast cannon  
+  
+Einhyr Hearthguard (320 pts)  
+   • 9xEinhyr Hearthguard  
+     • Concussion gauntlet  
+       Volkanite disintegrator  
+     Hesyr  
+     • Concussion gauntlet  
+       Teleport crest  
+       Volkanite disintegrator  
+  
+Hernkyn Pioneers (90 pts)  
+   • Hernkyn Pioneer w/ HYLas rotary cannon  
+     Hernkyn Pioneer w/ pan-spectral scanner  
+     Hernkyn Pioneer w/ searchlight  
+  
+Hernkyn Pioneers (180 pts)  
+   • Hernkyn Pioneer  
+     2xHernkyn Pioneer w/ HYLas rotary cannon  
+     Hernkyn Pioneer w/ comms array  
+     Hernkyn Pioneer w/ pan-spectral scanner  
+     Hernkyn Pioneer w/ searchlight  
+  
+Sagitaur (115 pts)  
+   • HYLas beam cannon  
+  
+Sagitaur (115 pts)  
+   • HYLas beam cannon  

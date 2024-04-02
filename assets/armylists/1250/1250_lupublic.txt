@@ -1,0 +1,63 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Supernova Escalation Lukas Pablik  
+Factions used: Imperium - Grey Knights  
+Army Points: 1245  
+Army Enhancements:  
+Detachment Rules: Teleport Strike Force  
+  
+Number of Units: 8  
+Character Units (Models): 4 (4)   
+Vehicle/Monster Models (Max Points): 2 (6)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Brotherhood Librarian (110 pts)  
+   • Combi-Weapon  
+     Warlord  
+  
+Brotherhood Librarian (110 pts)  
+   • Combi-Weapon  
+  
+Brotherhood Techmarine (60 pts)  
+   • Boltgun  
+  
+Grand Master in Nemesis Dreadknight (235 pts)  
+   • First to the Fray  
+     Heavy Incinerator  
+     Heavy Psycannon  
+     Nemesis Daemon Greathammer  
+  
+  
+BATTLELINE  
+  
+Brotherhood Terminator Squad (210 pts)  
+   • Justicar  
+     Terminator  
+     Terminator with Ancient's Banner  
+     • Storm Bolter  
+     Terminator with Heavy Weapon  
+     • Psycannon  
+     Terminator with Narthecium  
+  
+Brotherhood Terminator Squad (210 pts)  
+   • Justicar  
+     Terminator  
+     Terminator with Ancient's Banner  
+     • Storm Bolter  
+     Terminator with Heavy Weapon  
+     • Psycannon  
+     Terminator with Narthecium  
+  
+Strike Squad (125 pts)  
+   • 3xGrey Knight  
+     Grey Knight with Heavy Weapon  
+     • Psycannon  
+     Justicar  
+  
+OTHER DATASHEETS  
+  
+Nemesis Dreadknight (185 pts)  
+   • Heavy Incinerator  
+     Heavy Psycannon  
+     Nemesis Daemon Greathammer  

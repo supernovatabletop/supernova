@@ -1,0 +1,51 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Invasion  
+Factions used: Xenos - Tyranids  
+Army Points: 1250  
+Army Enhancements:  
+Detachment Rules: Invasion Fleet  
+  
+Number of Units: 12  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 4 (11)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Deathleaper (80 pts)  
+  
+Broodlord (100 pts)  
+   • Synaptic Linchpin  
+  
+Neurotyrant (105 pts)  
+   • Warlord  
+  
+  
+BATTLELINE  
+  
+Gargoyles (80 pts)  
+   • 10xGargoyles  
+  
+Gargoyles (80 pts)  
+   • 10xGargoyles  
+  
+Hormagaunts (65 pts)  
+   • 10xHormagaunts  
+  
+OTHER DATASHEETS  
+  
+Biovores (75 pts)  
+   • Biovore  
+  
+Genestealers (150 pts)  
+   • 10xGenestealer  
+  
+Raveners (75 pts)  
+   • 3xRavener  
+     • Thoracic bio-weapon  
+  
+Exocrine (135 pts)  
+  
+Exocrine (135 pts)  
+  
+Maleceptor (170 pts)  
