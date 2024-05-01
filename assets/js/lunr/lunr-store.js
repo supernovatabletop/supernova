@@ -29,9 +29,9 @@ var store = [{
         "url": "/supernova/paarungen/phase5-paarung",
         "teaser": null
       },{
-        "title": null,
+        "title": "Aquila",
         "excerpt":" ","categories": [],
-        "tags": null,
+        "tags": [],
         "url": "/supernova/spielerinnen/aquila",
         "teaser": null
       },{
@@ -47,9 +47,9 @@ var store = [{
         "url": "/supernova/spielerinnen/askonnox",
         "teaser": null
       },{
-        "title": null,
+        "title": "Aurus",
         "excerpt":" ","categories": [],
-        "tags": null,
+        "tags": [],
         "url": "/supernova/spielerinnen/aurus",
         "teaser": null
       },{
