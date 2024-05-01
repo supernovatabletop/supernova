@@ -1,0 +1,80 @@
+SEL Impse 1500 (1480 points)
+
+Astra Militarum
+Strike Force (2000 points)
+Combined Regiment
+
+
+CHARACTERS
+
+Tank Commander (220 points)
+  • Warlord
+  • 1x Armoured tracks
+    1x Exterminator autocannon
+    1x Heavy stubber
+    1x Hunter-killer missile
+    1x Lascannon
+    2x Multi-melta
+  • Enhancement: Grand Strategist
+
+
+OTHER DATASHEETS
+
+Armoured Sentinels (70 points)
+  • 1x Close combat weapon
+    1x Hunter-killer missile
+    1x Plasma cannon
+    1x Sentinel chainsaw
+
+Hellhound (115 points)
+  • 1x Armoured tracks
+    1x Hunter-killer missile
+    1x Inferno cannon
+    1x Multi-melta
+
+Hellhound (115 points)
+  • 1x Armoured tracks
+    1x Hunter-killer missile
+    1x Inferno cannon
+    1x Multi-melta
+
+Leman Russ Battle Tank (170 points)
+  • 1x Armoured tracks
+    1x Heavy stubber
+    1x Hunter-killer missile
+    1x Lascannon
+    1x Leman Russ battle cannon
+    2x Multi-melta
+
+Leman Russ Battle Tank (170 points)
+  • 1x Armoured tracks
+    1x Heavy stubber
+    1x Hunter-killer missile
+    1x Lascannon
+    1x Leman Russ battle cannon
+    2x Multi-melta
+
+Leman Russ Battle Tank (170 points)
+  • 1x Armoured tracks
+    1x Heavy stubber
+    1x Hunter-killer missile
+    1x Lascannon
+    1x Leman Russ battle cannon
+    2x Multi-melta
+
+Manticore (190 points)
+  • 1x Armoured tracks
+    1x Heavy bolter
+    1x Hunter-killer missile
+    1x Storm eagle rockets
+
+Rogal Dorn Battle Tank (260 points)
+  • 1x Armoured tracks
+    1x Co-axial autocannon
+    1x Heavy stubber
+    2x Meltagun
+    2x Multi-melta
+    1x Oppressor cannon
+    1x Pulveriser cannon
+
+Exported with App Version: v1.13.0 (41), Data Version: v373
