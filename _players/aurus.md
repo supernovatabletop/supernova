@@ -4,7 +4,7 @@ name: Uros
 displayname: Aurus
 army: Adeptus Custodes
 team: Alliance of the Unwilling
-discord: -
+discord: secret
 filename: aurus
 phases: [5]
 ---
