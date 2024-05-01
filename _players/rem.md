@@ -6,5 +6,5 @@ army: World Eaters
 team: Dadhammer
 discord: remcorp
 filename: rem
-phases: [1,4]
+phases: [1,4,5]
 ---

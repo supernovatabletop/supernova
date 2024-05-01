@@ -6,5 +6,5 @@ army:
 team: Dadhammer
 discord: rudolf_wagrainer_julian
 filename: wagrainer
-phases: [4]
+phases: [4,5]
 ---
