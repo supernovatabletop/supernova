@@ -23,9 +23,15 @@ var store = [{
         "url": "/supernova/paarungen/phase4-paarung",
         "teaser": null
       },{
-        "title": "Aquila",
+        "title": "Phase5_paarung",
         "excerpt":" ","categories": [],
         "tags": [],
+        "url": "/supernova/paarungen/phase5-paarung",
+        "teaser": null
+      },{
+        "title": null,
+        "excerpt":" ","categories": [],
+        "tags": null,
         "url": "/supernova/spielerinnen/aquila",
         "teaser": null
       },{
@@ -39,6 +45,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/spielerinnen/askonnox",
+        "teaser": null
+      },{
+        "title": null,
+        "excerpt":" ","categories": [],
+        "tags": null,
+        "url": "/supernova/spielerinnen/aurus",
         "teaser": null
       },{
         "title": "Bennz",
@@ -333,5 +345,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/supernova/ranglisten/phase4-rangliste",
+        "teaser": null
+      },{
+        "title": "Phase5_rangliste",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/supernova/ranglisten/phase5-rangliste",
         "teaser": null
       }]

@@ -1,0 +1,89 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: SEL 1,5k  
+Factions used: Xenos - T'au Empire  
+Army Points: 1485  
+Army Enhancements:  
+Detachment Rules: Kauyon  
+  
+Number of Units: 12  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 8 (22)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Commander Shadowsun (100 pts)  
+   • Warlord  
+  
+Cadre Fireblade (55 pts)  
+   • Exemplar of the Kauyon  
+     2xGun Drone  
+  
+Ethereal (50 pts)  
+   • Gun Drone  
+     Hover Drone  
+     Marker Drone  
+  
+  
+BATTLELINE  
+  
+Breacher Team (90 pts)  
+   • Breacher Fire Warrior Shas'ui  
+     • Guardian Drone  
+       Gun Drone  
+     9xBreacher Fire Warriors  
+  
+Strike Team (80 pts)  
+   • Fire Warrior Shas'ui  
+     • Guardian Drone  
+       Gun Drone  
+     9xFire Warrior w/ pulse rifle  
+  
+OTHER DATASHEETS  
+  
+Pathfinder Team (90 pts)  
+   • 2xGun Drone  
+     Pathfinder Shas'ui  
+     • Recon drone  
+     5xPathfinders w/ pulse carbine  
+     Pathfinders w/ pulse carbine and grenade launcher  
+     3xPathfinders w/ rail rifle  
+  
+Broadside Battlesuits (180 pts)  
+   • Broadside Shas’ui  
+     • Heavy rail rifle  
+       Seeker missile  
+       2xShield Drone  
+       Twin smart missile system  
+     Broadside Shas’vre  
+     • Heavy rail rifle  
+       Seeker missile  
+       2xShield Drone  
+       Twin plasma rifle  
+  
+Broadside Battlesuits (180 pts)  
+   • Broadside Shas’ui  
+     • Heavy rail rifle  
+       Seeker missile  
+       2xShield Drone  
+       Twin plasma rifle  
+     Broadside Shas’vre  
+     • Heavy rail rifle  
+       Seeker missile  
+       2xShield Drone  
+       Twin plasma rifle  
+  
+Riptide Battlesuit (165 pts)  
+   • Heavy burst cannon  
+     2xMissile Drone  
+     Twin smart missile system  
+  
+Y'vahra Battlesuit (210 pts)  
+   • 2xMissile Drone  
+  
+Y'vahra Battlesuit (210 pts)  
+   • 2xMissile Drone  
+  
+Devilfish (75 pts)  
+   • 2 Twin pulse carbines  
+     2xSeeker missile  

@@ -1,0 +1,63 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Vanguard  
+Factions used: Xenos - Tyranids  
+Army Points: 1500  
+Army Enhancements:  
+Detachment Rules: Vanguard Onslaught  
+  
+Number of Units: 15  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 2 (6)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Deathleaper (80 pts)  
+  
+Broodlord (110 pts)  
+   • Neuronode  
+  
+Winged Tyranid Prime (85 pts)  
+   • Hunting Grounds  
+     Warlord  
+  
+  
+BATTLELINE  
+  
+Gargoyles (85 pts)  
+   • 10xGargoyles  
+  
+Gargoyles (85 pts)  
+   • 10xGargoyles  
+  
+Termagants (60 pts)  
+   • 10xTermagants  
+     • Fleshborer  
+  
+OTHER DATASHEETS  
+  
+Biovores (75 pts)  
+   • Biovore  
+  
+Genestealers (150 pts)  
+   • 10xGenestealer  
+  
+Genestealers (75 pts)  
+   • 5xGenestealer  
+  
+Lictor (55 pts)  
+  
+Tyranid Warriors with Melee Bio-Weapons (150 pts)  
+   • Tyranid Prime  
+     5xTyranid Warrior  
+  
+Zoanthropes (200 pts)  
+   • Neurothrope  
+     5xZoanthrope  
+  
+Ripper Swarms (20 pts)  
+   • Ripper Swarm  
+  
+Exocrine (135 pts)  
+  
+Exocrine (135 pts)  

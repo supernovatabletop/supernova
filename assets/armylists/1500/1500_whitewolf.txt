@@ -1,0 +1,75 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: WhiteWolfAT 1500 Punkte Escalation Leauge  
+Factions used: Imperium - Adeptus Astartes - Dark Angels  
+Army Points: 1495  
+Army Enhancements:  
+Detachment Rules: Gladius Task Force  
+  
+Number of Units: 12  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 3 (9)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Azrael (105 pts)  
+  
+Lion El'Jonson (300 pts)  
+   • Warlord  
+  
+Apothecary (60 pts)  
+   • Artificer Armour  
+  
+  
+BATTLELINE  
+  
+Heavy Intercessor Squad (100 pts)  
+   • Heavy Intercessor Sergeant  
+     Heavy Intercessor w/Heavy Bolter  
+     3xHeavy Intercessors  
+  
+OTHER DATASHEETS  
+  
+Bladeguard Veteran Squad (90 pts)  
+   • Bladeguard Veteran Sergeant  
+     • Neo-volkite Pistol  
+     2xBladeguard Veterans  
+  
+Deathwing Terminator Squad (180 pts)  
+   • Deathwing Sergeant  
+     3xDeathwing Terminator  
+     Deathwing Terminator w/ Heavy Weapon  
+     • Cyclone Missile Launcher & Storm Bolter  
+       Power Fist  
+  
+Hellblaster Squad (115 pts)  
+   • 4xHellblaster  
+     Hellblaster Sergeant  
+     • Plasma Pistol  
+  
+Hellblaster Squad (115 pts)  
+   • 4xHellblaster  
+     Hellblaster Sergeant  
+     • Plasma Pistol  
+  
+Scout Squad (65 pts)  
+   • Scout Sergeant  
+     • Astartes Shotgun  
+     Scout w/ Heavy Weapon  
+     • Missile Launcher  
+     Scout w/ Scout Sniper Rifle  
+     2xScouts w/ Astartes Shotgun  
+  
+Scout Squad (65 pts)  
+   • Scout Sergeant  
+     • Astartes Shotgun  
+     Scout w/ Heavy Weapon  
+     • Missile Launcher  
+     Scout w/ Scout Sniper Rifle  
+     2xScouts w/ Astartes Shotgun  
+  
+Ballistus Dreadnought (140 pts)  
+  
+Brutalis Dreadnought (160 pts)  
+   • Brutalis Fists & Brutalis Bolt Rifles  
+     Twin Multi-melta  

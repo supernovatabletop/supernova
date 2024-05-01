@@ -1,0 +1,50 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Adeptus Custodes - 1500 pts  
+Factions used: Imperium - Adeptus Custodes  
+Army Points: 1510  
+Army Enhancements:  
+Detachment Rules:   
+  
+Number of Units: 8  
+Character Units (Models): 2 (2)   
+Vehicle/Monster Models (Max Points): 1 (3)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Trajann Valoris (160 pts)  
+   • Warlord  
+  
+Blade Champion (145 pts)  
+   • Unstoppable Destroyer  
+  
+  
+BATTLELINE  
+  
+Custodian Guard (225 pts)  
+   • 3xCustodian Guard (Guardian Spear)  
+     Custodian Guard (Sentinel Blade & Praesidium Shield)  
+     Custodian Guard (Vexilla, Praesidium Shield & Misericordia)  
+  
+Prosecutors (40 pts)  
+   • 3xProsecutor  
+     Prosecutor Sister Superior  
+  
+OTHER DATASHEETS  
+  
+Allarus Custodians (325 pts)  
+   • 2xAllarus Custodian (Castellan Axe)  
+     3xAllarus Custodian (Guardian Spear)  
+  
+Custodian Wardens (200 pts)  
+   • 3xCustodian Warden (Guardian Spear)  
+     Custodian Warden w/ Vexilla  
+     • Guardian Spear  
+  
+Custodian Wardens (200 pts)  
+   • 3xCustodian Warden (Guardian Spear)  
+     Custodian Warden w/ Vexilla  
+     • Guardian Spear  
+  
+Caladius Grav-tank (215 pts)  
+   • Twin arachnus heavy blaze cannon  

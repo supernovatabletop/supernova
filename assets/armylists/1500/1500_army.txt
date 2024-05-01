@@ -1,0 +1,74 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: MOM 1,5K  
+Factions used: Imperium - Adeptus Mechanicus  
+Army Points: 1470  
+Army Enhancements:  
+Detachment Rules: Rad Zone Corps  
+  
+Number of Units: 13  
+Character Units (Models): 5 (5)   
+Vehicle/Monster Models (Max Points): 3 (9)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Tech-Priest Dominus (95 pts)  
+   • Macrostubber  
+     Peerless Eradicator  
+     Volkite blaster  
+     Warlord  
+  
+Tech-Priest Dominus (95 pts)  
+   • Macrostubber  
+     Malphonic Susurrus  
+     Volkite blaster  
+  
+Tech-Priest Enginseer (45 pts)  
+  
+Tech-Priest Manipulus (70 pts)  
+   • Autoclavic Denounciation  
+     Transonic cannon  
+  
+Tech-Priest Manipulus (55 pts)  
+   • Magnarail lance  
+  
+  
+BATTLELINE  
+  
+Skitarii Rangers (80 pts)  
+   • Skitarii Ranger Alpha  
+     • Alpha combat weapon  
+       Galvanic rifle  
+     6xSkitarii Ranger w/ galvanic rifle  
+     Skitarii Ranger w/ omnispex  
+     Skitarii Ranger w/ plasma caliver  
+     Skitarii Ranger w/ transuranic arquebus  
+  
+Skitarii Vanguard (80 pts)  
+   • Skitarii Vanguard Alpha  
+     • Radium carbine  
+     Skitarii Vanguard w/ omnispex  
+     7xSkitarii Vanguard w/ radium carbine  
+     Skitarii Vanguard w/ transuranic arquebus  
+  
+Skitarii Vanguard (80 pts)  
+   • Skitarii Vanguard Alpha  
+     • Radium carbine  
+     Skitarii Vanguard w/ omnispex  
+     7xSkitarii Vanguard w/ radium carbine  
+     Skitarii Vanguard w/ transuranic arquebus  
+  
+OTHER DATASHEETS  
+  
+Kataphron Breachers (290 pts)  
+   • 6xKataphron Breacher (Heavy arc rifle & hydraulic claw)  
+  
+Kataphron Breachers (290 pts)  
+   • 6xKataphron Breacher (Heavy arc rifle & hydraulic claw)  
+  
+Onager Dunecrawler (130 pts)  
+   • Neutron laser & Cognis heavy stubber  
+  
+Skorpius Dunerider (80 pts)  
+  
+Skorpius Dunerider (80 pts)  

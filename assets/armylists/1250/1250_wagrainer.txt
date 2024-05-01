@@ -1,0 +1,154 @@
+infanterie (1240 Points)
+
+Astra Militarum
+Combined Regiment
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Cadian Command Squad (65 Points)
+    • 1x Cadian Commander
+        • 1x Chainsword
+          1x Laspistol
+    • 1x Cadian Veteran Guardsman
+        • 1x Plasma gun
+          1x Plasma pistol
+    • 1x Cadian Veteran Guardsman with Master Vox
+        • 1x Close combat weapon
+          1x Lasgun
+          1x Master Vox
+    • 1x Cadian Veteran Guardsman with Medi-pack
+        • 1x Close combat weapon
+          1x Lasgun
+          1x Medi-pack
+    • 1x Cadian Veteran Guardsman with Regimental Standard
+        • 1x Close combat weapon
+          1x Lasgun
+          1x Regimental Standard
+
+Lord Solar Leontus (125 Points)
+    • Warlord
+    • 1x Conquest
+      1x Konstantin’s hooves
+      1x Sol’s Righteous Gaze
+
+Militarum Tempestus Command Squad (95 Points)
+    • 1x Tempestor Prime
+        • 1x Command Rod
+          1x Tempestus dagger
+        • Enhancements: Grand Strategist
+    • 4x Tempestus Scion
+        • 4x Close combat weapon
+          2x Hot-shot lasgun
+          1x Hot-shot lasgun
+          1x Hot-shot laspistol
+          1x Medi-pack
+          1x Plasma gun
+          1x Regimental Standard
+
+BATTLELINE
+
+Cadian Shock Troops (120 Points)
+    • 2x Shock Trooper Sergeant
+        • 2x Close combat weapon
+          2x Drum-fed autogun
+    • 18x Shock Trooper
+        • 18x Close combat weapon
+          14x Lasgun
+          2x Meltagun
+          2x Plasma gun
+          1x Vox-caster
+
+Infantry Squad (60 Points)
+    • 1x Sergeant
+        • 1x Close combat weapon
+          1x Laspistol
+    • 7x Guardsman
+        • 7x Close combat weapon
+          6x Lasgun
+          1x Plasma gun
+    • 1x Heavy Weapons Team
+        • 1x Close combat weapon
+          1x Laspistol
+          1x Mortar
+
+DEDICATED TRANSPORTS
+
+Chimera (70 Points)
+    • 1x Armoured tracks
+      1x Chimera heavy flamer
+      1x Heavy flamer
+      1x Heavy stubber
+      1x Hunter-killer missile
+      1x Lasgun array
+
+OTHER DATASHEETS
+
+Armoured Sentinels (70 Points)
+    • 1x Close combat weapon
+      1x Hunter-killer missile
+      1x Plasma cannon
+      1x Sentinel chainsaw
+
+Bullgryn Squad (160 Points)
+    • 1x Bullgryn Bone ’ead
+        • 1x Brute Shield
+          1x Bullgryn maul
+          1x Close combat weapon
+    • 5x Bullgryn
+        • 5x Brute Shield
+          5x Bullgryn maul
+          5x Close combat weapon
+
+Leman Russ Vanquisher (155 Points)
+    • 1x Armoured tracks
+      1x Heavy stubber
+      1x Hunter-killer missile
+      1x Lascannon
+      2x Multi-melta
+      1x Vanquisher battle cannon
+
+Scout Sentinels (60 Points)
+    • 1x Close combat weapon
+      1x Hunter-killer missile
+      1x Plasma cannon
+      1x Sentinel chainsaw
+
+Tempestus Scions (110 Points)
+    • 1x Tempestor
+        • 1x Plasma pistol
+          1x Power fist
+    • 9x Tempestus Scion
+        • 9x Close combat weapon
+          5x Hot-shot lasgun
+          2x Hot-shot volley gun
+          2x Plasma gun
+
+Tempestus Scions (55 Points)
+    • 1x Tempestor
+        • 1x Plasma pistol
+          1x Power fist
+    • 4x Tempestus Scion
+        • 4x Close combat weapon
+          2x Hot-shot lasgun
+          1x Hot-shot volley gun
+          1x Meltagun
+
+Tempestus Scions (55 Points)
+    • 1x Tempestor
+        • 1x Plasma pistol
+          1x Power fist
+    • 4x Tempestus Scion
+        • 4x Close combat weapon
+          2x Hot-shot lasgun
+          1x Hot-shot volley gun
+          1x Meltagun
+
+ALLIED UNITS
+
+Inquisitorial Henchmen (40 Points)
+    • 4x Inquisitorial Acolyte
+        • 4x Acolyte firearm
+          4x Acolyte melee weapon
+
+Exported with App Version: v1.10.0 (29), Data Version: v336

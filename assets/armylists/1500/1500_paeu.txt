@@ -1,0 +1,127 @@
+1500 (1500 Points)
+
+Space Marines
+Black Templars
+Gladius Task Force
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Apothecary Biologis (85 Points)
+    • 1x Absolvor bolt pistol
+      1x Close combat weapon
+    • Enhancements: Fire Discipline
+
+High Marshal Helbrecht (120 Points)
+    • Warlord
+    • 1x Ferocity
+      1x Sword of the High Marshals
+
+Lieutenant with Combi-weapon (70 Points)
+    • 1x Combi-weapon
+      1x Paired combat blades
+
+The Emperor’s Champion (75 Points)
+    • 1x Black Sword
+      1x Bolt Pistol
+
+DEDICATED TRANSPORTS
+
+Black Templars Impulsor (90 Points)
+    • 1x Armoured hull
+      2x Fragstorm grenade launcher
+      1x Multi-melta
+      1x Shield dome
+
+Black Templars Impulsor (90 Points)
+    • 1x Armoured hull
+      2x Fragstorm grenade launcher
+      1x Multi-melta
+      1x Shield dome
+
+OTHER DATASHEETS
+
+Black Templars Gladiator Valiant (160 Points)
+    • 1x Armoured hull
+      1x Icarus rocket pod
+      2x Multi-melta
+      1x Multi-melta
+      1x Twin las-talon
+
+Bladeguard Veteran Squad (90 Points)
+    • 1x Bladeguard Veteran Sergeant
+        • 1x Master-crafted power weapon
+          1x Neo-volkite pistol
+    • 2x Bladeguard Veteran
+        • 2x Heavy bolt pistol
+          2x Master-crafted power weapon
+
+Eradicator Squad (190 Points)
+    • 1x Eradicator Sergeant
+        • 1x Bolt pistol
+          1x Close combat weapon
+          1x Melta rifle
+    • 5x Eradicator
+        • 5x Bolt pistol
+          5x Close combat weapon
+          4x Melta rifle
+          1x Multi-melta
+
+Infiltrator Squad (100 Points)
+    • 1x Infiltrator Sergeant
+        • 1x Bolt pistol
+          1x Close combat weapon
+          1x Marksman bolt carbine
+    • 4x Infiltrator
+        • 4x Bolt pistol
+          4x Close combat weapon
+          1x Helix Gauntlet
+          4x Marksman bolt carbine
+
+Primaris Sword Brethren (150 Points)
+    • 1x Sword Brother Castellan
+        • 1x Combi-weapon
+          1x Master-crafted power weapon
+    • 4x Primaris Sword Brother
+        • 1x Plasma pistol
+          2x Power weapon
+          2x Pyre pistol
+          1x Thunder hammer
+          1x Twin lightning claws
+
+Primaris Sword Brethren (150 Points)
+    • 1x Sword Brother Castellan
+        • 1x Combi-weapon
+          1x Master-crafted power weapon
+    • 4x Primaris Sword Brother
+        • 1x Plasma pistol
+          2x Power weapon
+          2x Pyre pistol
+          1x Thunder hammer
+          1x Twin lightning claws
+
+Scout Squad (65 Points)
+    • 1x Scout Sergeant
+        • 1x Astartes chainsword
+          1x Bolt pistol
+          1x Close combat weapon
+    • 4x Scout
+        • 2x Astartes shotgun
+          4x Bolt pistol
+          4x Close combat weapon
+          1x Missile launcher
+          1x Scout sniper rifle
+
+Scout Squad (65 Points)
+    • 1x Scout Sergeant
+        • 1x Astartes chainsword
+          1x Bolt pistol
+          1x Close combat weapon
+    • 4x Scout
+        • 2x Astartes shotgun
+          4x Bolt pistol
+          4x Close combat weapon
+          1x Missile launcher
+          1x Scout sniper rifle
+
+Exported with App Version: v1.13.0 (36), Data Version: v373

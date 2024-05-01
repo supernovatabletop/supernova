@@ -1,0 +1,72 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: 1500 Empix  
+Factions used: Chaos - Chaos Space Marines  
+Army Points: 1500  
+Army Enhancements:  
+Detachment Rules: Slaves to Darkness  
+  
+Number of Units: 10  
+Character Units (Models): 2 (2)   
+Vehicle/Monster Models (Max Points): 3 (7)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Chaos Lord in Terminator Armour (135 pts)  
+   • Combi-bolter  
+     Exalted weapon  
+     Eye of Tzeentch  
+     Mark of Tzeentch  
+     Warlord  
+  
+Master of Possession (80 pts)  
+   • Mark of Slaanesh  
+  
+  
+BATTLELINE  
+  
+Cultist Mob (50 pts)  
+   • Cultist Champion  
+     • Autopistol and brutal assault weapon  
+     9xCultist w/ autopistol and brutal assault weapon  
+     Mark of Nurgle  
+  
+OTHER DATASHEETS  
+  
+Chaos Terminator Squad (185 pts)  
+   • 2xAccursed weapon and combi-bolter  
+     Chainfist and combi-weapon  
+     Heavy weapon  
+     • Power fist  
+       Reaper autocannon  
+     Mark of Tzeentch  
+     Power fist and combi-weapon  
+  
+Havocs (120 pts)  
+   • Havoc Champion  
+     • Astartes chainsword  
+       Plasma gun  
+     2xHavoc w/ autocannon  
+     2xHavoc w/ lascannon  
+     Mark of Chaos Undivided  
+  
+Obliterators (360 pts)  
+   • Mark of Chaos Undivided  
+     4xObliterator  
+  
+Possessed (130 pts)  
+   • Mark of Slaanesh  
+     5xPossessed  
+  
+Forgefiend (200 pts)  
+   • 2 ectoplasma cannons  
+     Ectoplasma cannon and limbs  
+     Mark of Nurgle  
+  
+Helbrute (130 pts)  
+   • Mark of Chaos Undivided  
+     Missile launcher  
+     Twin lascannon  
+  
+Venomcrawler (110 pts)  
+   • Mark of Chaos Undivided  

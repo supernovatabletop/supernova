@@ -1,0 +1,54 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: 1500_Bennz  
+Factions used: Chaos - Chaos Daemons  
+Army Points: 1500  
+Army Enhancements:  
+Detachment Rules: Daemonic Incursion  
+  
+Number of Units: 12  
+Character Units (Models): 7 (7)   
+Vehicle/Monster Models (Max Points): 2 (9)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Skulltaker (85 pts)  
+  
+The Blue Scribes (75 pts)  
+  
+Bloodthirster (320 pts)  
+   • Great axe of Khorne  
+  
+Fluxmaster (60 pts)  
+  
+Great Unclean One (260 pts)  
+   • Bilesword  
+     Plague flail  
+     The Endless Gift  
+     Warlord  
+  
+Rendmaster on Blood Throne (150 pts)  
+  
+Skullmaster (100 pts)  
+  
+  
+BATTLELINE  
+  
+Bloodletters (120 pts)  
+   • 9xBloodletter  
+     Bloodreaper  
+  
+Nurglings (40 pts)  
+   • 3xNurgling Swarm  
+  
+Nurglings (40 pts)  
+   • 3xNurgling Swarm  
+  
+Pink Horrors (140 pts)  
+   • 10xPink Horror  
+  
+OTHER DATASHEETS  
+  
+Bloodcrushers (110 pts)  
+   • 2xBloodcrusher  
+     Bloodhunter  

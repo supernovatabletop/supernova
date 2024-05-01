@@ -1,0 +1,44 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Escalation League Phase V  
+Factions used: Imperium - Adeptus Custodes  
+Army Points: 1500  
+Army Enhancements:  
+Detachment Rules:   
+  
+Number of Units: 9  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 1 (3)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Trajann Valoris (150 pts)  
+   • Warlord  
+  
+Blade Champion (115 pts)  
+   • Panoptispex  
+  
+  
+BATTLELINE  
+  
+Custodian Guard (180 pts)  
+   • 4xCustodian Guard (Guardian Spear)  
+  
+Custodian Guard (180 pts)  
+   • 4xCustodian Guard (Sentinel Blade & Praesidium Shield)  
+  
+OTHER DATASHEETS  
+  
+Allarus Custodians (195 pts)  
+   • 3xAllarus Custodian (Castellan Axe)  
+  
+Allarus Custodians (130 pts)  
+   • 2xAllarus Custodian (Castellan Axe)  
+  
+Custodian Wardens (250 pts)  
+   • 5xCustodian Warden (Castellan axe)  
+  
+Caladius Grav-tank (215 pts)  
+   • Twin arachnus heavy blaze cannon  
+  
+Lord Inquisitor Kyria Draxus (85 pts)  
