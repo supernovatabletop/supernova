@@ -4,7 +4,7 @@ name: Erkan
 displayname: Ekko die Biene
 army: Dark Angels
 team: The Emperor Protects
-discord: Ekko the Biene#4742
+discord: ekkothebiene
 filename: ekko
-phases: [1,2,3,4]
+phases: [1,2,3,4,5]
 ---

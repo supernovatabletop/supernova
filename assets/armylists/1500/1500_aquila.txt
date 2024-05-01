@@ -1,0 +1,109 @@
+1500 alt (1495 Points)
+
+Leagues of Votann
+Oathband
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Einhyr Champion (80 Points)
+    • Warlord
+    • 1x Autoch-pattern combi-bolter
+      1x Mass hammer
+      1x Weavefield Crest
+    • Enhancements: Grim Demeanour
+
+BATTLELINE
+
+Hearthkyn Warriors (100 Points)
+    • 1x Theyn
+        • 1x Close combat weapon
+          1x EtaCarn plasma pistol
+          1x Kin melee weapon
+          1x Weavefield Crest
+    • 9x Hearthkyn Warrior
+        • 9x Autoch-pattern bolt pistol
+          9x Close combat weapon
+          1x Comms Array
+          1x HYLas auto rifle
+          7x Ion blaster
+          1x Magna-rail rifle
+          1x Medipack
+          1x Pan Spectral Scanner
+
+DEDICATED TRANSPORTS
+
+Sagitaur (115 Points)
+    • 1x Armoured wheels
+      1x HYLas beam cannon
+      1x Twin bolt cannon
+
+OTHER DATASHEETS
+
+Einhyr Hearthguard (320 Points)
+    • 1x Hesyr
+        • 1x Concussion hammer
+          1x Exo-armour grenade launcher
+          1x Teleport Crest
+          1x Volkanite disintegrator
+    • 9x Einhyr Hearthguard
+        • 9x Concussion gauntlet
+          9x Exo-armour grenade launcher
+          9x Volkanite disintegrator
+
+Einhyr Hearthguard (160 Points)
+    • 1x Hesyr
+        • 1x Concussion hammer
+          1x Exo-armour grenade launcher
+          1x Volkanite disintegrator
+          1x Weavefield Crest
+    • 4x Einhyr Hearthguard
+        • 4x Concussion gauntlet
+          4x Exo-armour grenade launcher
+          4x Volkanite disintegrator
+
+Hekaton Land Fortress (225 Points)
+    • 1x Armoured wheels
+      1x MATR autocannon
+      1x Pan Spectral Scanner
+      1x SP heavy conversion beamer
+      2x Twin bolt cannon
+
+Hekaton Land Fortress (225 Points)
+    • 1x Armoured wheels
+      1x MATR autocannon
+      1x Pan Spectral Scanner
+      1x SP heavy conversion beamer
+      2x Twin bolt cannon
+
+Hernkyn Pioneers (90 Points)
+    • 3x Hernkyn Pioneer
+        • 3x Bolt revolver
+          3x Bolt shotgun
+          1x HYLas rotary cannon
+          3x Magna-coil autocannon
+          1x Pan Spectral Scanner
+          3x Plasma knife
+          1x Rollbar Searchlight
+
+Hernkyn Pioneers (90 Points)
+    • 3x Hernkyn Pioneer
+        • 3x Bolt revolver
+          3x Bolt shotgun
+          1x HYLas rotary cannon
+          3x Magna-coil autocannon
+          1x Pan Spectral Scanner
+          3x Plasma knife
+          1x Rollbar Searchlight
+
+Hernkyn Pioneers (90 Points)
+    • 3x Hernkyn Pioneer
+        • 3x Bolt revolver
+          3x Bolt shotgun
+          1x HYLas rotary cannon
+          3x Magna-coil autocannon
+          1x Pan Spectral Scanner
+          3x Plasma knife
+          1x Rollbar Searchlight
+
+Exported with App Version: v1.13.0 (36), Data Version: v373

@@ -3,8 +3,8 @@ layout: player
 name: Julian
 displayname: Stardewd
 army: 
-team: Reroll 2 Victory
+team: Twisted Sisters
 discord: .stardewd
 filename: stardewd
-phases: [1]
+phases: [1,5]
 --- 

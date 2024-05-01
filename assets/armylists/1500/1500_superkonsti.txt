@@ -1,0 +1,58 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: SuperKonsti_1500  
+Factions used: Xenos - Necrons  
+Army Points: 1500  
+Army Enhancements:  
+Detachment Rules: Canoptek Court  
+  
+Number of Units: 15  
+Character Units (Models): 7 (7)   
+Vehicle/Monster Models (Max Points): 3 (9)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Chronomancer (85 pts)  
+   • Dimensional Sanctum  
+  
+Hexmark Destroyer (70 pts)  
+  
+Overlord (85 pts)  
+   • Overlord's blade and tachyon arrow  
+  
+Overlord with Translocation Shroud (85 pts)  
+   • Warlord  
+  
+Plasmancer (65 pts)  
+  
+Plasmancer (65 pts)  
+  
+Royal Warden (40 pts)  
+  
+  
+BATTLELINE  
+  
+Immortals (150 pts)  
+   • 10xImmortal  
+     • Tesla carbine  
+  
+Immortals (150 pts)  
+   • 10xImmortal  
+     • Gauss blaster  
+  
+Necron Warriors (200 pts)  
+   • 20xWarrior w/ gauss reaper  
+  
+OTHER DATASHEETS  
+  
+Deathmarks (60 pts)  
+   • 5xDeathmark  
+  
+Canoptek Scarab Swarms (40 pts)  
+   • 3xCanoptek Scarab Swarm  
+  
+Canoptek Doomstalker (135 pts)  
+  
+Canoptek Doomstalker (135 pts)  
+  
+Canoptek Doomstalker (135 pts)  

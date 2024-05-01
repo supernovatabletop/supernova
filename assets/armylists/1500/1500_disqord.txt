@@ -1,0 +1,61 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: 1500 pts ctan  
+Factions used: Xenos - Necrons  
+Army Points: 1500  
+Army Enhancements:  
+Detachment Rules: Hypercrypt Legion  
+  
+Number of Units: 13  
+Character Units (Models): 4 (4)   
+Vehicle/Monster Models (Max Points): 2 (6)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+C'tan Shard of the Nightbringer (295 pts)  
+  
+Overlord with Translocation Shroud (105 pts)  
+   • Osteoclave Fulcrum  
+     Warlord  
+  
+Plasmancer (90 pts)  
+   • Arisen Tyrant  
+  
+Technomancer (110 pts)  
+   • Dimensional Overseer  
+  
+  
+BATTLELINE  
+  
+Immortals (150 pts)  
+   • 10xImmortal  
+     • Tesla carbine  
+  
+OTHER DATASHEETS  
+  
+Deathmarks (60 pts)  
+   • 5xDeathmark  
+  
+Deathmarks (60 pts)  
+   • 5xDeathmark  
+  
+Lokhust Heavy Destroyers (100 pts)  
+   • 2xDestroyer w/ gauss destructor  
+  
+Lokhust Heavy Destroyers (50 pts)  
+   • Destroyer w/ gauss destructor  
+  
+Lokhust Heavy Destroyers (50 pts)  
+   • Destroyer w/ gauss destructor  
+  
+Tomb Blades (75 pts)  
+   • 2xTomb Blade  
+     • Particle beamer  
+       Shadowloom  
+     Tomb Blade  
+     • Twin tesla carbine  
+  
+Canoptek Wraiths (220 pts)  
+   • 6xWraith w/ claws and particle caster  
+  
+Canoptek Doomstalker (135 pts)  

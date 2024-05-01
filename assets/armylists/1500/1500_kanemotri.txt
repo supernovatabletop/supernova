@@ -1,0 +1,92 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Eska  
+Factions used: Xenos - Leagues of Votann  
+Army Points: 1490  
+Army Enhancements:  
+Detachment Rules: Oathband  
+  
+Number of Units: 11  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 3 (10)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Einhyr Champion (80 pts)  
+   • Appraising Glare  
+     Mass hammer  
+     Weavefield crest  
+  
+Einhyr Champion (80 pts)  
+   • Grim Demeanour  
+     Mass hammer  
+     Weavefield crest  
+  
+Kâhl (95 pts)  
+   • Mass gauntlet  
+     Rampart crest  
+     Volkanite disintegrator  
+     Warlord  
+     Wayfarer's Grace  
+  
+  
+BATTLELINE  
+  
+Hearthkyn Warriors (100 pts)  
+   • Comms array  
+     7xHearthkyn Warrior  
+     • Ion blaster  
+     2xHearthkyn Warrior w/ heavy weapon  
+     • Kin melee weapon  
+     Medipack  
+     Pan spectral scanner  
+     Theyn  
+     • Etacarn plasma pistol  
+       Kin melee weapon  
+  
+OTHER DATASHEETS  
+  
+Einhyr Hearthguard (160 pts)  
+   • 4xEinhyr Hearthguard  
+     • Concussion gauntlet  
+       Volkanite disintegrator  
+     Hesyr  
+     • Concussion hammer  
+       Volkanite disintegrator  
+       Weavefield crest  
+  
+Einhyr Hearthguard (160 pts)  
+   • 4xEinhyr Hearthguard  
+     • Concussion gauntlet  
+       Volkanite disintegrator  
+     Hesyr  
+     • Concussion hammer  
+       Teleport crest  
+       Volkanite disintegrator  
+  
+Einhyr Hearthguard (160 pts)  
+   • 4xEinhyr Hearthguard  
+     • Concussion gauntlet  
+       Volkanite disintegrator  
+     Hesyr  
+     • Concussion hammer  
+       Teleport crest  
+       Volkanite disintegrator  
+  
+Hernkyn Pioneers (90 pts)  
+   • Hernkyn Pioneer w/ HYLas rotary cannon  
+     Hernkyn Pioneer w/ pan-spectral scanner  
+     Hernkyn Pioneer w/ searchlight  
+  
+Hekaton Land Fortress (225 pts)  
+   • Pan spectral scanner  
+     SP heavy conversion beamer  
+     2xTwin ion beamer  
+  
+Hekaton Land Fortress (225 pts)  
+   • Pan spectral scanner  
+     SP heavy conversion beamer  
+     2xTwin ion beamer  
+  
+Sagitaur (115 pts)  
+   • HYLas beam cannon  

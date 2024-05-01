@@ -1,0 +1,71 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: lu_public Supernova Escalation  
+Factions used: Imperium - Grey Knights  
+Army Points: 1500  
+Army Enhancements:  
+Detachment Rules: Teleport Strike Force  
+  
+Number of Units: 9  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 2 (6)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Brotherhood Librarian (120 pts)  
+   • Combi-Weapon  
+     Warlord  
+  
+Brotherhood Librarian (120 pts)  
+   • Combi-Weapon  
+  
+Brotherhood Librarian (120 pts)  
+   • Combi-Weapon  
+  
+  
+BATTLELINE  
+  
+Brotherhood Terminator Squad (210 pts)  
+   • Justicar  
+     Terminator  
+     Terminator with Ancient's Banner  
+     • Storm Bolter  
+     Terminator with Heavy Weapon  
+     • Psycannon  
+     Terminator with Narthecium  
+  
+Brotherhood Terminator Squad (210 pts)  
+   • Justicar  
+     Terminator  
+     Terminator with Ancient's Banner  
+     • Storm Bolter  
+     Terminator with Heavy Weapon  
+     • Psycannon  
+     Terminator with Narthecium  
+  
+Brotherhood Terminator Squad (210 pts)  
+   • Justicar  
+     Terminator  
+     Terminator with Ancient's Banner  
+     • Storm Bolter  
+     Terminator with Heavy Weapon  
+     • Psycannon  
+     Terminator with Narthecium  
+  
+Strike Squad (120 pts)  
+   • 3xGrey Knight  
+     Grey Knight with Heavy Weapon  
+     • Psycannon  
+     Justicar  
+  
+OTHER DATASHEETS  
+  
+Nemesis Dreadknight (195 pts)  
+   • Heavy Incinerator  
+     Heavy Psycannon  
+     Nemesis Greatsword  
+  
+Nemesis Dreadknight (195 pts)  
+   • Heavy Incinerator  
+     Heavy Psycannon  
+     Nemesis Daemon Greathammer  

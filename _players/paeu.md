@@ -4,7 +4,7 @@ name: Pawel
 displayname: Paeu
 army: Tyranids
 team: Szczebrzeszyn
-discord: Paeu#0019
+discord: paeu
 filename: paeu
-phases: [1,2,3,4]
+phases: [1,2,3,4,5]
 --- 

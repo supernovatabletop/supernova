@@ -1,0 +1,77 @@
+GK, Escalation League: 1.500 Pts (1500 points)
+
+Grey Knights
+Strike Force (2000 points)
+Teleport Strike Force
+
+
+CHARACTERS
+
+Brotherhood Librarian (150 points)
+  • Warlord
+  • 1x Combi-weapon
+    1x Nemesis force weapon
+    1x Purge Soul
+  • Enhancement: Sigil of Exigence
+
+Brotherhood Librarian (155 points)
+  • 1x Combi-weapon
+    1x Nemesis force weapon
+    1x Purge Soul
+  • Enhancement: First to the Fray
+
+Grand Master in Nemesis Dreadknight (200 points)
+  • 1x Heavy incinerator
+    1x Heavy psycannon
+    1x Nemesis daemon greathammer
+
+
+BATTLELINE
+
+Brotherhood Terminator Squad (210 points)
+  • 1x Terminator Justicar
+    • 1x Nemesis force weapon
+      1x Storm bolter
+  • 4x Brotherhood Terminator
+    • 1x Ancient’s Banner
+      1x Incinerator
+      1x Narthecium
+      4x Nemesis force weapon
+      2x Storm bolter
+
+Brotherhood Terminator Squad (210 points)
+  • 1x Terminator Justicar
+    • 1x Nemesis force weapon
+      1x Storm bolter
+  • 4x Brotherhood Terminator
+    • 1x Ancient’s Banner
+      1x Incinerator
+      1x Narthecium
+      4x Nemesis force weapon
+      2x Storm bolter
+
+Strike Squad (120 points)
+  • 1x Justicar
+    • 1x Nemesis force weapon
+      1x Storm bolter
+  • 4x Grey Knight
+    • 1x Close combat weapon
+      1x Incinerator
+      3x Nemesis force weapon
+      3x Storm bolter
+
+
+OTHER DATASHEETS
+
+Grey Knights Land Raider Redeemer (260 points)
+  • 1x Armoured tracks
+    2x Flamestorm cannon
+    1x Hunter-killer missile
+    1x Multi-melta
+    1x Storm bolter
+    1x Twin assault cannon
+
+Nemesis Dreadknight (195 points)
+  • 1x Heavy incinerator
+    1x Heavy psycannon
+    1x Nemesis daemon greathammer

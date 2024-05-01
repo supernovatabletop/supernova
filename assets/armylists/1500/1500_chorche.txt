@@ -1,0 +1,76 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Green Tide 1500  
+Factions used: Xenos - Orks  
+Army Points: 1495  
+Army Enhancements:  
+Detachment Rules: Green Tide  
+  
+Number of Units: 15  
+Character Units (Models): 7 (7)   
+Vehicle/Monster Models (Max Points): 1 (3)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Boss Snikrot (85 pts)  
+   • Warlord  
+  
+Painboy (70 pts)  
+  
+Warboss (80 pts)  
+   • Attack squig  
+     Big choppa  
+     Bloodthirsty Belligerence  
+  
+Warboss (65 pts)  
+   • Attack squig  
+     Power klaw  
+  
+Warboss (65 pts)  
+   • Attack squig  
+     Power klaw  
+  
+Warboss in Mega Armour (100 pts)  
+   • Raucous Warcaller  
+  
+Weirdboy (55 pts)  
+  
+  
+BATTLELINE  
+  
+Boyz (170 pts)  
+   • Boss Nob  
+     • Power klaw and slugga  
+     19xBoy w/ Slugga and choppa  
+  
+Boyz (170 pts)  
+   • Boss Nob  
+     • Power klaw and slugga  
+     19xBoy w/ Slugga and choppa  
+  
+Boyz (170 pts)  
+   • Boss Nob  
+     • Power klaw and slugga  
+     19xBoy w/ Slugga and choppa  
+  
+Boyz (170 pts)  
+   • Boss Nob  
+     • Power klaw and slugga  
+     19xBoy w/ Slugga and choppa  
+  
+OTHER DATASHEETS  
+  
+Gretchin (40 pts)  
+   • 1 Runtherd and 10 Gretchin  
+     • 10xGretchin  
+       Runtherd  
+  
+Gretchin (40 pts)  
+   • 1 Runtherd and 10 Gretchin  
+     • 10xGretchin  
+       Runtherd  
+  
+Meganobz (150 pts)  
+   • 5xMeganob w/ Twin killsaw  
+  
+Trukk (65 pts)  

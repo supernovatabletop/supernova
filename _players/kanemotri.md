@@ -4,7 +4,7 @@ name: Dominik
 displayname: Kane Motri
 army: Leagues of Votann
 team: Szczebrzeszyn
-discord: KaneMotri#0055
+discord: kanemotri
 filename: kanemotri
-phases: [1,2,3,4]
+phases: [1,2,3,4,5]
 ---

@@ -2,9 +2,9 @@
 layout: player
 name: Matthias
 displayname: Askonnox
-army: 
-team: Reroll 2 Victory
-discord: Askonnox#5956
+army: Grey Knights
+team: Alliance of the Unwilling
+discord: askonnox.
 filename: askonnox
-phases: [1]
+phases: [1,5]
 ---

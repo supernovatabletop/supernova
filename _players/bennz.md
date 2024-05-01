@@ -4,7 +4,7 @@ name: Benjamin
 displayname: Bennz
 army: Chaos Daemons
 team: Chaos Dwarves
-discord: BENNZ#3804
+discord: bennz28
 filename: bennz
-phases: [1,2,3,4]
+phases: [1,2,3,4,5]
 ---
