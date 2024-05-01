@@ -2,7 +2,7 @@
 layout: player
 name: Julian
 displayname: Stardewd
-army: 
+army: Space Marines
 team: Twisted Siblings
 discord: .stardewd
 filename: stardewd
