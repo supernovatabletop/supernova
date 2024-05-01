@@ -29,7 +29,7 @@
 5:
   name: Phase V
   points: 1500
-  mission: "Primary: Take and Hold (Leviathan Tournament Companion), Mission Rule: Chilling Rain (Leviathan Tournament Companion), Board Size: 60x44"
-  map: phase5_takeandhold
+  mission: "Primary: Vital Ground (Leviathan Tournament Companion), Mission Rule: Chilling Rain (Leviathan Tournament Companion), Board Size: 60x44"
+  map: phase5_vitalground
   time_frame: Monat 5 (Mai 2024)
   paring_data: phase5
