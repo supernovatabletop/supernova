@@ -1,0 +1,59 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: New Roster  
+Factions used: Chaos - World Eaters  
+Army Points: 1490  
+Army Enhancements:  
+Detachment Rules: Berzerker Warband  
+  
+Number of Units: 8  
+Character Units (Models): 2 (2)   
+Vehicle/Monster Models (Max Points): 2 (7)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Angron (415 pts)  
+   • Warlord  
+  
+Lord Invocatus (140 pts)  
+  
+  
+BATTLELINE  
+  
+Jakhals (65 pts)  
+   • B: 1 mauler chainblade, 7 chainblades  
+     • Jakhal w/ mauler chainblade  
+       7xJakhals  
+     Dishonoured w/ skullsmasher  
+     Jakhal Pack Leader  
+  
+Jakhals (65 pts)  
+   • B: 1 mauler chainblade, 7 chainblades  
+     • Jakhal w/ mauler chainblade  
+       7xJakhals  
+     Dishonoured w/ skullsmasher  
+     Jakhal Pack Leader  
+  
+OTHER DATASHEETS  
+  
+Eightbound (145 pts)  
+   • 2xEightbound  
+     Eightbound Champion  
+     • Lacerators  
+  
+Exalted Eightbound (160 pts)  
+   • 2xExalted Eightbound  
+     Exalted Eightbound Champion  
+     • Eviscerator and chainfist  
+  
+World Eaters Terminator Squad (360 pts)  
+   • 5xCombi-bolter, power fist  
+     2xHeavy weapon  
+     • Chainfist  
+       Reaper autocannon  
+     2xPaired accursed weapons  
+     Terminator Champion  
+     • Combi-bolter, power fist  
+  
+World Eaters Maulerfiend (140 pts)  
+   • Lasher tendrils  
