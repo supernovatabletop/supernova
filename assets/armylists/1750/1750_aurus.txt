@@ -1,0 +1,85 @@
+Emperor's Chosen - League (1745 points)
+
+Adeptus Custodes
+Strike Force (2000 points)
+Shield Host
+
+
+CHARACTERS
+
+Blade Champion (125 points)
+  • 1x Vaultswords
+  • Enhancement: Auric Mantle
+
+Trajann Valoris (150 points)
+  • Warlord
+  • 1x Eagle’s Scream
+    1x Watcher’s Axe
+
+
+BATTLELINE
+
+Custodian Guard (180 points)
+  • 4x Custodian Guard
+    • 2x Guardian spear
+      1x Misericordia
+      1x Praesidium Shield
+      1x Praesidium Shield
+      1x Sentinel blade
+      1x Vexilla
+
+Custodian Guard (225 points)
+  • 5x Custodian Guard
+    • 5x Guardian spear
+
+
+OTHER DATASHEETS
+
+Allarus Custodians (195 points)
+  • 3x Allarus Custodian
+    • 3x Balistus grenade launcher
+      1x Castellan axe
+      2x Guardian spear
+
+Caladius Grav-tank (215 points)
+  • 1x Armoured hull
+    1x Twin arachnus heavy blaze cannon
+    1x Twin lastrum bolt cannon
+
+Custodian Wardens (250 points)
+  • 5x Custodian Warden
+    • 5x Guardian spear
+      1x Vexilla
+
+Prosecutors (40 points)
+  • 1x Prosecutor Sister Superior
+    • 1x Boltgun
+      1x Close combat weapon
+  • 3x Prosecutor
+    • 3x Boltgun
+      3x Close combat weapon
+
+Prosecutors (40 points)
+  • 1x Prosecutor Sister Superior
+    • 1x Boltgun
+      1x Close combat weapon
+  • 3x Prosecutor
+    • 3x Boltgun
+      3x Close combat weapon
+
+Venerable Land Raider (240 points)
+  • 1x Armoured tracks
+    2x Godhammer lascannon
+    1x Hunter-killer missile
+    1x Storm bolter
+    1x Twin heavy bolter
+
+
+ALLIED UNITS
+
+Lord Inquisitor Kyria Draxus (85 points)
+  • 1x Dirgesinger
+    1x Power fist
+    1x Psychic Tempest
+
+Exported with App Version: v1.16.0 (44), Data Version: v400
