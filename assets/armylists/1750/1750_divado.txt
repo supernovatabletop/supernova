@@ -1,0 +1,50 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Escalation League (Phase VI)  
+Factions used: Imperium - Adeptus Custodes  
+Army Points: 1740  
+Army Enhancements:  
+Detachment Rules:   
+  
+Number of Units: 10  
+Character Units (Models): 4 (4)   
+Vehicle/Monster Models (Max Points): 1 (4)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Shield-Captain in Allarus Terminator Armour (170 pts)  
+   • Guardian Spear  
+     Radiant Mantle  
+     Warlord  
+  
+Shield-Captain in Allarus Terminator Armour (140 pts)  
+   • Guardian Spear  
+  
+Shield-Captain on Dawneagle Jetbike (140 pts)  
+   • Salvo launcher  
+  
+  
+BATTLELINE  
+  
+Custodian Guard (225 pts)  
+   • 5xCustodian Guard (Guardian Spear)  
+  
+OTHER DATASHEETS  
+  
+Allarus Custodians (325 pts)  
+   • 5xAllarus Custodian (Guardian Spear)  
+  
+Allarus Custodians (325 pts)  
+   • 5xAllarus Custodian (Guardian Spear)  
+  
+Prosecutors (40 pts)  
+   • 3xProsecutor  
+     Prosecutor Sister Superior  
+  
+Witchseekers (50 pts)  
+   • 3xWitchseeker  
+     Witchseeker Sister Superior  
+  
+Venerable Land Raider (240 pts)  
+  
+Lord Inquisitor Kyria Draxus (85 pts)  

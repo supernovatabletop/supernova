@@ -1,0 +1,84 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Might of Metal 1,75k  
+Factions used: Imperium - Adeptus Mechanicus  
+Army Points: 1730  
+Army Enhancements:  
+Detachment Rules: Rad Zone Corps  
+  
+Number of Units: 16  
+Character Units (Models): 7 (7)   
+Vehicle/Monster Models (Max Points): 4 (12)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Skitarii Marshal (35 pts)  
+  
+Tech-Priest Dominus (95 pts)  
+   • Macrostubber  
+     Malphonic Susurrus  
+     Volkite blaster  
+  
+Tech-Priest Dominus (95 pts)  
+   • Macrostubber  
+     Peerless Eradicator  
+     Volkite blaster  
+     Warlord  
+  
+Tech-Priest Enginseer (45 pts)  
+  
+Tech-Priest Enginseer (45 pts)  
+  
+Tech-Priest Manipulus (80 pts)  
+   • Radial Suffusion  
+     Transonic cannon  
+  
+Tech-Priest Manipulus (55 pts)  
+   • Magnarail lance  
+  
+  
+BATTLELINE  
+  
+Skitarii Rangers (80 pts)  
+   • Skitarii Ranger Alpha  
+     • Alpha combat weapon  
+       Galvanic rifle  
+     6xSkitarii Ranger w/ galvanic rifle  
+     Skitarii Ranger w/ omnispex  
+     Skitarii Ranger w/ plasma caliver  
+     Skitarii Ranger w/ transuranic arquebus  
+  
+Skitarii Rangers (80 pts)  
+   • Skitarii Ranger Alpha  
+     • Alpha combat weapon  
+       Galvanic rifle  
+     6xSkitarii Ranger w/ galvanic rifle  
+     Skitarii Ranger w/ omnispex  
+     Skitarii Ranger w/ plasma caliver  
+     Skitarii Ranger w/ transuranic arquebus  
+  
+Skitarii Vanguard (80 pts)  
+   • Skitarii Vanguard Alpha  
+     • Radium carbine  
+     Skitarii Vanguard w/ omnispex  
+     Skitarii Vanguard w/ plasma caliver  
+     6xSkitarii Vanguard w/ radium carbine  
+     Skitarii Vanguard w/ transuranic arquebus  
+  
+OTHER DATASHEETS  
+  
+Kataphron Breachers (290 pts)  
+   • 6xKataphron Breacher (Heavy arc rifle & hydraulic claw)  
+  
+Kataphron Breachers (290 pts)  
+   • 6xKataphron Breacher (Heavy arc rifle & hydraulic claw)  
+  
+Onager Dunecrawler (130 pts)  
+   • Eradication beamer  
+  
+Skorpius Disintegrator (170 pts)  
+   • Ferumite cannon  
+  
+Skorpius Dunerider (80 pts)  
+  
+Skorpius Dunerider (80 pts)  

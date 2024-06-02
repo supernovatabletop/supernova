@@ -1,0 +1,94 @@
+Black Warriors (1735 points)
+
+Chaos Space Marines
+Strike Force (2000 points)
+Fellhammer Siege-host
+
+CHARACTERS
+
+Abaddon the Despoiler (295 points)
+  • Warlord
+  • 1x Drach’nyen
+    1x Talon of Horus
+
+Chaos Lord (100 points)
+  • 1x Daemon hammer
+    1x Plasma pistol
+  • Enhancement: Iron Artifice
+
+Chaos Lord in Terminator Armour (105 points)
+  • 1x Combi-bolter
+    1x Exalted weapon
+  • Enhancement: Bastion Plate
+
+BATTLELINE
+
+Legionaries (160 points)
+  • 1x Aspiring Champion
+    • 1x Accursed weapon
+      1x Close combat weapon
+      1x Plasma pistol
+  • 9x Legionary
+    • 4x Astartes chainsword
+      9x Bolt pistol
+      3x Boltgun
+      1x Chaos Icon
+      9x Close combat weapon
+      1x Heavy bolter
+      1x Missile launcher
+
+DEDICATED TRANSPORTS
+
+Chaos Rhino (75 points)
+  • 1x Armoured tracks
+    1x Combi-bolter
+    1x Combi-bolter
+    1x Havoc launcher
+
+OTHER DATASHEETS
+
+Chaos Terminator Squad (185 points)
+  • 1x Terminator Champion
+    • 1x Accursed weapon
+      1x Combi-bolter
+  • 4x Chaos Terminator
+    • 1x Accursed weapon
+      1x Chainfist
+      1x Combi-bolter
+      2x Combi-weapon
+      2x Power fist
+      1x Reaper autocannon
+
+Chosen (125 points)
+  • 1x Chosen Champion
+    • 1x Accursed weapon
+      1x Bolt pistol
+      1x Boltgun
+  • 4x Chosen
+    • 3x Accursed weapon
+      4x Bolt pistol
+      2x Boltgun
+      1x Chaos Icon
+      2x Combi-weapon
+      1x Power fist
+
+Forgefiend (190 points)
+  • 1x Armoured limbs
+    3x Ectoplasma cannon
+
+Obliterators (170 points)
+  • 2x Obliterator
+    • 2x Crushing fists
+      2x Fleshmetal guns
+
+Venomcrawler (110 points)
+  • 2x Excruciator cannon
+    1x Soulflayer tendrils and claws
+
+Warp Talons (220 points)
+  • 1x Warp Talon Champion
+    • 1x Warp claws
+  • 9x Warp Talon
+    • 9x Warp claws
+
+Exported with App Version: v1.15.0 (43), Data Version: v397

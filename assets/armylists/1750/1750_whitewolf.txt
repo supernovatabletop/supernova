@@ -1,0 +1,81 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: WhiteWolfAT 1500 Punkte Escalation Leauge  
+Factions used: Imperium - Adeptus Astartes - Dark Angels  
+Army Points: 1750  
+Army Enhancements:  
+Detachment Rules: Gladius Task Force  
+  
+Number of Units: 13  
+Character Units (Models): 5 (5)   
+Vehicle/Monster Models (Max Points): 3 (9)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Azrael (105 pts)  
+  
+Lion El'Jonson (300 pts)  
+   • Warlord  
+  
+Apothecary Biologis (55 pts)  
+  
+Captain in Terminator Armour (95 pts)  
+   • Relic Fist  
+     Storm Bolter  
+  
+Lieutenant (95 pts)  
+   • Fire Discipline  
+     Pistol, Master-crafted Bolt Rifle & Melee Weapon  
+     • Bolt Pistol  
+       Close Combat Weapon  
+       Master-crafted Bolt Rifle  
+  
+  
+BATTLELINE  
+  
+Intercessor Squad (80 pts)  
+   • Intercessor Sergeant  
+     • Bolt Rifle  
+       Power Fist  
+     4xIntercessors  
+  
+OTHER DATASHEETS  
+  
+Bladeguard Veteran Squad (180 pts)  
+   • Bladeguard Veteran Sergeant  
+     • Neo-volkite Pistol  
+     5xBladeguard Veterans  
+  
+Deathwing Terminator Squad (180 pts)  
+   • Deathwing Sergeant  
+     3xDeathwing Terminator  
+     Deathwing Terminator w/ Heavy Weapon  
+     • Cyclone Missile Launcher & Storm Bolter  
+       Power Fist  
+  
+Hellblaster Squad (230 pts)  
+   • 9xHellblaster  
+     Hellblaster Sergeant  
+     • Plasma Pistol  
+  
+Scout Squad (65 pts)  
+   • Scout Sergeant  
+     • Astartes Shotgun  
+     Scout w/ Heavy Weapon  
+     • Missile Launcher  
+     Scout w/ Scout Sniper Rifle  
+     2xScouts w/ Astartes Shotgun  
+  
+Scout Squad (65 pts)  
+   • Scout Sergeant  
+     • Astartes Shotgun  
+     Scout w/ Heavy Weapon  
+     • Missile Launcher  
+     Scout w/ Scout Sniper Rifle  
+     2xScouts w/ Astartes Shotgun  
+  
+Ballistus Dreadnought (140 pts)  
+  
+Brutalis Dreadnought (160 pts)  
+   • Brutalis Fists & Brutalis Bolt Rifles  
+     Twin Multi-melta  

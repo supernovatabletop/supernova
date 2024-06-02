@@ -1,0 +1,108 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Salkinus  
+Factions used: Imperium - Adepta Sororitas  
+Army Points: 1740  
+Army Enhancements:  
+Detachment Rules: Hallowed Martyrs Detachment  
+  
+Number of Units: 16  
+Character Units (Models): 3 (3)   
+Vehicle/Monster Models (Max Points): 10 (25)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Morvenn Vahl (145 pts)  
+   • Warlord  
+  
+Saint Celestine (135 pts)  
+   • 2xGeminae Superia  
+     Saint Celestine  
+  
+Palatine (50 pts)  
+   • Plasma pistol  
+  
+  
+BATTLELINE  
+  
+Battle Sisters Squad (100 pts)  
+   • 6xBattle Sister  
+     Battle Sister w/ Simulacrum Imperialus  
+     Battle Sister w/ Special Weapon  
+     • Artificer-crafted storm bolter  
+     Battle Sister w/ Special or Heavy Weapon  
+     • Heavy bolter  
+     Sister Superior  
+     • Combi-weapon  
+       Power weapon  
+  
+Battle Sisters Squad (100 pts)  
+   • 6xBattle Sister  
+     Battle Sister w/ Simulacrum Imperialus  
+     Battle Sister w/ Special Weapon  
+     • Artificer-crafted storm bolter  
+     Battle Sister w/ Special or Heavy Weapon  
+     • Ministorum heavy flamer  
+     Sister Superior  
+     • Condemnor boltgun  
+       Power weapon  
+  
+OTHER DATASHEETS  
+  
+Arco-Flagellants (50 pts)  
+   • 3xArco-Flagellant  
+  
+Dominion Squad (110 pts)  
+   • 4xDominion  
+     Dominion Superior  
+     • Plasma pistol  
+       Power weapon  
+     Dominion w/ Simulacrum Imperialis  
+     4xDominion w/ Special Weapon  
+     • Meltagun  
+  
+Seraphim Squad (70 pts)  
+   • 2xSeraphim  
+     Seraphim Superior  
+     • Plasma Pistol and Power Weapon  
+     2xSeraphim with Special Weapons  
+     • 2xMinistorum Hand Flamers  
+  
+Seraphim Squad (70 pts)  
+   • 2xSeraphim  
+     Seraphim Superior  
+     • Plasma Pistol and Power Weapon  
+     2xSeraphim with Special Weapons  
+     • 2xMinistorum Hand Flamers  
+  
+Castigator (140 pts)  
+   • Castigator battle cannon  
+     Hunter-Killer Missile  
+     Storm bolter  
+  
+Castigator (140 pts)  
+   • Castigator battle cannon  
+     Hunter-Killer Missile  
+     Storm bolter  
+  
+Exorcist (180 pts)  
+   • Exorcist Missile Launcher  
+  
+Paragon Warsuits (170 pts)  
+   • Paragon Superior  
+     • Multi-melta  
+       Paragon Storm Bolters  
+       Paragon War Mace  
+     2xParagon Warsuit  
+     • Multi-melta  
+       Paragon Storm Bolters  
+       Paragon War Mace  
+  
+Penitent Engines (55 pts)  
+   • Penitent Engine  
+     • Penitent Buzz-Blade and Penitent Flail  
+  
+Sororitas Rhino (75 pts)  
+  
+Armiger Warglaive (150 pts)  
+   • Meltagun  

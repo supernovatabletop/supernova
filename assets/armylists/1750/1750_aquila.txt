@@ -1,0 +1,139 @@
+1750 alt (1745 Points)
+
+Leagues of Votann
+Oathband
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Brôkhyr Iron-master (65 Points)
+    • 1x Brôkhyr Iron-master
+        • 1x Graviton hammer
+          1x Graviton rifle
+    • 1x Ironkin Assistant
+        • 1x Close combat weapon
+          1x Las-beam cutter
+    • 1x E-COG
+        • 1x Plasma torch
+    • 1x E-COG
+        • 1x Manipulator arms
+    • 1x E-COG
+        • 1x Autoch-pattern bolt pistol
+          1x Close combat weapon
+
+Einhyr Champion (80 Points)
+    • Warlord
+    • 1x Autoch-pattern combi-bolter
+      1x Mass hammer
+      1x Weavefield Crest
+    • Enhancements: Appraising Glare
+
+Einhyr Champion (60 Points)
+    • 1x Autoch-pattern combi-bolter
+      1x Mass hammer
+      1x Weavefield Crest
+
+BATTLELINE
+
+Hearthkyn Warriors (100 Points)
+    • 1x Theyn
+        • 1x Close combat weapon
+          1x EtaCarn plasma pistol
+          1x Kin melee weapon
+          1x Weavefield Crest
+    • 9x Hearthkyn Warrior
+        • 9x Autoch-pattern bolt pistol
+          9x Close combat weapon
+          1x Comms Array
+          1x HYLas auto rifle
+          7x Ion blaster
+          1x Magna-rail rifle
+          1x Medipack
+          1x Pan Spectral Scanner
+
+DEDICATED TRANSPORTS
+
+Sagitaur (115 Points)
+    • 1x Armoured wheels
+      1x HYLas beam cannon
+      1x Twin bolt cannon
+
+Sagitaur (115 Points)
+    • 1x Armoured wheels
+      1x HYLas beam cannon
+      1x Twin bolt cannon
+
+OTHER DATASHEETS
+
+Brôkhyr Thunderkyn (170 Points)
+    • 6x Brôkhyr Thunderkyn
+        • 6x Close combat weapon
+          6x Graviton blast cannon
+
+Einhyr Hearthguard (160 Points)
+    • 1x Hesyr
+        • 1x Concussion hammer
+          1x Exo-armour grenade launcher
+          1x Volkanite disintegrator
+          1x Weavefield Crest
+    • 4x Einhyr Hearthguard
+        • 4x Concussion gauntlet
+          4x Exo-armour grenade launcher
+          4x Volkanite disintegrator
+
+Einhyr Hearthguard (160 Points)
+    • 1x Hesyr
+        • 1x Concussion hammer
+          1x Exo-armour grenade launcher
+          1x Volkanite disintegrator
+          1x Weavefield Crest
+    • 4x Einhyr Hearthguard
+        • 4x Concussion gauntlet
+          4x Exo-armour grenade launcher
+          4x Volkanite disintegrator
+
+Hekaton Land Fortress (225 Points)
+    • 1x Armoured wheels
+      1x MATR autocannon
+      1x Pan Spectral Scanner
+      1x SP heavy conversion beamer
+      2x Twin bolt cannon
+
+Hekaton Land Fortress (225 Points)
+    • 1x Armoured wheels
+      1x MATR autocannon
+      1x Pan Spectral Scanner
+      1x SP heavy conversion beamer
+      2x Twin bolt cannon
+
+Hernkyn Pioneers (90 Points)
+    • 3x Hernkyn Pioneer
+        • 3x Bolt revolver
+          3x Bolt shotgun
+          1x HYLas rotary cannon
+          3x Magna-coil autocannon
+          1x Pan Spectral Scanner
+          3x Plasma knife
+          1x Rollbar Searchlight
+
+Hernkyn Pioneers (90 Points)
+    • 3x Hernkyn Pioneer
+        • 3x Bolt revolver
+          3x Bolt shotgun
+          1x HYLas rotary cannon
+          3x Magna-coil autocannon
+          1x Pan Spectral Scanner
+          3x Plasma knife
+          1x Rollbar Searchlight
+
+Hernkyn Pioneers (90 Points)
+    • 3x Hernkyn Pioneer
+        • 3x Bolt revolver
+          3x Bolt shotgun
+          1x HYLas rotary cannon
+          3x Magna-coil autocannon
+          1x Pan Spectral Scanner
+          3x Plasma knife
+          1x Rollbar Searchlight
+
+Exported with App Version: v1.16.0 (39), Data Version: v400
