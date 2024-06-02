@@ -1,0 +1,72 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Speedfreaks 1750  
+Factions used: Xenos - Orks  
+Army Points: 1750  
+Army Enhancements:  
+Detachment Rules: Kult of Speed  
+  
+Number of Units: 14  
+Character Units (Models): 4 (4)   
+Vehicle/Monster Models (Max Points): 14 (31)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Zodgrod Wortsnagga (80 pts)  
+   • Warlord  
+  
+Beastboss (115 pts)  
+   • Fasta Than Yooz  
+  
+Deffkilla Wartrike (90 pts)  
+   • Wazblasta  
+  
+Warboss (65 pts)  
+   • Attack squig  
+     Power klaw  
+  
+  
+BATTLELINE  
+  
+Beast Snagga Boyz (210 pts)  
+   • 19xBeast Snagga Boy  
+     Beast Snagga Nob  
+  
+Boyz (85 pts)  
+   • Boss Nob  
+     • Power klaw and slugga  
+     9xBoy w/ Slugga and choppa  
+  
+OTHER DATASHEETS  
+  
+Burna Boyz (60 pts)  
+   • 1 Spanner and 4 Burna Boyz  
+     • 4xBurna Boy  
+       Spanner  
+       • Big shoota  
+  
+Gretchin (80 pts)  
+   • 2 Runtherds and 20 Gretchin  
+     • 20xGretchin  
+       2xRuntherd  
+  
+Nobz (210 pts)  
+   • 2xAmmo Runt  
+     Boss Nob  
+     • Slugga and power klaw  
+     9xNob w/ Slugga and power klaw  
+  
+Warbikers (140 pts)  
+   • Boss Nob on Warbike  
+     • Power klaw  
+     5xWarbiker w/ Choppa  
+  
+Deffkoptas (200 pts)  
+   • 6xDeffkopta  
+  
+Deffkoptas (200 pts)  
+   • 6xDeffkopta  
+  
+Hunta Rig (150 pts)  
+  
+Trukk (65 pts)  

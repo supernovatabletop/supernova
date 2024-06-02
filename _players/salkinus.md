@@ -6,5 +6,5 @@ army: Adepta Sororitas
 team: Twisted Siblings
 discord: salkinus
 filename: salkinus
-phases: [1,2,3,4,5]
+phases: [1,2,3,4,5,6]
 ---

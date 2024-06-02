@@ -1,0 +1,70 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Lu_public escalation  
+Factions used: Imperium - Grey Knights  
+Army Points: 1750  
+Army Enhancements:  
+Detachment Rules: Teleport Strike Force  
+  
+Number of Units: 10  
+Character Units (Models): 5 (5)   
+Vehicle/Monster Models (Max Points): 2 (6)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Castellan Crowe (75 pts)  
+  
+Kaldor Draigo (125 pts)  
+   • Warlord  
+  
+Brotherhood Librarian (120 pts)  
+   • Combi-Weapon  
+  
+Brotherhood Librarian (120 pts)  
+   • Combi-Weapon  
+  
+Grand Master in Nemesis Dreadknight (235 pts)  
+   • First to the Fray  
+     Heavy Incinerator  
+     Heavy Psycannon  
+     Nemesis Daemon Greathammer  
+  
+  
+BATTLELINE  
+  
+Brotherhood Terminator Squad (210 pts)  
+   • Justicar  
+     Terminator  
+     Terminator with Ancient's Banner  
+     • Storm Bolter  
+     Terminator with Heavy Weapon  
+     • Psycannon  
+     Terminator with Narthecium  
+  
+Brotherhood Terminator Squad (210 pts)  
+   • Justicar  
+     Terminator  
+     Terminator with Ancient's Banner  
+     • Storm Bolter  
+     Terminator with Heavy Weapon  
+     • Psycannon  
+     Terminator with Narthecium  
+  
+Brotherhood Terminator Squad (210 pts)  
+   • Justicar  
+     Terminator  
+     Terminator with Ancient's Banner  
+     • Storm Bolter  
+     Terminator with Heavy Weapon  
+     • Psycannon  
+     Terminator with Narthecium  
+  
+OTHER DATASHEETS  
+  
+Purifier Squad (250 pts)  
+   • Knight of the Flame  
+     5xPurifier  
+     4xPurifier w/ incinerator  
+  
+Nemesis Dreadknight (195 pts)  
+   • Dreadfists  

@@ -1,0 +1,57 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: 1750  
+Factions used: Imperium - Adeptus Astartes - Dark Angels  
+Army Points: 1750  
+Army Enhancements:  
+Detachment Rules: Ironstorm Spearhead  
+  
+Number of Units: 10  
+Character Units (Models): 1 (1)   
+Vehicle/Monster Models (Max Points): 7 (24)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Techmarine (95 pts)  
+   • Target Augury Web [Aura]  
+     Warlord  
+  
+  
+OTHER DATASHEETS  
+  
+Deathwing Terminator Squad (180 pts)  
+   • Deathwing Sergeant  
+     3xDeathwing Terminator  
+     Deathwing Terminator w/ Heavy Weapon  
+     • Plasma Cannon  
+       Power Fist  
+  
+Terminator Squad (175 pts)  
+   • Terminator Sergeant  
+     • Power Weapon  
+     Terminator w/ Heavy Weapon  
+     • Cyclone Missile Launcher & Storm Bolter  
+     3xTerminator w/ Power Fist  
+  
+Brutalis Dreadnought (160 pts)  
+   • Brutalis Talons  
+     Twin Multi-melta  
+  
+Brutalis Dreadnought (160 pts)  
+   • Brutalis Talons  
+     Twin Multi-melta  
+  
+Gladiator Lancer (160 pts)  
+   • 2 Storm Bolters  
+  
+Gladiator Lancer (160 pts)  
+   • 2 Storm Bolters  
+  
+Repulsor Executioner (220 pts)  
+   • Heavy Laser Destroyer  
+  
+Repulsor Executioner (220 pts)  
+   • Heavy Laser Destroyer  
+  
+Repulsor Executioner (220 pts)  
+   • Heavy Laser Destroyer  

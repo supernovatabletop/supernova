@@ -1,0 +1,55 @@
+++ Army Roster (Chaos - Chaos Daemons) [1,745pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Daemonic Incursion
+
+Khorne Daemons are visible
+
+Nurgle Daemons are visible
+
+Show/Hide Options: Chaos Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
+Slaanesh Daemons are visible
+
+Tzeentch Daemons are visible
+
++ Epic Hero +
+
+Be'lakor [350pts]: Warlord
+
+Kairos Fateweaver [270pts]
+
+Skarbrand [305pts]
+
++ Character +
+
+Rendmaster on Blood Throne [150pts]
+
++ Battleline +
+
+Bloodletters [120pts]: Daemonic Icon, Instrument of Chaos
+. 9x Bloodletter: 9x Hellblade
+
+Nurglings [40pts]
+. 3x Nurgling Swarm: 3x Diseased claws and teeth
+
++ Mounted +
+
+Bloodcrushers [220pts]: Daemonic Icon, Instrument of Chaos
+. 5x Bloodcrusher: 5x Hellblade, 5x Juggernaut's bladed horn
+
+Bloodcrushers [220pts]: Daemonic Icon, Instrument of Chaos
+. 5x Bloodcrusher: 5x Hellblade, 5x Juggernaut's bladed horn
+
++ Beast +
+
+Flesh Hounds [70pts]
+. 4x Flesh Hound: 4x Collar of Khorne, 4x Gore-drenched fangs
+. Gore Hound
+
+++ Total: [1,745pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

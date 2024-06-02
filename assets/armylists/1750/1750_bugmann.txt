@@ -1,0 +1,68 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: New Roster  
+Factions used: Imperium - Astra Militarum  
+Army Points: 1725  
+Army Enhancements:  
+Detachment Rules: Combined Regiment  
+  
+Number of Units: 9  
+Character Units (Models): 2 (2)   
+Vehicle/Monster Models (Max Points): 11 (32)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Tank Commander (220 pts)  
+   • Exterminator Autocannon  
+     Grand Strategist  
+     Heavy Stubber  
+     Hunter-killer Missile  
+     Lascannon  
+     Two Multi-meltas  
+  
+Tank Commander (205 pts)  
+   • Exterminator Autocannon  
+     Heavy Stubber  
+     Hunter-killer Missile  
+     Lascannon  
+     Two Multi-meltas  
+     Warlord  
+  
+  
+OTHER DATASHEETS  
+  
+Armoured Sentinels (210 pts)  
+   • 3xArmoured Sentinel  
+     • Lascannon  
+  
+Hellhound (115 pts)  
+   • Inferno Cannon  
+     Multi-melta  
+  
+Hellhound (115 pts)  
+   • Inferno Cannon  
+     Multi-melta  
+  
+Leman Russ Battle Tank (170 pts)  
+   • 2 Multi-meltas  
+     Armoured Tracks  
+     Hunter-killer Missile  
+     Lascannon  
+  
+Leman Russ Battle Tank (170 pts)  
+   • 2 Multi-meltas  
+     Armoured Tracks  
+     Hunter-killer Missile  
+     Lascannon  
+  
+Rogal Dorn Battle Tank (260 pts)  
+   • 2 Meltaguns  
+     2 Multi-meltas  
+     Oppressor Cannon and Co-axial Autocannon  
+     Pulveriser Cannon  
+  
+Rogal Dorn Battle Tank (260 pts)  
+   • 2 Meltaguns  
+     2 Multi-meltas  
+     Oppressor Cannon and Co-axial Autocannon  
+     Pulveriser Cannon  

@@ -1,0 +1,64 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: SuperKonsti_1750_Eskalation  
+Factions used: Xenos - Necrons  
+Army Points: 1745  
+Army Enhancements:  
+Detachment Rules: Awakened Dynasty  
+  
+Number of Units: 16  
+Character Units (Models): 7 (7)   
+Vehicle/Monster Models (Max Points): 4 (11)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Catacomb Command Barge (145 pts)  
+   • Enaegic Dermal Bond  
+     Gauss cannon  
+     Overlord's blade  
+  
+Chronomancer (65 pts)  
+  
+Hexmark Destroyer (105 pts)  
+   • Phasal Subjugator  
+  
+Overlord with Translocation Shroud (105 pts)  
+   • Veil of Darkness  
+     Warlord  
+  
+Plasmancer (65 pts)  
+  
+Royal Warden (40 pts)  
+  
+Skorpekh Lord (80 pts)  
+  
+  
+BATTLELINE  
+  
+Immortals (150 pts)  
+   • 10xImmortal  
+     • Tesla carbine  
+  
+Immortals (150 pts)  
+   • 10xImmortal  
+     • Tesla carbine  
+  
+OTHER DATASHEETS  
+  
+Deathmarks (60 pts)  
+   • 5xDeathmark  
+  
+Ophydian Destroyers (90 pts)  
+   • 3xOphydian Destroyer  
+  
+Skorpekh Destroyers (180 pts)  
+   • 6xSkorpekh Destroyer  
+  
+Canoptek Scarab Swarms (40 pts)  
+   • 3xCanoptek Scarab Swarm  
+  
+Canoptek Doomstalker (135 pts)  
+  
+Canoptek Doomstalker (135 pts)  
+  
+Doomsday Ark (200 pts)  

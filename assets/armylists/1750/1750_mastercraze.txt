@@ -1,0 +1,90 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+Army name: Pure Harlequins  
+Factions used: Aeldari - Craftworlds  
+Army Points: 1745  
+Army Enhancements:  
+Detachment Rules: Battle Host  
+  
+Number of Units: 16  
+Character Units (Models): 4 (4)   
+Vehicle/Monster Models (Max Points): 6 (12)   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
+CHARACTERS  
+  
+Solitaire (115 pts)  
+  
+Death Jester (105 pts)  
+   • Fate's Messenger  
+  
+Shadowseer (60 pts)  
+   • Shuriken Pistol  
+  
+Troupe Master (55 pts)  
+   • Fusion Pistol  
+     Troupe Master Warlord  
+     • Warlord  
+     Troupe Master's Blade  
+  
+  
+OTHER DATASHEETS  
+  
+Troupe (75 pts)  
+   • Lead Player  
+     • Aeldari power sword  
+       Fusion Pistol  
+     Player  
+     Player with Fusion Pistol  
+     • Harlequin's Special Weapon  
+     2xPlayer with Neuro Disruptor  
+     • Harlequin's Special Weapon  
+  
+Troupe (75 pts)  
+   • Lead Player  
+     • Aeldari power sword  
+       Fusion Pistol  
+     Player  
+     Player with Fusion Pistol  
+     • Harlequin's Special Weapon  
+     2xPlayer with Neuro Disruptor  
+     • Harlequin's Special Weapon  
+  
+Troupe (75 pts)  
+   • Lead Player  
+     • Aeldari power sword  
+       Fusion Pistol  
+     Player  
+     Player with Fusion Pistol  
+     • Harlequin's Special Weapon  
+     2xPlayer with Neuro Disruptor  
+     • Harlequin's Special Weapon  
+  
+Skyweavers (190 pts)  
+   • 4xSkyweaver  
+     • Skyweaver Haywire Cannon  
+       Zephyrglaive  
+  
+Skyweavers (190 pts)  
+   • 4xSkyweaver  
+     • Shuriken Cannon  
+       Star Bolas  
+  
+Skyweavers (190 pts)  
+   • 4xSkyweaver  
+     • Skyweaver Haywire Cannon  
+       Zephyrglaive  
+  
+Voidweaver (125 pts)  
+   • Prismatic Cannon  
+  
+Voidweaver (125 pts)  
+   • Prismatic Cannon  
+  
+Voidweaver (125 pts)  
+   • Prismatic Cannon  
+  
+Starweaver (80 pts)  
+  
+Starweaver (80 pts)  
+  
+Starweaver (80 pts)  
