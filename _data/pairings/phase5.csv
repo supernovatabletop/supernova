@@ -2,8 +2,8 @@ player_a,player_b,present_a,present_b,painted_a,painted_b,score,winner
 aquila,chuhonez,true,true,false,true,71-19,aquila
 aquila,stardewd,false,false,false,false,46-49,stardewd
 army,divado,true,true,false,false,65-0,army
-army,lu_public,true,true,false,true,21-4,army
-askonnox,lu_public,true,true,false,true,78-36,askonnox
+army,lupublic,true,true,false,true,21-4,army
+askonnox,lupublic,true,true,false,true,78-36,askonnox
 askonnox,rem,true,true,false,false,53-81,rem
 aurus,superkonsti,true,true,false,true,24-39,aurus
 aurus,wagrainer,true,true,false,false,71-86,wagrainer
