@@ -1,5 +1,5 @@
 player_a,player_b,present_a,present_b,painted_a,painted_b,score,winner
-aquila,lu_public,true,true,true,true,88-44,aquila
+aquila,lupublic,true,true,true,true,88-44,aquila
 aquila,mastercraze,true,true,true,true,90-50,
 army,askonnox,true,true,false,true,50-90,askonnox
 army,whitewolf,true,true,false,true,96-50,army
@@ -16,6 +16,6 @@ disqord,schwarmbruder,true,true,true,true,60-81,disqord
 divado,ekko,true,true,false,true,33-62,ekko
 divado,salkinus,true,true,false,true,58-59,salkinus
 empix,scurvymcg,true,true,false,false,42-82,scurvymcg
-lu_public,paenu,true,true,true,false,74-51,paenu
+lupublic,paenu,true,true,true,false,74-51,paenu
 mastercraze,whitewolf,true,true,true,true,84-60,mastercraze
 paenu,salkinus,true,true,false,true,25-52,salkinus
