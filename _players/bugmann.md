@@ -6,5 +6,5 @@ army: Space Marines
 team: Der Eine und der Andere
 discord: bugmann
 filename: bugmann
-phases: [1,2,3,4,5,6]
+phases: [1,2,3,4,5,6,7]
 ---

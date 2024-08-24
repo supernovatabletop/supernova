@@ -6,5 +6,5 @@ army: Dark Angels
 team: The Emperor Protects
 discord: ekkothebiene
 filename: ekko
-phases: [1,2,3,4,5,6]
+phases: [1,2,3,4,5,6,7]
 ---

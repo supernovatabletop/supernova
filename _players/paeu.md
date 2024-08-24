@@ -6,5 +6,5 @@ army: Tyranids
 team: Szczebrzeszyn
 discord: paeu
 filename: paeu
-phases: [1,2,3,4,5]
+phases: [1,2,3,4,5,7]
 --- 

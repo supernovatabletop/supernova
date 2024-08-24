@@ -6,5 +6,5 @@ army: Leagues of Votann
 team: Szczebrzeszyn
 discord: kanemotri
 filename: kanemotri
-phases: [1,2,3,4,5]
+phases: [1,2,3,4,5,7]
 ---

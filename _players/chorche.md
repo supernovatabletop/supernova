@@ -6,5 +6,5 @@ army: Orks
 team: Cirque de Waaghleil
 discord: chorche
 filename: chorche
-phases: [1,2,3,4,5,6]
+phases: [1,2,3,4,5,6,7]
 ---

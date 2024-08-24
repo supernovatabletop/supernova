@@ -40,3 +40,10 @@
   map: phase3_takeandhold
   time_frame: Monat 6 (Juni 2024)
   paring_data: phase6
+7:
+  name: Phase VII
+  points: 2000
+  mission: "Primary: Terraform (Pariah Nexus Tournament Companion), Mission Rule: Swift Action (Pariah Nexus Tournament Companion), Board Size: 60x44"
+  map: phase7_sweepingengagement
+  time_frame: Monat 7 (Juli 2024)
+  paring_data: phase7
