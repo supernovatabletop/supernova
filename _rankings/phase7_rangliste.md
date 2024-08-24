@@ -1,4 +1,4 @@
 ---
 layout: ranking
-phase: 6
+phase: 7
 ---
