@@ -1,4 +1,4 @@
-FALSETRZUplayer_a,player_b,present_a,present_b,painted_a,painted_b,score,winner
+player_a,player_b,present_a,present_b,painted_a,painted_b,score,winner
 aquila,chuhonez,true,true,false,true,71-19,aquila
 aquila,stardewd,true,true,true,false,46-49,stardewd
 army,divado,true,true,false,false,65-0,army
